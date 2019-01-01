@@ -89,7 +89,7 @@ angular.module('App')
   
   <div id="sticky-sidebar-right">
     <div id="advertisement">
-      <p>สนใจติดต่อโฆษณา</p>
+      <p>สนใจติดต่อลงโฆษณา</p>
       <p>088-650-0936</p>
     </div>
   </div>
