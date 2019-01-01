@@ -26,7 +26,7 @@ function DriverLicenseController(_) {
     window.onscroll = function() {myFunction()};
 
     function myFunction() {
-      if (document.body.scrollTop > 960 || document.documentElement.scrollTop > 960) {
+      if (document.body.scrollTop > 930 || document.documentElement.scrollTop > 930) {
         document.getElementById("sticky-sidebar-left").className = "sticky-left";
       } else {
         document.getElementById("sticky-sidebar-left").className = "";
