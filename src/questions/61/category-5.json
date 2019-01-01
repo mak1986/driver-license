@@ -1,0 +1,1869 @@
+{
+  "number": 5,
+  "name": "หมวดป้ายเตือน",
+  "description": "ข้อสอบใบขับขี่หมวดป้ายเตือน จะมีเครื่องหมายจราจรประเภทป้ายเตือน (ป้ายเหลือง) และป้ายเตือนในงานก่อนสร้าง (ป้ายส้ม) ซึ่งสัญลักษณ์เหล่านี้เป็นเครื่องหมายเตือนให้ผู้ใช้ทางระวังอันตรายต่างๆ ตามความหมายในแผ่นเครื่องหมายนั้นๆ เรามาทำความรู้จักข้อสอบใบขับขี่ประเภทป้ายเตือนกันดีกว่า",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และระมัดระวังคนงานกำลังทำงาน อาจมีวัสดุอุปกรณ์วางบนผิดจราจร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และระมัดระวังคนงานกำลังสำรวจทาง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และระมัดระวัง เครื่องจักรกำลังทำงาน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และระมัดระวังคนงานกำลัง สำรวจสิ่งก่อสร้าง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.11.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "วรขับรถให้ช้าลงและระมัดระวัง ทางข้างหน้ากำลังมีงานสำรวจอยู่บนผิวจราจรหรือทางเดินรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง คนกำลังทำงาน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง เครื่องจักรกำลังทำงาน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง สำรวจสิ่งก่อสร้าง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.12.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง ทางข้างหน้ามีคนทำงาน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง ทางข้างหน้ามีรถไฟผ่าน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าสำรวจทาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรขับรถให้ช้าลง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.13.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง ทางข้างหน้ามีสะพานแคบ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าเป็นทางลงลาดชัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง ทางข้างหน้าเป็นทางขึ้นลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าต้องใช้ทางเบี่ยงด้านซ้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.14.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าเป็นทางขึ้นลาดชัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าต้องใช้ทางเบี่ยงด้านขวา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพิ่มความระมัดระวัง ทางข้างหน้าเป็นทางลงลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้ามีสะพานแคบ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.15.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง ทางข้างหน้าเป็นทางโค้งไปทางซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง ทางข้างหน้าเป็นทางโค้งรัศมีแคบไปทางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง ทางข้างหน้าเป็นทางโค้งไปทางขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.04.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถด้วยความเร็ว เพื่อเข้าโค้งจะได้ไม่เสียการทรงตัว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง ทางข้างหน้าเป็นทางโค้งไปทางซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และให้ขับรถชิดด้านซ้ายด้วยความระมัดระวัง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ทางข้างหน้าเป็นทางโค้งรัศมีแคบไปทางขวา",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.06.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และชิดขวา ขับรถไปตามทางโค้งกลับรัศมีแคบเริ่มซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และชิดซ้าย ขับรถไปตามทางโค้งกลับรัศมีแคบเริ่มขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถช้าลง และชิดขวา ขับรถไปตามทางคดเคี้ยวเริ่มซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.16.1.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางซ้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางโทตัดกับทางโทรูปตัวที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัวที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถด้วยความระมัดระวัง ทางข้างหน้าเป็นทางเอกตัดกันรูปตัววาย ( Y )",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.24.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ามีทางโทแยกไปทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความระมัดระวัง ทางเอกแยกทางเอกทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความระมัดระวัง ทางโทแยกทางโททางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความระมัดระวัง ทางเอกแยกทางเอกทางซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.26.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัววาย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัวที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดทางโทรูปตัววาย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกเยื้องกัน เริ่มซ้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.27.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกเยื้องกัน เริ่มขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัววาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัวที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดทางโทรูปตัววาย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.29.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางเอกตัดทางโทรูปตัวที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัววาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโทเชื่อมทางเอกจากซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกตัดกันรูปตัวที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.31.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางโทเชื่อมทางเอกจากขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางโทเชื่อมทางเอกจากซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโทเชื่อมทางโทจากซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกเชื่อมทางเอกจากซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.33.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.35.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกจากซ้าย รูปตัววาย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางเอกแยกทางเอกจากซ้าย รูปตัววาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางเอกจากขวา รูปตัววาย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางโทแยกทางโทจากซ้าย รูปตัววาย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.37.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าจะเป็นทางแยก มีวงเวียน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าเป็นทางแยก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าเป็นทางแคบลง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้ามีทางเอกตัดกัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.39.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางแคบลงด้านขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้งซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางแคบลงด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าแคบลงกว่าทางที่กำลังผ่านทั้งสองด้าน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.41.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางแคบลงทั้งสองด้าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางแคบลงด้านขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางแคบด้านซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางกว้างขึ้นทั้งสองด้าน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.43.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางแคบด้านขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางแคบลงทั้งสองด้าน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางแคบลงด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางกว้างขึ้นทั้งสองด้าน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.45.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง อันตรายจากรถที่สวนมาจากอีกฝั่งหนึ่งของสะพาน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ทางข้างหน้ามีทางแคบลง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ทางข้างหน้ามีช่องการจราจรลดลง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ทางข้างหน้ามีทางแคบด้านซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.48.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดด้านซ้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดด้านขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดทั้งสองด้าน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรลดลงด้านซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.49.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดด้านขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดทั้งสองด้าน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรลดลงด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ช่องจราจรปิดด้านซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.51.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วปกติ แต่ให้ระวังรถไฟกำลังผ่าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และสังเกตดูรถไฟทั้งทางขวาและทางซ้าย ถ้ามีรถไฟกำลังจะผ่าน ควรหยุดรถห่างจากทางรถไฟอย่างน้อย 5 เมตร",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถอย่างรวดเร็ว เพราะมีรถไฟกำลังผ่าน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถได้อย่างรวดเร็วเพราะไม่มีสิ่งกีดขวาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.54.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง พร้อมที่จะหยุดรถ ทางข้างหน้า ไม่มีเครื่องกั้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง พร้อมที่จะหยุดรถ สะพานแคบ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถเร็วได้ ไม่ต้องหยุดรถ ทางข้ามทางรถไฟไม่มีเครื่องกั้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงและพร้อมที่จะหยุดรถ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.56.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง รถมีขนาดกว้างไม่เกิน 2.50 เมตร ให้ผ่านไปได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้ากว้างเกิน 2.50 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าลอดต่ำกว่า 2.50 เมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าสูงกว่า 2.50 เมตร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.60.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางแคบลงไม่เกิน 2.50 เมตร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางกว้างเกิน 2.50 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางสูงเกิน 2.50 เมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง รถที่มีความสูงไม่เกิน 2.50 เมตรให้ผ่านไปได้",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.62.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังอันตรายจากรถที่สวนมา เพราะทางข้างหน้าเป็นทางลาดชันทางขึ้นเขา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ขับรถด้วยความรวดเร็ว เพราะมีหินร่วง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ให้ปลดเกียร์ หรือดับเครื่องทันทีเพื่อความปลอดภัย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางลงลาดชัน ให้ใช้เกียร์",
+          "correct": false,
+          "number": 4
+        },
+        {
+          "type": "text",
+          "content": "ว่าง",
+          "correct": false,
+          "number": 5
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.64.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ปลดเกียร์ หรือดับเครื่องทันทีเพื่อความปลอดภัย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางลงลาดชัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางขึ้นลาดชัน ให้ใช้เกียร์ว่าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความรวดเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.65.JPG",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางข้างหน้าขรุขระมาก เป็นหลุม เป็นบ่อ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ระวังหินร่วง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ผิวทางร่วน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพิ่มความระมัดระวัง ทางลื่น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.70.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง เตือนรถกระโดด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าเป็นแอ่ง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางลงลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวัง ทางขึ้นลาดชัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.72.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงให้มาก และระมัดระวังเป็นพิเศษ ผิวทางร่วน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงให้มาก และระมัดระวังเป็นพิเศษ ทางแคบด้านขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังการลื่นไถล ทางข้างหน้าลื่นอาจเกิดอุบัติเหตุได้ง่าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงให้มาก และระมัดระวังเป็นพิเศษ ทางข้างหน้าเป็นทางโค้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.74.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังอันตราย ทางข้างหน้าอาจมีวัสดุผิวทางหลุดกระเด็น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ระวังหินร่วง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ทางลื่น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวัง ทางคดเคี้ยว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.76.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางข้างหน้าอาจมีหินร่วงลงมาในผิวทาง ทำให้กีดขวางการจราจร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวังเป็นพิเศษ ทางขึ้นลาดชัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวังเป็นพิเศษ ทางลงลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวังเป็นพิเศษ ทางแคบ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.78.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผิวทางขรุขระ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สะพานเปิดได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เตือนรถกระโดด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางเป็นแอ่ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.79.JPG",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ออกทางขนาน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนช่องเดินรถตามสัญลักษณ์ในป้าย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่เปลี่ยนช่องทางจราจร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ออกทางขนาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.81.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางหลัก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถบนทางหลักให้ระมัดระวัง เตรียมตัวออกทางโค้งขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่บนทางขนานเตรียมตัวเข้าทางหลัก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.84.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่บนทางหลักเตรียมตัวออกทางขนาน ผู้ขับขี่บนทางขนานระวังรถที่จะมาร่วมในทิศทางเดียวกัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถในทางหลัก เตรียมเข้าทางคดเคี้ยวเริ่มซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถในทางหลักเตรียมออกทางคดเคี้ยวเริ่มขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.86.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 38
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมในทิศทางเดียวกันจากทางซ้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางโค้งขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางโค้งรัศมีแคบเลี้ยวซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางโค้งซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.88.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 39
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าอาจมีรถเข้ามาร่วมในทิศทางเดียวกันจากทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางร่วมด้านซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางคู่ข้างหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้ามีทางเอกตัดกัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.90.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 40
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางแคบด้านซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางแคบด้านขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง ทางลงลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถชิดไปด้านซ้ายด้วยความระมัดระวัง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.92.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 41
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวังทางข้างหน้าเป็นทางร่วมไม่มีเกาะ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางคู่ข้างหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดซ้าย เพิ่มความระมัดระวัง ทางร่วมด้านซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.94.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 42
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าห้ามกลับรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าจะมีทางโค้งซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้ามีที่กลับรถด้านขวา",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าจะมีที่สิ้นสุดทางคู่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.96.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 43
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้ามีที่กลับรถด้านซ้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สิ้นสุดทางคู่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้งซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.97.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 44
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เดินรถใกล้ขอบทางด้านซ้ายและระมัดระวังอันตรายจากรถที่สวนทางมา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และให้ชิดซ้าย ทางข้างหน้ามีทางเดินรถทางเดียว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และให้ชิดซ้าย ทางข้างหน้ามีทางเดินรถทางเดียวด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และให้ชิดซ้าย ทางข้างหน้ามีทางเดินรถทางเดียวด้านขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.100.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 45
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และพร้อมที่จะปฏิบัติตามสัญญาณไฟจราจร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินรถสองทาง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และพร้อมที่จะกลับรถ ในทางข้างหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และพร้อมที่จะเข้าทางเดินทางเดียวไปข้างหน้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.102.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 46
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับรถเตรียมพร้อมที่จะเลี้ยวซ้ายได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงระมัดระวังคนข้ามทาง เพราะทางข้างหน้ามีทางสำหรับคนข้าม ซึ่งมีคนเดินข้ามไปข้ามมาอยู่เสมอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับรถเตรียมพร้อมที่จะจอดรถได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ผู้ขับรถเตรียมพร้อมที่จะให้ทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.104.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 47
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเตรียมพร้อมที่จะไปในทางเดินรถสองทาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเตรียมพร้อมที่จะให้ทางแก่รถด้านหน้าเมื่อถึงป้ายให้ทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเตรียมพร้อมที่จะไปในทางเดินรถทางเดียว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเตรียมพร้อมที่จะกลับรถข้างหน้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.106.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 48
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพราะทางข้างหน้ามีคนกำลังทำงาน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ระมัดระวังคนข้ามทางเพราะทางข้างหน้ามีชุมชนซึ่งมีคนเดินข้ามไปมาอยู่เสมอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพราะทางข้างหน้ามีเขตโรงเรียนมีเด็กเยอะ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง เพราะทางข้างหน้า ให้ระวังเด็กนักเรียน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.108.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 49
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ระวังคนขโมยของ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ระวังอันตราย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ระวังเด็กนักเรียน ถ้าเป็นเวลาที่โรงเรียนกำลังสอนควรงดใช้เสียงสัญญาณ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ระวังคนข้ามถนน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.110.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 50
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถช้าลง และระมัดระวังคนข้ามถนน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าลง และเพิ่มความระมัดระวัง ทางข้างหน้าอาจมีสัตว์ข้ามทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าลง และระวังเด็กนักเรียน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าลง และระวังอันตราย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.112.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 51
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระวังคนข้ามถนน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระวังเด็กนักเรียน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระวังอันตราย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระวังเครื่องบิน บินต่ำ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.113.JPG",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 52
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และเพิ่มความระมัดระวังทางข้างหน้าอาจมีอันตรายเช่น เกิดอุบัติเหตุทางทรุด เป็นต้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังเด็กนักเรียนเป็นพิเศษ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังสัตว์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังคนข้ามถนนเป็นพิเศษ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.116.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 53
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เขตห้ามแซง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เขตแซงได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เขตให้ทาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เขตให้หยุดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.117.JPG",
+      "question": "เครื่องหมายนี้ หมายความว่าอย่างไร",
+      "number": 54
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ทางตอนนั้นไม่มีการเปลี่ยนแปลง ให้ชิดขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ทางตอนนั้นไม่มีการเปลี่ยนแปลง ให้ชิดซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง ทางตอนนั้นไม่มีการเปลี่ยนแปลง ห้ามแซง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.120.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 55
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สลับกันไป",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้งกลับเริ่มซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้งกลับเริ่มขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้งซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.121.JPG",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 56
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าเป็นทางโค้งไปทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าโค้งกลับเริ่มขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าโค้งซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าโค้งรัศมีแคบเลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.127.JPG",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 57
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และระมัดระวังทางข้างหน้าเป็นทางคดเคี้ยวโดยเริ่มไปทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดขวา ขับรถไปตามทางคดเคี้ยวเริ่มซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดซ้าย ขับรถไปตามทางโค้งกลับรัศมีแคบเริ่มขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง และชิดขวา ขับรถไปตามทางโค้งกลับรัศมีแคบเริ่มซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.5.130.JPG",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 58
+    }
+  ]
+}

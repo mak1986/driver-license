@@ -1,0 +1,1960 @@
+{
+  "number": 12,
+  "name": "หมวดกฎหมายแพ่งพาณิชย์และกฎหมายอาญา",
+  "description": "ข้อสอบใบขับขี่ พร้อมเฉลย หมวดกฎหมายแพ่งพาณิชย์และกฎหมายอาญา ในหมวดนี้อาจมีบางข้อเท่านั้นที่เฉลยคำตอบ แต่ให้อ่านข้อสอบเพื่อเป็นแนวทางสำหรับผู้เตรียมสอบเพื่อขอรับใบอนุญาตขับขี่รถยนต์และรถจักรยานยนต์ได้ครับ",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บุคลคลธรรมดา นิติบุคคล สมาคม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บุคลคลธรรมดา นิติบุคคล",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บุคลคลธรรมดา นิติบุคคล องค์การบริหารส่วนจังหวัด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บุคลคลธรรมดา บริษัทจำกัด สมาคม ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "บุคคลตามประมวลกฎหมายแพ่งและพาณิชย์แบ่งออกได้ดังนี้",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สภาพบุคคลเริ่มแต่คลอดแล้วดอยู่รอดเป็นทารก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สภาพบุคคลเริ่มแต่คลอดแล้วดอยู่รอดเป็นทารก และสิ้นสุดลงเมื่อตาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สภาพบุคคลเริ่มตั้งแต่คลอดและมีชีวิตอยู่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สภาพบุคคลเริ่มตั้งแต่บรรลุนิติภาวะ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือความหมายของการเริ่มของสภาพบุคคล",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บริษัท จำกัด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "องค์กรปกครองส่วนท้องถิ่น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เด็กที่อยู่ในภรรภ์มารดา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ข้อ ก และ ข ถูกต้อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือบุคคลตามกฎหมายแพ่งและพาณิชย์",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทารกนั้นได้คลอดออกมาแล้ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทารกนั้นได้หายใจแล้ว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทารกนั้นเกิดมาเกิน 25 นาทีแล้ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทารกนั้นได้นำไปแจ้งเกิดตามระเบียบราชการแล้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "คำว่า \"การอยู่รอดเป็นทารก\" หมายความว่าอย่างไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เป็นบุคคลที่กฎหมายสมมติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มีหน้าที่เช่นเดียวกับบุคคลธรรมดา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สามารถทำได้ทุกอย่างเหมือนบุคคลธรรมดา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทุกข้อถูกต้อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ความหมายของนิตติบุคคล คือข้อใดไม่ถูกต้อง",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การเลือกตั้งสมาชิกสภาผู้แทนราษฎร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การแต่งงาน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การโอนทรัพย์สิน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การเกณฑ์ทหาร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กิจกรรมใดที่นิติบุคล สามารถกระทำได้เช่นเดียวกับบุคคลธรรมดา",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทวงการเมือง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บริษัทจำกัด สมาคม มูลนิธิ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "องค์การบริหารส่วนจังหวัด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เทศบาล วัดวาอารม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นิตติบุคคลตามประมวลกฎหมายแพ่งและพาณิชย์ คือข้อใด",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บริษัทจำกัด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สมาคม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มูลนิธิ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "องค์การบริหารส่วนจังหวัด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นิติบุคลตามกฎหมายอื่นได้แก่ข้อใด",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นิติกรรม",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สัญญา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พินัยกรรม",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หนังสือราชการ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "\"การกระทำของบุคคลที่กฎหมายยอมรับและบังคับใช้\" เป็นความหมายของข้อใด",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การใด ๆ ที่ทำโดยชอบด้วยกฎหมาย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "กระทำด้วยความสมัครใจ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มุ่งตรงต่อการผูกนิติสัมพันธ์ขึ้นระหว่างบุคคล",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทุกข้อถูกต้อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ความหมายของ นิติกรรม คือข้อใด",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การสั่งการโดยการเขียนเป็นลายลักษณ์อักษร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การสั่งการโดยวาจา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การคิดในใจว่าจะกระทำสิ่งใดสิ่งหนึ่ง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การนิ่งไม่แสดงการปฏิเสธหรือยอมรับ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำอย่างไรไม่ถือว่าเป็นการแสดงเจตนา",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การทำสัญญาซื้อขายเฮโรอีน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การทำสัญญาเช่ารถขนยาเสพติด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การทำสัญญาเช่าซื้อรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การจอดรถในที่ห้ามจอด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำโดยชอบด้วยกฎหมาย คือข้อใด",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก การถูกข่มขู่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การถูกหลอกลวง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การโดนบังคับ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การกระทำโดยปราศจากข้อ ก, ข และ ค",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำด้วยความสมัครใจต้องเป็นการกระทำที่ปราศจากสิ่งใด",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ซื้อ ข้าวแก่ง ชำระด้วยเงินสด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ก กับ ข ตกลงกันว่าเงินที่กู้ไปนั้น ข จะส่งให้เป็นข้าวสารแทนเงิน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ก กับ ข ตกลงกันซื้อขายรถยนต์โดยชำระเงินสด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ก รับจ้างกับ ข เกี่ยวข้าวโดยรับค่าจ้างเป็นเงินสด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำใดเข้าข่ายการเปลี่ยนแปลงสิทธิ",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้เยาว์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คนไร้ความสามารถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "คนเสมือนไร้ความสามารถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "บุคคลใดต่อไปนี้ไม่สามารถทำนิติกรรมได้โดยลำพัง",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บุคคลที่บรรลุนิติภาวะ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บุคคลที่ยังอยู่กับบิดามารดา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บุคคลที่ไม่บรรลุนิติภาวะ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บุคคลที่ยังเรียนอยู่ในระดับมัธยมศึกษา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้เยาว์ หมายถึง",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก คนบ้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คนจิตฟั่นเฟือน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "คนไม่มีงานทำ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "คนวิกลจิตที่ศาลสั่งให้เป็นคนไร้ความสามารถ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "คนไร้ความสามารถ หมายถึง",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "คนที่ไม่สามารถจัดการงานทุกอย่างได้ด้วยตนเอง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คนที่ไม่สามารถมีบุตรได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "คนปกติที่ทำงานที่ได้รับมอบหมายไม่สำเร็จ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "คนที่ไม่สามารถอ่านหนังสือได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "คนเสมือนไร้ความสามารถ หมายถึง",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้เยาว์ทำนิติกรรมได้ แต่นิติกรรมนั้นเป็นโมฆียะ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้เยาว์ทำนิติกรรมได้ ต้องได้รับความยินยอมจากผู้แทนโดยชอบธรรมเสมอ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้เยาว์ทำนิติกรรมได้ แต่นิติกรรมนั้นอาจถูกบอกล้างด้วย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้เยาว์ทำนิติกรรม ข้อใดถูกต้อง",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นิติกรรมที่ผู้เยาว์ทำ หากไม่ได้รับความยินยอมจากผู้อนุบาล นิติกรรมนั้นจะเป็นโมฆียะ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นิติกรรมที่ผู้เยาว์ทำ หากไม่ได้รับความยินยอมจากผู้พิทักษ์ นิติกรรมนั้นจะเป็นโมฆียะ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นิติกรรมที่ผู้เยาว์ทำ หากไม่ได้รับความยินยอมจากผู้แทนโดยชอบธรรม นิติกรรมนั้นจะเป็นโมฆียะ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นิติกรรมที่ผู้เยาว์ทำ หากไม่ได้รับความยินยอมจากผู้ปกครอง นิติกรรมนั้นจะเป็นโมฆียะ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ให้ความพิทักษ์ของคนเสมือนไร้ความสามารถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ให้ความพิทักษ์ของคนไร้ความสามารถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ให้ความพิทักษ์ของผู้เยาว์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ให้ความพิทักษ์ของผู้แทนโดยชอบธรรม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้พิทักษ์ คือใคร",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การกระทำที่ก่อให้เกิดความเสียหายที่ประเมินค่าเป็นตัวเงินได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การกระทำที่ก่อให้เกิดความเสียหายแต่ผู้อื่น",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การกระทำที่ก่อให้เกิดความเสียหายต่อตนเองและแต่ผู้อื่น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ละเมิด คืออะไร",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ขับรถชนรั้วบ้านของตัวเอง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ข ยินยอมให้นาย ก แตะก้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ขับรถชนรั้วบ้านนาย ข",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ถูกหมอที่โรงพยาบาลฉีดยาป้องกันบาดทะยัก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการกระทำละเมิด",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เป็นการกระทำโดยจงใจหรือประมาท",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เป็นการกระทำต่อผู้อื่น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การกระทำนั้นผิดกฎหมาย และผู้อื่นเสียหาย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ต้องเป็นการกระทำที่ประกอบด้วย ก, ข และ ค",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำละเมิด ต้องประกอบด้วยอะไรบ้าง",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ยินยิมให้แพทย์ผ่าตัดใส้ติ่ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตำรวจจับคนร้ายชิงทรัพย์ขังไวในห้องขัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นายทะเบียนพักใช้ใบอนุญาตขับรถตามที่กฎหมายกำหนด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำใดถือว่าไม่เป็นการละเมิด",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เงินสด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คืนเป็นสินทรัพย์ที่เสียหาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เรียกร้องให้จัดหายานพาหนะมาใช้รับ-ส่ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้เสียหายอาจเรียกร้องค่าสินไหมทดแทนเป็นสิ่งใด",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ค่าทำศพๅ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ค่ารักษาพยาบาล",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค่าอุปการะเลี้ยงดูบุตรผู้เสียชีวิต",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ค่าอุปการะบิดามารดาผู้เสียชีวิต",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในกรณีทำละเมิดให้เขาถึงตายทันที ค่าสินไหมทดแทนใดที่ผู้ละเมิดไม่ต้องชดใช้",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นายจ้าง ต้องร่วมรับผิดลูกจ้างที่ก่อเหตุทะเลาะวิวาทเรื่องชู้สาว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บิดามารดาต้องร่วมรับผิดเมื่อผู้เยาว์ทำนิติกรรมซื้อรถทั้งที่ได้แสดงเจตนาบอกเลิกไว้ก่อนแล้ว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ยุยงส่งเสริมให้ถื่อว่ากระทำละเมิดด้วย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บิดาต้องรับผิดชอบหนี้สินที่บุตรบรรลุนิติภาวะได้ก่อหนี้ขึ้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "บุคคลที่จะต้องรับผิดฐานละเมิดร่วมกับผู้อื่นได้แก่ข้อใด",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ภายใน 1 ปีนับแต่วันที่ผู้เสียหายรู้ถึงการละเมิด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 1 ปีนับแต่วันที่ผู้เสียหายแจ้งความ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 10 ปีนับแต่วันที่ผู้เสียหายรู้ถึงการละเมิด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 10 ปีนับแต่วันที่ผู้เสียหายแจ้งความ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากรู้ตัวผู้กระทำการละเมิด อายุความฟ้องคดีอันเกิดจากมูลละเมิดข้อใดถูกต้อง",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ภายใน 5 ปี นับแต่วันละเมิด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 10 ปี นับแต่วันละเมิด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 15 ปี นับแต่วันละเมิด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ภายใน 20 ปี นับแต่วันละเมิด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากไม่รู้ว่าผู้กระทำละเมิดคือใคร อายุความฟ้องคดีอันเกิดจากมูลละเมิดข้อใดถูกต้อง",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สินค้าสูญหายเพราะเกิดเหตุสุดวิสัย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สินค้าสูญหายเพราะเกิดจากความผิดของผู้ตราส่ง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สินค้าสียหายเพราะเกิดจากสภาพแห่งของนั้นเอง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สินค้าเสียหายเพราะส่งมอบชักช้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีใดที่ผู้ขนส่งต้องรับผิดชอบสินค้าที่ทำการขนส่ง",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทรัพย์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทรัพย์สิน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทรัพย์นอกพาณิชย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "อสังหาริมทรัพย์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "วัตถุที่มีรูปร่าง หมายถึงสิ่งใด",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ที่ดิน ทรัพย์ที่อยู่ติดกับที่ดินถาวรหรือประกอบเป็นอันเดียวกับที่ดิน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สิทธิทั้งหลายของทรัพย์อันเกี่ยวกับที่ดิน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ข้อ ก และ ข ถูกต้อง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทรัพย์ที่สามารถแบ่งได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อสังหาริมทรัพย์ หมายถึง",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทะเลสาบ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ที่ดิน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บ้าน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ทรัพย์ต่อไปนี้อะไรเป็นทรัพย์นอกพาณิชย์",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทรพัย์ที่แบ่งได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "อสังหาริมทรัพย์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทรัพย์สินที่โอนแก่กันมิได้ด้วยกฎหมาย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สังหาริมทรัพย์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ทรัพย์นอกพาณิชย์หมายถึง",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้รับประกันภัย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้รับประโยชน์",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้เอาประกัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้รับมอบอำนาจ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในสัญญาประกันภัย \"บุคคลผู้จะพึงได้รับค่าสินไหมทดแทน\" คือใคร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้เอาประกัน กับ ผู้รับประโยชน์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้เอาประกัน กับ ผู้รับประกัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้รับประกัน กับ ผู้รับค่าสินไหมทดแทน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผิดทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการประกันวินาศภัยใครเป็นบุคคลคนเดียวกันได้",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การใช้เช่าอสังหาริมทรัพย์ถ้ามิได้ทำเป็นหนังสือจะฟ้องร้องกันมิได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ถ้าให้เช่าเกินกว่า 3 ปีขึ้นไปต้องทำเป็นหนังสือและจดทะเบียนต่อพนักงานเจ้าหน้าที่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถ้าให้เช่าตลอดอายุต้องทำเป็นหนังสือแต่ไม่ได้จดทะเบียนต่อพนักงานเจ้าหน้าที่จะบังคับได้ 3 ปี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 38
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก จะฟ้องร้องนาง ข ได้และได้รับค่าเช่าครบ 15 ปี",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ก จะฟ้องร้องนาง ข ไม่ได้ เพราะคู่สัญญาไม่ได้ทำเป็นสัญญาเช่า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ก จะฟ้องร้องนาง ข ได้ และได้ค่าเช่าครึ่งหนึ่งของระยะเวลาเช่า 15 ปี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ก จะฟ้องร้องนาง ข ได้ หากนาง ข ไม่จ่ายค่าเช่าแต่จะบังคับได้เพียง 3 ปี",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก ให้นาง ข ที่นาเช่าเป็นทำนา 15 ปี แต่ไม่ได้ทำสัญญาให้เช่า หากนาง ข ไม่ชำระค่าเช่านาย ก จะฟ้องร้องได้หรือไม่อย่างไร",
+      "number": 39
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้เช่าซื้อ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ให้เช่าซื้อ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ผ่อนชำระ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ให้เช่า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สัญญาเช่าซื้อกรรมสิทธิ์เป็นของผู้ใด.",
+      "number": 40
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ซื้อ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขาย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ผ่อนชำระ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขายฝาก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สัญญาขายผ่อนชำระกรรมสิทธิ์เป็นของใคร",
+      "number": 41
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก นำทรัพย์สินนั้นไปซ่อมแซม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข ใช้ราคาทรัพย์สินที่เสียหาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ซื้อทรัพย์สินชนิดและประเภทเดียวกันมาใช้แทน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การชดใช้ค่าสินไหมทดแทนกรณีทำให้ทรัพย์สินเสียหายสามารถทำได้ตามข้อใด?",
+      "number": 42
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ถูกจำคุก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข ถูกปรับ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ถูกริบทรัพย์สิน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ชดใช้ค่าสินไหมทดแทน ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีที่ผู้ขับขี่ขับรถไปชนบุคคลอื่นจนได้รับบาดเจ็บสาหัส นอกจากผู้ขับขี่จะต้องรับผิดทางอาญาแล้ว ผู้ขับขี่ยังจะต้องรับผิดทางแพ่งอย่างไร",
+      "number": 43
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กฎหมายอาญาเป็นกฎหมายว่าด้วยความผิดและการกำหนดดทษ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "กฎหมายอาญาเป็นกฎหมายมหาชน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กฎหมายอาญาเป็นกฎหมายที่ ที่ใช้บังคับแก่คนทั่ว ๆ ไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 44
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ได้ เพราะ บ้านของนาย ข ไม่มีโทรทัศน์จึงไม่ทราบประกาศทางราชการ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ได้ เพราะ ทางราชการไม่ส่งหนังสือแจ้งให้นาย ข ทราบถึงการขึ้นราคาสินค้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะ บ้านของนาย ข อยู่ใกล้สถานีตำรวจ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะ นาย ข จะปฏิเสธว่าไม่รู้กฎหมายเพื่อให้พ้นความผิดไม่ได้",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ข ขายของเกินราคาเนื่องจากอ้างว่าไม่ทราบประกาศของทางราชการได้หรือไม่",
+      "number": 45
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กระทำในสิ่งที่กฎหมายห้ามกระทำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่กระทำในสิ่งที่กฎหมายให้กระทำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กระทำในส่งที่กฎหมายให้กระทำ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ข้อ ก และ ข ถูกต้อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การกระทำที่ก่อให้เกิดความผิดในทางอาญา ได้แก่การกระทำเช่นไร",
+      "number": 46
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ผิดกฎหมายอาญา เนื่องจาก ไม่กระทำในสิ่งที่กฎหมายให้กระทำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ผิดกฎหมายอาญา เนื่องจาก กระทำในสิ่งที่กฎหมายให้กระทำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ไม่ผิดกฎหมายอาญา เนื่องจาก นาย ก เป็นบุคคลภายนอก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ไม่ผิดกฎหมายอาญา เนื่องจาก นาย ก ไม่ได้ยินพนักงานเรียกให้ช่วย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก ไม่เข้าไปช่วยดับเพลิงเมื่อพนักงานเรียกให้ช่วยระงับทั้งที่สามารถช่วยได้แต่นาย ก ไม่ยอมช่วยเหลือพฤติกรรมของ นาย ก่อให้เกิดความผิดทางอาญาหรือไม่อย่างไร",
+      "number": 47
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เจตนาจงใจ กับ เจตนาประมาท",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เจตนาโดยประสงค์ต่อผล และเจตนาโดยย่อมเล็งเห็นผล",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เจตนาทางตรง และ เจตนาทางอ้อม",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ข้อ ข และ ค ถูกต้อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เจตนาตามกฎหมายอาญามี 2 ประเภท",
+      "number": 48
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ใช้ปืนยิง นาย ข ถึงแก่ความตาย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ใช้ปืนยิ่งเข้าไปในรถโดยสารที่บรรทุกผู้โดยสารแน่นคันรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ขว้างก้อนหินเข้าไปในกลุ่มคนที่เข้าคิวรอซื้อตั๋วหนังแน่นขนัด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ยิ่งหนังสติ๊ก เช้าไปในกลุ่มคนที่กำลังเดินขบวนพาเหรด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือเจตนาโดยประสงค์ต่อผล",
+      "number": 49
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ใช้ปืนยิง นาย ข ถึงแก่ความตาย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ใช้ปืนยิ่งเข้าไปในรถโดยสารที่บรรทุกผู้โดยสารแน่นคันรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ข ใช้ไม้มีดแทงนาย ก ถึงแก่ความตาย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ข ดักตีศรีษะนาย ก ได้รับบาดเจ็บสาหัส",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือเจตนาประสงค์ต่อผล",
+      "number": 50
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 5 ปี และปรับไม่เกิน 20,000 บาท",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 10 ปี และปรับไม่เกิน 20,000 บาท",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 10 ปี และปรับไม่เกิน 30,000 บาท",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 10 ปี และปรับไม่เกิน 40,000 บาท",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ใดประมาทและการกระทำนั้นเป็นเหตุให้ผู้อื่นถึงแก่ความตายต้องระวางโทษอย่างไร",
+      "number": 51
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นาย ก ต้องรับผิดฐานทำให้คนตายโดยไม่เจตนา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ต้องรับผิดฐานทำร้ายร่างกาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ต้องรับผิดฐานทำให้คนตายโดยประมาท",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นาย ก ต้องรับผิดฐานทำให้คนตายโดยไม่ประสงค์ต่อผล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก ชกนาย ข หนึ่งที่ ข ล้มลง บังเอิญศีรษะไปโดนแง่หินถึงแก่ความตาย การกระทำเช่นนี้นาย กจะต้งอรับผิดฐานใด",
+      "number": 52
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การนำระเบิดไปฝังไว้ในที่จอดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การใช้นำมันราดทางเดินรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บรรทุกผู้โดยสารในลักษณะห้อยโหน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ความผิดอันก่อให้เกิดอันตรายแก่ประชาชนในการใช้รถใช้ถนนคือข้อใด",
+      "number": 53
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แท้งลูก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เสียแขน 1 ข้าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เจ็บป่วยทุกขเวทนาเป็นเวลา 20 วัน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เสียอวัยวะสืบพันธ์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช้ \"อันตรายสาหัส\"",
+      "number": 54
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การกระทำใด ๆ ให้ของโสโครกเปรอะเปื้อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การดื่มสุราจนครองสติไม่ได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พกพาอาวุธเข้าไปในเมือง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ชักหรือแสดงอาวุธในการทะเลาะวิวาทต่อสู้ ต้องระวางโทษจำคุก 15 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช้ความผิดลหุโทษ",
+      "number": 55
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก นายมิ่งขับรถตัดหน้ารถของนายมากโดยจงใจ ทำให้รถนายมากเสียหลักพลิกคว่ำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข นายเขียวเจตนาขับรถชนนายขาวจนถึงแก่ความตาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค นายเหลี่ยมขับรถที่มีห้ามล้อชำรุดจนเป็นเหตุให้ชนคนตาย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง นายจักรตั้งใจขับรถชนนายจง แต่พลาดไปถูกนายจันบาดเจ็บสาหัส",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถโดยประมาทหมายถึงข้อใด?",
+      "number": 56
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ค่าปลงศพ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข ค่ารักษาพยาบาล",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ค่าขาดไร้อุปการะ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในกรณีขับรถโดยประมาทชนผู้อื่นจนได้รับอันตรายสาหัส ผู้ขับรถต้องชดใช้ค่าสินไหมทดแทนตามข้อใด?",
+      "number": 57
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ขับรถประมาทชนผู้อื่นถึงแก่ความตาย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข ขับรถนายจ้างไปชนรถคันอื่นได้รับความเสียหายโดยเจตนา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ขับรถด้วยความเร็วเฉี่ยวคนกำลังข้ามทางม้าลายล้มแขนหัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีตามข้อใดที่ผู้ขับรถต้องรับผิดทางอาญา?",
+      "number": 58
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ตาบอดหรือหูหนวก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข บาดเจ็บรักษาตัวเกินกว่า 20 วัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ขาหักหรือแขนขาด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อันตรายสาหัสหมายถึงข้อใด?",
+      "number": 59
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ศาลพิพากษาว่านายวินัยไม่มีความผิด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข ศาลพิพากษาว่านายวินัยไม่ต้องรับโทษ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ศาลพิพากษาว่านายวินัยมีความผิดแต่รอการลงโทษไว้",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นายวินัยขับรถโดยประมาทเป็นเหตุให้นายสมพลถึงแก่ความตาย และศาลลงโทษจำคุกไม่เกินสองปีแต่เนื่องจากนายวินัยไม่เคยต้องโทษในคดีอาญามา ก่อน ศาลจึงรอลงอาญาไว้ ท่านเข้าใจว่ารอลงอาญาหมายถึงข้อใด?",
+      "number": 60
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ประหารชีวิต",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข จำคุกไม่เกิน 10 ปี และปรับไม่เกิน 20,000 บาท",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค จำคุกตลอดชีวิต",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ริบทรัพย์สิน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีที่ผู้ขับขี่ขับรถโดยประมาทไปชนบุคคลอื่นใดจนถึงแก่ความตาย นอกจากผู้ขับขี่จะต้องใช้ค่าสินไหมทดแทนในทางแพ่งแล้ว ผู้ขับขี่จะต้องรับโทษทางอาญาในข้อใด?",
+      "number": 61
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก ความผิดซึ่งต้องระวางโทษจำคุกไม่เกินหนึ่งเดือนหรือปรับไม่เกินหนึ่งพันบาทหรือทั้งจำทั้งปรับ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข จำคุกตลอดชีวิต",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ประหารชีวิต",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง จำคุก 50 ปี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ความผิดลหุโทษหมายถึงข้อใด?",
+      "number": 62
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก 1 ปี นับแต่วันที่ผู้เสียหายรู้ถึงละเมิด และรู้ตัวผู้จะต้องใช้ค่าสินไหมทดแทน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ข 10 ปี นับแต่วันทำละเมิด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค ไม่มีกำหนดระยะเวลา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ง ถูกทั้งข้อ ก. และ ข.",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย กนกขับรถด้วยความเร็วชนรถยนต์นายขมับได้รับความเสียหาย กรณีดังกล่าวนายขมับจะต้องเรียกค่าเสียหายทางแพ่งภายในกำหนดเวลาเท่าใด?",
+      "number": 63
+    }
+  ]
+}

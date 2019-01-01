@@ -1,0 +1,359 @@
+{
+  "number": 3,
+  "name": "หมวดเครื่องหมายพื้นทางจำนวน",
+  "description": "ข้อสอบใบขับขี่พร้อมเฉลย หมวดเครื่องหมายพื้นทาง นี้เป็นการดูเครื่องหมายพื้นทางที่แสดงบนพื้นถนนหรือหากเห็นสัญลักษณ์ดังกล่าว เราในฐานะผู้ขับขี่รถยนต์และรถจักรยานยนต์ควรปฏิบัติอย่างไร",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.แล้วหยุดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.เขตหยุดรับ-ส่ง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงถ้าเห็นว่าจะไม่ปลอดภัยต่อรถคันอื่นหรือคนเดินเท้าในทางข้างหน้า ต้องหยุดรถก่อนถึงเส้นให้ทาง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.แล้วจอดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.1.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร?",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เส้นชะลอความเร็ว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวรถได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้จอดรถได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.2.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร?",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถไปทางเดียวด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่อยู่ด้านเส้นทึบห้ามผ่านหรือคร่อมเส้นทึบ แต่รถที่อยู่ด้านเส้นประอาจแซงได้เมื่อเห็นว่าปลอดภัย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.3.jpg",
+      "question": "เครื่องหมายนี้ หมายความว่าอย่างไร? ",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สามารถเปลี่ยนช่องเดินรถหรือช่องจราจรหรือสามารถแซงได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถตรงไปหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้ายหรือเลี้ยวขวา ห้ามเปลี่ยนช่องการจราจร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถไปทางเดียวด้านซ้าย ห้ามเปลี่ยนช่องการจราจร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.4.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร? ",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ชะลอความเร็วลง.และรีบเร่งเครื่องไปก่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง.หากเห็นรถคันอื่นหรือคนเดินเท้าในทางขวางหน้า ต้องหยุดรถก่อนถึงแนวเส้นให้ทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ขับรถอย่างรวดเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ ขับรถให้ช้าลง.แล้วแซงได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.5.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร?",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้จอดรถทับเส้นได้ตลอดเวลา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เขตหยุดรับ-ส่ง.ได้ตลอดเวลา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้หยุดรถก่อนถึงเส้นแนวหยุดหรือเส้นให้ทาง.เพื่อให้คนเดินเท้าข้ามทางผ่านไปก่อน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้หยุดรถทับเส้นได้ตลอดเวลา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.6.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร?",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถภายในช่องจราจร ห้ามแซง.ห้ามขับรถผ่านหรือคร่อมเส้นโดยเด็ดขาด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง.ให้เลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปทางด้านขวา ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.ห้ามเลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.7.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.และห้ามแซง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถในช่องการจราจร ห้ามคร่อมเส้น แต่แซงได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวัง.ห้ามเปลี่ยนช่องการจราจร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลง.ขับรถคร่อมเส้นได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.8.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ขับรถอย่างรวดเร็ว เส้นให้ไปได้ทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ ขับรถให้ช้าลง.แล้ว แซงได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้หยุดรถก่อนถึงแนวเส้นขวางทุกครั้ง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่ชะลอความเร็วลง.และรีบเร่งเครื่องไปก่อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.9.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เขตหยุดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เขตหยุดรับ-ส่ง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เขตปลอดภัย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เขตจอดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.10.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามหยุดรถทุกชนิดภายในกรอบเส้นทแยง.ห้ามหยุดรถยกเว้นรถที่หยุดรอเพื่อเลี้ยวขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ทุกชนิด จอดรถได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ทุกชนิด หยดรถได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ทุกชนิด กลับรถได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.3.11.jpg",
+      "question": "เครื่องหมายนี้ หมายความว่าอย่างไร",
+      "number": 11
+    }
+  ]
+}

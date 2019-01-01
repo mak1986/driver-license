@@ -1,0 +1,2729 @@
+{
+  "number": 1,
+  "name": "หมวดกฎหมายว่าด้วยรถยนต์",
+  "description": "รวมข้อสอบใบขับขี่รถยนต์และรถจักรยานยนต์ พร้อมเฉลย จำนวน 88 ข้อ หมวดกฎหมายว่าด้วยรถยนต์ เหมาะสำหรับผู้เตรียมตัวสอบเพื่อขอรับใบอนุญาตขับขี่รถยนต์และรถจักรยานยนต์ ต่อเป็นนี้เป็นแนวข้อสอบภาคทฤษฏีที่ใช้ในการสอบใบขับขี่",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บัตรประจำตัวประชาชน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สำเนาทะเบียนบ้าน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สำเนาภาพถ่ายใบคู่มือจดทะเบียนรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บัตรประกันสังคม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะขับรถผู้ขับขี่ต้องมีเอกสารใดใช้คู่กับใบอนุญาตขับรถ",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "10 วัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "7 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "30 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถกระทำผิดตามกฎหมายจราจรทางบกและได้รับใบสั่งจากเจ้าพนักงานจราจรต้องไปติดต่อชำระค่าปรับภายในกี่วัน",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "20 วัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "30 วัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "45 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อใบอนุญาตขับรถสูญหายหรือชำรุดต้องยื่นขอรับใบแทนต่อนายทะเบียนภายในกี่วัน",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 1 ปี",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 1 เดือน หรือปรับไม่เกิน 1,000 บาท หรือทั้งจำทั้งปรับ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 2,000 บาท",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 5,000 บาท",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถไม่มีใบอนุญาตขับรถ มีความผิดอย่างไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 ปี",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "2 ปี",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 ปี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "4 ปี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ใบอนุญาตขับรถชนิดชั่วคราวมีอายุกี่ปี",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปรับไม่เกินห้าพันบาท",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกินสามเดือน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกินสองพันบาท",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกินหนึ่งเดือน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถใช้ใบอนุญาตขับรถที่สิ้นอายุมีความผิดอย่างไร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ร้อยละ 1 ต่อเดือน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ร้อยละ 1 ต่อปี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ร้อยละ 10 ต่อเดือน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ร้อยละ 20 ต่อปี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ไม่เสียภาษีประจำปีภายในกำหนดจะต้องเสียเงินเพิ่มเท่าใด",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "45 วัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "20 วัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "30 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การโอนรถต้องแจ้งต่อนายทะเบียนภายในกี่วัน",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "7 วัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "10 วัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "20 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเปลี่ยนสีรถต้องแจ้งต่อนายทะเบียนภายในกี่วัน",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "3 เดือน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "4 เดือน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "6 เดือน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "5 เดือน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การต่ออายุใบอนุญาตขับรถส่วนบุคคล (5 ปี) สามารถต่อก่อนล่วงหน้าได้เท่าใด",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "5 ปี ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "6 ปี ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 ปี ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "7 ปี",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถยนต์ที่มีอายุครบกี่ปีต้องนำไปตรวจสภาพรถก่อนเสียภาษีประจำปี",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "25 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "20 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การย้ายรถต้องแจ้งต่อนายทะเบียนภายในกี่วัน",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 ปี ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "3 ปี ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "2 ปี ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "5 ปี",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถจักรยานยนต์ที่มีอายุครบกี่ปีต้องนำไปตรวจสภาพรถก่อนเสียภาษีประจำปี",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์ รถจักรยานยนต์ รถพ่วง.รถบดถนน รถแทรกเตอร์ และรถอื่นที่กำหนดในกฎกระทรวง ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ รถจักรยานยนต์ รถพ่วง. ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ รถจักรยานยนต์ รถพ่วง.รถบดถนน รถแทรกเตอร์ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ รถจักรยานยนต์ รถพ่วง.รถแทรกเตอร์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ตาม พ.ร.บ.รถยนต์ พ.ศ.2522 \"รถ\" หมายความว่า",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถสาธารณะ รถยนต์บริการ และรถยนต์ส่วนบุคคล รถแท็กซี่ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถสาธารณะ รถยนต์บริการ และรถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์สาธารณะ รถยนต์บริการ และรถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถสาธารณะ รถยนต์บริการ และรถยนต์ส่วนบุคคล",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ตาม พ.ร.บ.รถยนต์ พ.ศ.2522 \"รถยนต์\" หมายความว่า",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่เดินรถกำลังเครื่องยนต์หรือกำลังไฟฟ้าและมีล้อไม่เกินสองล้อ ถ้ามีถ่วงข้างมีล้ออีกไม่เกินหนึ่งล้อ ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถที่เดินรถกำลังเครื่องยนต์หรือกำลังไฟฟ้าและมีล้อไม่เกินสองล้อ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถที่เดินรถกำลังเครื่องยนต์มีล้อไม่เกินสองล้อ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่เดินรถกำลังเครื่องยนต์หรือกำลังไฟฟ้าและมีล้อเกินสองล้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ตาม พ.ร.บ.รถยนต์ พ.ศ.2522 \"รถจักรยานยนต์\" หมายความว่า",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถแท็กซี่ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์รับจ้างสาธารณะ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถสามล้อรับจ้างสาธารณะ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่ \"รถยนต์รับจ้างสาธารณะ\"",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์ให้เช่าซึ่งบรรทุกคนโดยสารไม่เกินเจ็ดคน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์บรรทุกคนโดยสารซึ่งบรรทุกคนโดยสารไม่เกินเจ็ดคน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์บรรทุกคนโดยสารหรือให้เช่าซึ่งบรรทุกคนโดยสารไม่เกินเจ็ดคน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์บรรทุกคนโดยสารหรือให้เช่าซึ่งบรรทุกคนโดยสารเกินเจ็ดคน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ตาม พ.ร.บ.รถยนต์ พ.ศ.2522 \"รถยนต์บริการ\" หมายความว่า",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถแท็กซี่ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถสามล้อรับจ้างสาธารณะ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ป้ายแดง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือ \"รถยนต์ส่วนบุคคล\"",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่โคมไฟหน้าไม่ติด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีเสียงดัง.90 เดซิเบล A ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีควันดำ 55 เปอร์เซ็นต์ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่จดทะเบียนและชำระภาษีเรียบร้อยแล้ว",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่นำมาใช้บนถนนต้องมีลักษณะอย่างไร",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถต้องมีอุปกรณ์ส่วนควบถูกต้องและผ่านการตรวจสภาพรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถต้องมีอุปกรณ์ส่วนควบถูกต้อง ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถที่ซื้อจากศูนย์จำหน่ายรถทั่วไป ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่ผ่านการตรวจสภาพรถจาก.สภานตรวจภาพรถเอกชน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่สามารถนำมาจดทะเบียนต้องมีลักษณะอย่างใด",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถของวัด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถสำหรับเฉพาะพระองค์พระบาทสมเด็จพระเจ้าอยู่หัว",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของผู้บัญชาการทหารสูงสุด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องจดทะเบียน",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถของวัด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถของกรมตำรวจที่จดทะเบียนและมีเครื่องหมายตามระเบียบที่อธิบดีกำหนด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถของสภากาชาดไทย ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิเพื่อนพึ่งภายามยาก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องจดทะเบียน",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถของสำนักพระราชวังที่จดทะเบียนและมีเครื่องหมายตามระเบียบที่เลขาธิการพระราชวังกำหนด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถสำหรับเฉพาะพระองค์พระบาทสมเด็จพระเจ้าอยู่หัว ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถของกรมตำรวจที่จดทะเบียนและมีเครื่องหมายตามระเบียบที่อธิบดีกำหนด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทุกข้อถูกต้อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องจดทะเบียน",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่เจ้าของรถแจ้งการไม่ใช้รถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์นำเข้า ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถสามล้อส่วนบุคคล ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์นำมาใช้ในหมู่บ้าน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องจดทะเบียน",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่ผู้ผลิตหรือประกอบเพื่อจำหน่ายหรือที่ผู้นำเข้าเพื่อจำหน่าย ผลิต ประกอบหรือนำเจ้า และยังมิได้จำหน่ายให้แก่ผู้อื่น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถสามล้อส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์นำมาใช้ในหมู่บ้าน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของวัด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องจดทะเบียน",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์รับจ้าง ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถดับเพลิง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถตู้ส่วนบุคคล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถพยาบาลที่มิใช่เป็นรถสำหรับรับจ้าง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถตู้ส่วนบุคคล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถตู้ส่วนบุคคล ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถของวัด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของกระทรวง.ทบวง.กรม เทศบาล องค์การบริหารส่วนจังหวัด สุขาภิบาล กรุงเทพมหานคร เมืองพัทยา และราชการส่วนท้องถิ่นที่เรียกชื่ออย่างอื่น ทั้งนี้ เฉพาะรถที่มิได้ใช้ในทางการค้าหรือกำไร",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถบดถนนของเอกชน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถบดของรัฐวิสาหกิจ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถแทรกเตอร์ของเอกชน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถแทรเตอร์ส่วนบุคคล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถแทรกเตอร์ของเอกชน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถแทรกเตอร์ของรัฐวิสาหกิจ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถบดถนนของเอกชน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถบดถนนของผู้ว่าราชการจังหวัด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถของสภากาชาดไทย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิร่วมกตัญญู ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถของวัด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธ่สายใจไทย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถของบุคคลในคณะผู้แทนทางการทูต",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิร่วมกตัญญู ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถของวัด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถของมูลนิธิสายใจไทย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถดับเพลิงของ.อบต.",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถตู้ส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถตู้รับจ้าง ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถต่อไปนี้ได้รับการยกเว้นไม่ต้องเสียค่าธรรมเนียมเว้นแต่ค่าธรรมเนียมแผ่นป้ายทะเบียนรถ",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ยื่นคำขอต่อนายทะเบียนที่สำนักงานขนส่งจังหวัดทุกแห่ง ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยื่นคำขอต่อนายทะเบียนแห่งท้องที่ที่ตนมีภูมิลำเนา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ยื่นคำขอต่อนายทะเบียนที่กรมการขนส่งทางบก ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ยื่นคำขอต่อนายทะเบียนตามสถานที่ตั้งที่จำหน่ายรถนั้น ๆ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ประสงค์จดทะเบียนรถต้องยื่นคำขอที่ใด",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดำเนินการเปลี่ยนสีได้ทันที ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แจ้งนายทะเบียนภายใน 15 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แจ้งนายทะเบียนภายใน 30 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แจ้งนายทะเบียนภายใน 7 วัน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่จดทะเบียนแล้ว หากประสงค์จะเปลี่ยนสีรถต้องดำเนินการอย่างไร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปลี่ยนแปลงแล้ว จึงจะมาดำเนินการที่สำนักงานขนส่ง ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขออนุญาตนายทะเบียน ตามภูมิลำเนาที่จดทะเบียนรถ ค.ต้องแจ้งเปลี่ยนแปลงภายใน 15 วัน ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องแจ้งการเปลี่ยนแปลงเพราะไม่ใช่สาระสำคัญของตัวรถ",
+          "correct": false,
+          "number": 3
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากประสงค์เปลี่ยนแปลงตัวถังรถต้องดำเนินการอย่างไร",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เจ้าหน้าที่กรมการขนส่งทางบก.ที่รัฐมนตรีว่าการกระทรวงคมนาคมแต่งตั้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เจ้าหน้าที่กรมการขนส่งทางบก ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เจ้าหน้าที่ บริษัทขนส่ง.จำกัด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เจ้าหน้าที่กรมการขนส่งทางบก.และเจ้าหน้าที่ตำรวจ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ตรวจการตาม พ.ร.บ. รถยนต์ คือใคร",
+      "number": 38
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "7 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "60 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากประสงค์จะย้ายรถ เจ้าของรถต้องแจ้งย้ายรถต่อนายทะเบียนภายในกี่วัน",
+      "number": 39
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มีความผิด ต้องชำระค่าปรับแจ้งย้ายเกินกำหนด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่เสียค่าปรับ เนื่องจากจำเป็น ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถไม่สามารถแจ้งย้ายได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผิดทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีเจ้าของรถมีภารกิจไม่สามารถมาดำเนินแจ้งย้ายรถต่อนายทะเบียนภายในเวลาที่กฎหมายกำหนด ข้อใดถูกต้อง.",
+      "number": 40
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "60 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "25 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากประสงค์จะโอนรถเจ้าของรถต้องแจ้งโอนรถต่อนายทะเบียนภายในกี่วัน",
+      "number": 41
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่เสียค่าปรับ เนื่องจากจำเป็น ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มีความผิด ต้องชำระค่าปรับโอนเกินกำหนด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถไม่สามารถแจ้งย้ายได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผิดทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีเจ้าของรถมีภารกิจไม่สามารถมาดำเนินแจ้งโอนรถต่อนายทะเบียนภายในเวลาที่กฎหมายกำหนด ข้อใดถูกต้อง.",
+      "number": 42
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์ส่วนบุคคล นำมาใช้รับจ้างได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล ห้ามนำมาใช้ในการรับจ้างบรรทุกผู้โดยสาร ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์สาธารณะ ใช้เพื่อการรับจ้างบรรทุกผู้โดยสาร ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์สาธารณะ ใช้ในกิจการส่วนตัวได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดผิด",
+      "number": 43
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ได้ เพราะภรรยานาย ก.เป็นคนในครอบครัว ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ได้ เพราะรถจักรยานยนต์สาธารณะสามารถนำมาใช้กิจการส่วนตัวของเจ้าของรถได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะรถจักรยานยนต์สาธารณะต้องนำมารับจ้างเท่านั้น ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะ รถจักรยานยนต์สาธารณะห้ามใช้ในกิจการส่วนบุคคลของเจ้าของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก.นำรถจักรยานยนต์สาธารณะของตนเองรับส่งภรรยาไปตลาดได้หรือไม่อย่างไร",
+      "number": 44
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์สาธารณะ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์ส่วนบุคคล ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถตู้ส่วนบุคคล",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถประเภทใดต่อไปนี้ใช้รับจ้างบรรทุกคนโดยสารได้",
+      "number": 45
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับได้ตั้งแต่เวลา 08.00 น. ถึง.16.00 น. ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับได้ตลอดเวลา ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับเพราะยังไม่ได้เสียภาษี ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับได้ระหว่างพระอาทิตย์ขึ้นจนถึงพระอาทิตย์ตก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถยนต์ ไว้เพื่อขายหรือเพื่อซ่อม (ป้ายแดง) ตามกฎหมายว่าด้วยรถยนต์ ขับได้ในช่วงเวลาใด",
+      "number": 46
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": " ร้อยละ 1 บาทต่อเดือน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": " ร้อยละ 1 บาทต่อปี ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": " ร้อยละ 10 บาทต่อเดือน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": " ร้อยละ 10 บาทต่อปี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ไม่ได้เสียภาษีภายในเวลาที่กำหนดต้องชำระเงินเพิ่มร้อยละเท่าใด",
+      "number": 47
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทะเบียนระงับ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สามารถนำรถไปตรวจสภาพและต่อภาษีประจำปีได้ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สามารถกระทำได้ตามข้อ 1 และ 2 ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สามารถนำรถไปแจ้งไม่ใช้ตลอดไปและจดทะเบียนใหม่ได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ค้างชำระภาษีประจำปีติดต่อกันครบสามปี จะมีผลตามกฎหมายอย่างใด",
+      "number": 48
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถยนต์อายุการใช้งานครบ 5 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์อายุการใช้งานครบ 7 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์อายุการใช้งานครบ 7 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์อายุการใช้งานครบ 10 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 49
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์อายุการใช้งานครบ 5 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์อายุการใช้งานครบ 5 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์อายุการใช้งานครบ 7 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถยนต์อายุการใช้งานครบ 10 ปี ประสงค์จะต่อภาษีประจำปีต้องนำรถไปตรวจที่สถานตรวจสภาพเอกชน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 50
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ขับรถต้องมีสำเนาใบอนุญาตขับรถ และใบคู่มือจดทะเบียนรถ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถต้องมีใบอนุญาตขับรถ และใบคู่มือจดทะเบียนรถ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถต้องมีใบอนุญาตขับรถ และสำเนาภาพถ่ายใบคู่มือจดทะเบียนรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับรถต้องมีสำเนาใบอนุญาตขับรถ และสำเนาใบคู่มือจดทะเบียนรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้องในขณะขับรถ",
+      "number": 51
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถยนต์ส่วนบุคคลได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถยนต์สามล้อส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สามล้อสาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 52
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถจักรยานยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สามล้อสาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถยนต์สามล้อส่วนบุคคลได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 53
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สามล้อสาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถยนต์สามล้อส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สาธารณะ ใช้แทน ใบอนุญาตขับรถจักรยานยนต์ส่วนบุคคลได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใบอนุญาตขับรถยนต์สามล้อสาธารณะ ใช้แทน ใบอนุญาตขับรถยนต์สามล้อส่วนบุคคลได้",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 54
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 ปี ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "2 ปี",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 ปี ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "5 ปี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ใบอนุญาตขับรถส่วนบุคคลชั่วคราวมีอายุกี่ปี",
+      "number": 55
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สามารถเปลี่ยนได้ล่วงหน้า 30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สามารถเปลี่ยนได้ล่วงหน้า 60 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สามารถเปลี่ยนได้ล่วงหน้า 1 เดือน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สามารถเปลี่ยนได้ล่วงหน้า 3 เดือน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากประสงค์จะเปลี่ยนประเภทใบอนุญาตขับรถยนต์ส่วนบุคคลชั่วคราวเป็นประเภทส่วนบุคคลชนิด 5 ปี ข้อใดถูกต้อง",
+      "number": 56
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 เดือน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "3 เดือน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "4 เดือน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "6 เดือน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ใบอนุญาตขับรถส่วนบุคคลชนิด 5 ปีต่ออายุล่วงหน้ากี่เดือน",
+      "number": 57
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สำนักงานขนส่งจังหวัด และสำนักงานขนส่งจังหวัดสาขา ทุกแห่ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สำนักงานขนส่งจังหวัดเชียงใหม่ ยกเว้น กรุงเทพมมหานคร ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สำนักงานขนส่งจังหวัดเชียงใหม่ ยกเว้น สำนักงานขนส่งจังหวัดยะลา สาขาอำเภอเบตง ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผิดทุกข้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก.เกิดที่จังหวัดเชียงใหม่ ประสงค์ขอรับใบอนุญาตขับรถยนต์ส่วนบุคคลชั่วคราว จะต้องไปดำเนินการที่ใด",
+      "number": 58
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ต่ำกว่า 15 ปี บริบูรณ์ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต่ำกว่า 16 ปี บริบูรณ์ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต่ำกว่า 17 ปี บริบูรณ์ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต่ำกว่า 18 ปี บริบูรณ์",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขอรับใบอนุญาตขับรถยนต์ชั่วราวต้องมีอายุกี่ปี",
+      "number": 59
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะ นายชายเป็นผู้มีร่างกายพิการ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่ได้ เพราะ ขัดต่อระเบียบกรมการขนส่งทางบก ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ได้ เพราะ หากนายชายมีบัตรผู้พิการ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ได้ เพราะ ไม่เป็นผู้มีร่างกายพิการจนเป็นที่เห็นได้ว่าไม่สามารถขับรถได้",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นายชาย พิการไม่มีนิ้วมือข้างซ้าย ประสงค์ขอรับใบอนุญาตขับรถยนต์ชั่วคราวได้หรือไม่",
+      "number": 60
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นายชาย ไม่เป็นผู้มีร่างกายพิการจนเป็นที่เห็นได้ว่าไม่สามารถขับรถได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นางหญิงเป็นบุคคลวิกลจริตหรือจิตฟั่นเฟือน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นายดำ เป็นผู้อยู่ระหว่างถูกยึดใบอนุญาต ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นางแดง.เป็นวัณโรค",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "บุคคลในข้อต่อไปนี้บุคคลใดสามารถขอรับใบอนุญาตขับรถได้",
+      "number": 61
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นายแดง.ไม่เป็นบุคคลวิกลจริตหรือจิตฟั่นเฟือน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นายแดงต้องได้รับใบอนุญาตขับรถมาแล้วไม่น้อยกว่า 1 ปี ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นายแดง.ไม่เป็นผู้มีร่างกายพิการจนเป็นที่เห็นได้ว่าไม่สามารถขับรถได้ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นายแดง.ประสงค์ขอรับใบอนุญาตขับรถยนต์สาธารณะ ข้อใดถูกต้อง",
+      "number": 62
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ต้องรู้จักถนนและทางหลวงในจังหวัดที่ขอรับใบอนุญาตขับรถพอสมควร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "อายุครบ 20 ปีบริบูรณ์ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มีประสบการณ์ในการขับรถมาแล้วอย่างน้อย 5 ปี ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ต้องมีใบอนุญาตขับรถจักรยานยนต์และใบอนุญาตขับรถยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขอรับใบอนุญาตขับรถยนต์สาธารณะต้องมีคุณสมบัติอย่างไร",
+      "number": 63
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มีสัญชาติไทย ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ต้องรู้จักถนนและทางหลวงในจังหวัดที่ขอรับใบอนุญาตขับรถพอสมควร ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่เป็นผู้ติดสุรายาเมาหรือยาเสพติดให้โทษ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้อง",
+      "number": 64
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แจ้งให้นายทะเบียนเพื่อเพิกถอนใบอนุญาตและนำใบอนุญาตขับรถที่ถูกเพิกถอนส่งคืนกรมการขนส่งทางบก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แจ้งให้นายทะเบียนเพื่อเพิกถอนใบอนุญาต ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ใบอนุญาตขับรถนั้นต่อไป ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นำใบอนุญาตขับรถที่ถูกเพิกถอนส่งคืน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากปรากฏภายหลังว่าเป็นผู้ขาดคุณสมบัติในการขอรับใบอนุญาตขับรถ ท่านจะปฏิบัติอย่างไร",
+      "number": 65
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "45 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "60 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีถูกพักใช้ใบอนุญาตขับรถมีสิทธิอุทธรณ์ได้ภายในกี่วัน",
+      "number": 66
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "45 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "60 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีถูกเพิกถอนใบอนุญาตขับรถมีสิทธิอุทธรณ์ได้ภายในกี่วัน",
+      "number": 67
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "60 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "90 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีถูกพักใช้หรือเพิกถอนใบอนุญาตขับรถมีสิทธิอุทธรณ์ได้ภายในกี่วัน",
+      "number": 68
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "60 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "90 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ได้รับใบอนุญาตขับรถที่ถูกสั่งเพิกถอนใบอนุญาตขับรถต้องส่งคืนใบอนุญาตขับรถให้แก่นายทะเบียนภายในกี่วัน",
+      "number": 69
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "60 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "90 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ใบอนุญาตขับรถสูญหายต้องแจ้งนายทะเบียนภายในกี่วันนับแต่วันทราบเหตุนั้น",
+      "number": 70
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "30 วัน ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "60 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "90 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ใบอนุญาตขับรถชำรุดในสาระสำคัญต้องแจ้งนายทะเบียนภายในกี่วันนับแต่วันทราบเหตุนั้น",
+      "number": 71
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "7 วัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "3 วัน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "10 วัน ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "15 วัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อกระทำผิดตามกฎหมายว่าด้วยรถยนต์ และได้รับคำสั่งผู้ตรวจการรถยนต์ให้ไปรายงานตัวผู้ขับรถจะต้องไปรายงานตัว ต่อนายทะเบียนภายในกี่วัน",
+      "number": 72
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้โดยสารเป็นบุคคลวิกลจริต ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้โดยสารเมาสุรา ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้โดยสารนำทุเรียนส่งกลิ่นขึ้นมาบนรถ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถูกทุกข้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีใดผู้ขับรถยนต์สาธารณะสามารถปฎิเสธไม่รับจ้างบรรทุกคนโดยสารได้",
+      "number": 73
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่ตกลงกันไว้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่สั้นที่สุด ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่เร็วที่สุด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่อ้อม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถยนต์สาธารณะต้องปฏิบัติอย่างไร",
+      "number": 74
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่สั้นที่สุด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่ตกลงกันไว้ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่เร็วที่สุด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พาผู้โดยสารไปยังสถานที่ที่ว่าจ้างตามเส้นทางที่อ้อม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถยนต์สาธารณะต้องปฏิบัติอย่างไร",
+      "number": 75
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปฎิเสธผู้โดยสารในเส้นทางที่จราจรติดขัด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่สูบบุหรี่",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ใบอนุญาตขับรถยนต์ส่วนบุคคลแทนเมื่อใบอนุญาตขับรถยนต์สาธารณะขาดอายุ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดวิทยุเสียงดังเพื่อให้ผู้โดยสารฟังแก้เครียด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 76
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดวิทยุเสียงดังเพื่อให้ผู้โดยสารฟังแก้เครียด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พูดคุยเสียงดังรบกวนผู้อื่น ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ทำตนน่ารำคาญ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 77
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พูดคุยเสียงดัง ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใส่เสื้อยืดขับรถ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่กล่าววาจาไม่สุภาพ เสียดสี",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 78
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ก้าวร้าว ดูหมิ่นผู้โดยสาร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พูดคุยเสียงดัง ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใส่เสื้อยืดขับรถ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 79
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตักเตือนผู้โดยสารเมื่อแต่งกายไม่สุภาพ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใส่เครื่องแบบพนักงานขับรถในเส้นทางที่เจ้าหน้าที่ตั้งด่านตรวจประจำ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่เสพสุราของมึนเมา",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขับรถผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 80
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดวิทยุเสียงดังเพื่อให้ผู้โดยสารฟังแก้เครียด ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่เสพยาเสพติดให้โทษ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถตามความต้องการข้องผู้ดดยสาร ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 81
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่เสพวัตถุออกฤทธิ์ต่อจิตประสาท",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วเมื่อผู้โดยสารเร่งรีบ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตามใจผู้โดยสารเพื่อให้ถึงจุดหมายให้เร็วที่สุด ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สูบบุหรี่แก้เครียดเวลารถติด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 82
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชวนผู้โดยสารคุยเพื่อความเป็นกันเอง ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อง่วงก็ขออนุญาตผู้โดยสารจอดนอน ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ขับรถในขณะหย่อนความสามารถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แจกหมายเลขโทรศัพท์เพื่อหาลูกค้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "1.83ผู้ขับรถสาธารณะต้องปฏิบัติตนอย่างไร",
+      "number": 83
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 1 เดือน หรือปรับไม่เกิน 1,000 บาท หรือทั้งจำทั้งปรับ ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 1,000 บาท ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 6 เดือน หรือปรับไม่เกิน 1,000 บาท หรือทั้งจำทั้งปรับ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 2,000 บาท",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ใดขับรถโดยไม่ได้รับใบอนุญาตขับรถมีโทษอย่างไร",
+      "number": 84
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 1,000 บาท ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 1 เดือน หรือปรับไม่เกิน 1,000 บาท หรือทั้งจำทั้งปรับ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จำคุกไม่เกิน 6 เดือน หรือปรับไม่เกิน 1,000 บาท หรือทั้งจำทั้งปรับ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปรับไม่เกิน 2,000 บาท",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ใดขับรถโดยใบอนุญาตขับรถสิ้นอายุมีโทษอย่างไร",
+      "number": 85
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใบรับรองการผ่านตรวจสภาพเอกชน , พ.ร.บ. คุ้มครองผู้ประสบภัยจากรถ, คู่มือจดทะเบียนรถ ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใบรับรองการผ่านตรวจสภาพเอกชน , พ.ร.บ. คุ้มครองผู้ประสบภัยจากรถ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใบรับรองการผ่านตรวจสภาพเอกชน, คู่มือจดทะเบียนรถ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใบรับรองการผ่านตรวจสภาพเอกชน , พ.ร.บ. คุ้มครองผู้ประสบภัยจากรถ, สำเนาคู่มือจดทะเบียนรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "นาย ก.ใช้รถยนต์มาแล้วเป็นปีที่ 6 ประสงค์จะเสียภาษีรถประจำปีต้องใช้เอกสารใดในการชำระภาษีรถ",
+      "number": 86
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สำนักงานขนส่งจังหวัดในภูมิลำเนาที่ประสงค์จดทะเบียนรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สถานตรวจสภาพเอกชนในภูมิลำเนาที่ประสงค์จดทะเบียนรถ ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สำนักงานขนส่งจังหวัดหรือสาขาในภูมิลำเนาที่ประสงค์จดทะเบียนรถ ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่สามารถจดทะเบียนรถได้เนื่องจากทะเบียนระงับแล้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อรถทะเบียนระงับ หากประสงค์จะจดทะเบียนรถใหม่ต้องนำรถไปตรวจสภาพรถที่ใด",
+      "number": 87
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ประกันภัยชนิด 1 ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ประกันภัยชนิด 2 ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ประกันภัยชนิด 3 ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ประกันภัยชนิด คุ้มครองผู้ประสบภัยจากรถ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ประกันภัยชนิดใดใช้ประกอบการต่ออายุภาษีประจำปี",
+      "number": 88
+    }
+  ]
+}

@@ -1,0 +1,1223 @@
+{
+  "number": 4,
+  "name": "หมวดป้ายบังคับ",
+  "description": "ข้อสอบใบขับขี่ พร้อมเฉลย หมวดป้ายบังคับ ดูสัญลักษณ์ป้ายเครื่องหมายจราจรเหล่านี้ แล้วดูตัวอย่างข้อสอบที่ใช้สอบใบขับขี่ หากเราจำสัญลักษณ์เหล่านี้ได้ เราก็สามารถอธิบายและปฏิบัติตามกฏจราจรได้อย่างถูกต้องเช่นกัน",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถแซงคันอื่นได้เลย ในเขตที่มีเครื่องหมายนี้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ทางแก่รถคันอื่นก่อน ในเขตที่มีเครื่องหมายนี้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้หยุดรถก่อน ในเขตที่มีเครื่องหมายนี้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถแซงขึ้นหน้ารถคันอื่น ในเขตทางที่ติดตั้งป้าย4.1 เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.1.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามขับรถทุกชนิดเข้าไปในทิศทางที่ติดตั้งป้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้คนเดินเข้าไป ในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เฉพาะรถเก๋งเข้าไป ในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้รถเข้าไปได้ ในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.2.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.3.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.4.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.5.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวขวา",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.6.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเปลี่ยนช่องเดินรถไปทางขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้เปลี่ยนช่องเดินรถไปทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเปลี่ยนช่องเดินรถไปทางซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เปลี่ยนช่องเดินรถไปทางซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.7.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวขวาหรือกลับรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้ายหรือกลับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวขวาหรือกลับรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้ายหรือกลับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.8.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้ายหรือกลับรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้ายหรือกลับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ไปทางซ้ายหรือทางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามไปทางซ้ายหรือทางขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.9.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้รถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเฉพาะรถยนต์ผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้รถยนต์จอด และหยุดรับ-ส่งได้ในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.10.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามรถบรรทุกทุกชนิดผ่านเข้าออกในเขตทางที่ติดตั้งป้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้รถบรรทุกผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้รถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.11.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามรถบรรทุกทุกชนิดผ่าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถจักรยานยนต์ผ่าน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถยนต์ทุกชนิดผ่าน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้รถยนต์ทุกชนิดผ่าน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.12.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามรถยนต์ผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถยนต์จอด แต่หยุดรับ-ส่งได้ในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้รถยนต์ทุกชนิดผ่านเข้าไปในเขตที่ติดตั้งป้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถจักรยานยนต์และรถยนต์ทุกชนิดผ่านเข้าออก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.13.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามจอดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามหยุดรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามใช้เสียง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ใช้เสียงได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.14.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้หยุดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามจอดรถทุกชนิด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้แซงได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.15.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ล้อเลื่อนลากเข็นจอด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้รถจักรยานจอด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้รถจักรยานยนต์จอด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามหยุดหรือจอดรถทุกชนิด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.16.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามคนผ่าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางข้าม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บริเวณคนข้ามถนน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เฉพาะคนเดิน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.17.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ใช้น้ำหนักไม่เกิน 50 กก.",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามใช้เสียงเกิน 50 เดซิเบล A",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามใช้ความเร็วเกินกว่าที่กำหนดเป็น \"กิโลเมตรต่อชั่วโมง\" ตามจำนวนตัวเลขที่รับในป้ายนั้นๆ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ใช้ความเร็วเกิน 50 กม./ชม.",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.18.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามรถกว้างเกินกำหนด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถยาวเกินกำหนด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถบรรทุกชนิดที่มีน้ำหนักเกินกว่าที่กำหนดเป็น \"ตัน\" ตามจำนวนตัวเลขที่ระบุในป้ายนั้นๆ ผ่านเข้าออก",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จำกัดความเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.19.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามหยุดรถทุกชนิด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถไปได้เฉพาะรถเก๋ง.เพราะเป็นทางเอก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ลดความเร็วลง.และขับต่อไปช้าช้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ต้องหยุดให้รถและคนเดินเท้าในทางขวางหน้าผ่านไปก่อน เมื่อเห็นว่าปลอดภัยแล้ว จึงขับรถต่อไปได้",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.20.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ทางแก่รถหรือคนเดินเท้าบนทางขวางข้างหน้าผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถไปทางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้กลับรถไปทางขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.21.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามขับรถยนต์ผ่าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ต้องหยุดรถตรงตำแหน่งที่ติดตั้งป้ายและให้รถที่กำลังสวนทางมาผ่านไปก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ลดความเร็วแล้วขับรถเบี่ยงไปทางด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ลดความเร็วแล้วขับรถเบี่ยงไปทางด้านขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.22.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ขับรถตรงไป",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ต้องขับรถตรงไปตามทิศทางที่ป้ายกำหนดเป็นทางเดินรถทางเดียวเท่านั้น",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ขับรถเข้าไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถไปทางซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.23.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้าเป็นทางบังคับให้เดินรถทางเดียวไปทางซ้ายเท่านั้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไปได้เฉพาะทางขวาเท่านั้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถไปทางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถไปทางขวาเท่านั้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.24.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ขับรถตรงไปอย่างเดียว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปทางซ้ายได้อย่างเดียว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถไปทางขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่ต้องขับรถผ่านไปทางด้านขวาของป้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.25.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ชิดขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่ต้องขับรถผ่านไปทางด้านซ้ายของป้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.26.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่ต้องขับรถผ่านไปทางด้านขวาของป้าย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ชิดซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.27.jpg",
+      "question": "เครื่องหมายนี้ หมายความอย่างไร",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามไปทางซ้ายหรือทางขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ชิดซ้ายหรือชิดขวา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ชิดขวาอย่างเดียว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ชิดซ้ายอย่างเดียว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.28.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.29.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวขวา",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.30.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้ายหรือเลี้ยวขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวทางซ้ายหรือทางขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.31.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ตรงไปแต่ห้ามเลี้ยวซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ตรงไปหรือเลี้ยวซ้าย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.32.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ตรงไปหรือเลี้ยวขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ตรงไปหรือเลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.33.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้รถยนต์ขับรถทางเดียวด้านซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้รถทุกชนิดเดินวนด้านขวาของวงเวียน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถแทรกหรือตัดหน้ารถคันอื่นในวงเวียนได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่รถทุกชนิดต้องขับรถวนทางซ้ายของวงเวียนและหยุดรอให้รถที่แล่นอยู่ในทางรอบบริเวณวงเวียน ผ่านไปก่อน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.34.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถเข้าช่องเดินรถยนต์และรถจักรยานยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามแซงล้ำเข้าไปในช่องเดินรถประจำทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ขับรถตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามขับรถตรงไปหรือเลี้ยวขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.35.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถมีคนนั่งไม่น้อยกว่า 3 คน สามารถใช้ช่องเดินรถนี้ได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถมีคนนั่ง.1 คน เข้าไปในช่องเดินรถนี้ได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามรถมีคนเกิน 3 คน เข้าไปในช่องเดินรถนี้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถมีคนนั่ง.2 คน เข้าไปในช่องเดินรถนี้ได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.36.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ช่องเดินรถจักรยานยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ช่องเดินรถมวลชน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่องเดินรถจักรยาน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เฉพาะคนเดิน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.37.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวขวา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สุดเขตบังคับ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ใช้ความเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.4.38.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 38
+    }
+  ]
+}

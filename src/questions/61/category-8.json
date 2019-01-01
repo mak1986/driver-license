@@ -1,0 +1,6648 @@
+{
+  "number": 8,
+  "name": "หมวดเทคนิคการขับรถอย่างปลอดภัย",
+  "description": "เทคนิคการขับรถอย่างปลอดภัย เป็นการช่วยลดอุบัติเหตุบนท้องถนน เนื่องจากรถยนต์และรถจักรยานยนต์มีจำนวนเพิ่มขึ้น และเป็นที่นิยมใช้กันมากทั่วประเทศในแต่ละปี ฉะนั้นแล้วเพื่อเป็นการเพิ่มประสิทธิภาพในการใช้รถใช้ถนนร่วมกัน ข้อสอบใบขับขี่หมวดเทคนิคการขับรถอย่างปลอดภัย ก็เป็นส่วนหนึ่งสำหรับสอบเพื่อขอรับใบอนุญาตขับขี่เช่นกัน",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดเส้นทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดที่ปัดน้ำฝน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ความระมัดระวังเพิ่มมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วของรถลงกว่าปกติ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถขณะฝนตก.ข้อใดที่ผู้ขับขี่ไม่ควรปฏิบัติ",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถทิ้งไว้กลางถนน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นำกิ่งไม้วางไว้ท้ายรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เผาป่าข้างทางหากเป็นกลางคืน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นำรถจอดเข้าข้างทาง, เปิดไฟฉุกเฉิน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อเกิดรถเสีย ควรปฏิบัติอย่างไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สีแดง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สีเขียว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สีเหลือง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สีฟ้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สัญญาณไฟเตือนบนแผงหน้าปัดรถสีใด ที่ไม่ควรปรากฏขณะขับรถ",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้า จับพวงมาลัยให้กระชับ สามารถหมุนได้คล่องตัว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้า กำพวงมาลัยให้แน่นที่สุด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้าแตะที่พวงมาลัย สามารถหมุนพวงมาลัยด้วยมือข้างเดียว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้นิ้วหัวแม่มือและนิ้วชี้จับพวงมาลัยเพียงสองนิ้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจับพวงมาลัยนิ้วมือควรอยู่ในลักษณะใด",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรกทันที แล้วค่อยๆออกตัวเร่งความเร็วใหม่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ถอนคันเร่ง.เหยียบเบรกเพื่อใช้เกียร์ต่ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถอนคันเร่ง.จับพวงมาลัยให้มั่นประคองรถต่อไป",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติให้มั่น จับพวงมาลัยให้ดี เร่งความเร็วหนีให้พ้นไป",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อผู้ขับขี่ขับรถเสียหลักบนถนนเปียกลื่น ควรปฏิบัติอย่างไร",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรก.ดึงเบรกมือ เข้าเกียร์ว่าง.และ ติดเครื่องใหม่",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรก.ดึงเบรกมือ และ ติดเครื่องใหม่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนเป็นเกียร์ต่ำ ดึงเบรกมือ และติดเครื่องใหม่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปล่อยให้รถไหลไป แล้วค่อยประคองรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถขึ้นทางลาดชัน ถ้าเครื่องยนต์ดับควรปฏิบัติอย่างไร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตั้งสติ ลดความเร็ว จอดรถข้างทาง.เปิดไฟฉุกเฉิน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ เปิดไฟฉุกเฉิน และขับรถต่อไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ เปิดไฟฉุกเฉิน และหยุดรถทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ จอดรถข้างทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถ ถ้ากระจกบังลมหน้ารถแตกร้าว ควรปฎิบัติอย่างไร",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ที่ปัดน้ำฝน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำในหม้อน้ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่นแบตเตอรี่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจเช็คประตูหน้าต่างรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อความปลอดภัยในการขับรถช่วงฤดูฝน ควรตรวจสอบอุปกรณ์ส่วนควบสิ่งใดของรถก่อนเป็นลำดับแรก",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อไม่สามารถมองเห็นทางข้างหน้าในระยะต่ำกว่า 150 เมตร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อต้องเร่งรีบไปทำงาน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อฝนตกหนัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อมีควันไฟปกคลุมถนน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเปิดไฟหน้ารถไม่ถูกต้อง",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับต่อไปเรื่อยๆ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงแล้วขับต่อไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถทันทีกลางถนนห้ามเคลื่อนย้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถในที่ปลอดภัยแล้วเรียกช่างมาตรวจเช็ค",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะที่ขับรถอยู่ มีกลิ่นเหม็นไหม้ แอร์เริ่มไม่เย็น เครื่องยนต์เร่งไม่ขึ้น ควรปฏิบัติอย่างไร",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบคลัทช์ เหยียบเบรก.ดึงเบรกมือ และปลดเกียร์ว่าง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัทช์ เหยียบเบรก.ปลดเกียร์ว่าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัทช์ เหยียบเบรก.ดึงเบรกมือ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกแล้วดึงเบรกมือ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหยุดรถบนทางลาดชัน ควรปฏิบัติตามลำดับอย่างไรจึงจะปลอดภัย",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้หมุนพวงมาลัยง่ายขึ้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดอกยางสึกเร็วกว่าปกติ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สิ้นเปลืองน้ำมันเพาเวอร์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สิ้นเปลืองน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหมุนพวงมาลัยรถ ขณะจอดรถอยู่กับที่จะมีผลอย่างไร",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรกแรงๆโดยไม่ต้องถอนเบรก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัทช์ก่อน แล้วจึงเหยียบเบรก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกและคลัทช์พร้อมกัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบและปล่อยเบรกสลับกัน (ย้ำเบรกซ้ำๆ)",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหยุดรถอย่างกะทันหัน(รถไม่ใช้เบรก.ABS) ควรปฏิบัติอย่างไร",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จะหยุดรถได้ตามระยะที่กำหนด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ล้อจะล็อค.และรถจะหมุน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจะค่อยๆ ชะลอความเร็วลง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ล้อจะล็อค.และรถจะหยุดทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ขับมาด้วยความเร็วสูงแล้วเหยียบเบรกอย่างกะทันหัน(รถไม่ใช้เบรก.ABS) จะมีผลอย่างไร",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พวงมาลัยรถจะไร้น้ำหนัก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยจะหนัก.รถจะเอียง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถหยุดกะทันหัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เบรกจะไม่ทำงาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถยางรถแตก.จะมีอาการอย่างไร",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "คุมสติ บังคับพวงมาลัย ลดความเร็วลงและไม่ควรเหยียบเบรกกะทันหัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รีบเหยียบเบรกให้เร็วที่สุด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หมุนพวงมาลัยอย่างรวดเร็วเพื่อหลบเข้าข้างทาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปลดเกียร์ว่างแล้วรีบเหยียบเบรก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะขับรถ ยางรถแตกหรือระเบิด ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วแล้วจอดข้างทาง.เพื่อปิดฝากระโปรงให้เรียบร้อย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หักเลี้ยวรถเข้าข้างทางทันที เพื่อปิดฝากระโปรงให้เรียบร้อย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เบรกกะทันหัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคันเร่งให้มิดเพื่อฝากระโปรงจะได้กระแทกปิด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะที่กำลังขับรถ ถ้าฝากระโปรงหน้ารถเปิด ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หาผ้าหนา ๆ มาตบ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตัดกระแสไฟ หรือหาทางงัดขั้วแบตเตอรี่ออกก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "วิ่งหาน้ำมันมาราด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้ทรายสาดใส่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นวิธีแก้ไขเบื้องต้นเมื่อรถเกิดไฟลัดวงจร",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้เข้าเกียร์ได้ง่าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ทัศนวิสัยในการมองเห็นชัดเจนดีมาก.สามารถตัดสินใจได้ดี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บังคับพวงมาลัยลำบาก.ใช้อุปกรณ์ต่างๆ ไม่สะดวก.เกิดเหตุฉุกเฉินไม่สามารถใช้คลัทช์ และเบรกได้",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้เบรกรถสะดวก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การปรับระดับที่นั่งคนขับห่างเกินไป จะมีผลอย่างไร",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กระตุกดึงสายเข็มขัดอย่างเร็ว แล้วสายเข็มขัดต้องล็อค",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดูว่าเป็นของใหม่หรือไม่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดูว่าเข็มขัดมียี่ห้อหรือไม่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ต้องมีสีเข้มๆ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบว่าเข็มขัดนิรภัยยังใช้งานได้ดีหรือไม่ ควรตรวจสอบอย่างไร",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รีบเข้าเกียร์ต่ำเพื่อชะลอความเร็ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ค่อยๆ เหยียบแป้นคลัทช์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หมุนพวงมาลัยไปซ้ายบ้าง.ขวาบ้าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วจับพวงมาลัยให้มั่น",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้ารถเสียหลักลื่นไถลพร้อมเสียการทรงตัว ควรปฏิบัติอย่างไรเป็นลำดับแรก",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หันเข้าหาขอบทาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "อยู่อย่างไรก็ได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตรงและขนานกับขอบทางหรือฟุตบาต",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หันออกจากขอบทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจอดรถชิดขอบทาง.ล้อหน้าควรอยู่ในลักษณะใด",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่มีผลต่อส่วนใดของรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เข้าเกียร์ยากและทำให้เกียร์เสียเร็วกว่าปกติ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้น้ำมันเกียร์หมดเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์กินน้ำมันเครื่อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเข้าเกียร์ถอยหลังขณะรถยังไม่หยุดนิ่งมีผลเสียอย่างไร",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ถอยช้าๆ แล้วใช้ความระมัดระวัง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ถอยแบบไหนก็ได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถอยเหมือนกับเดินหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้ความเร็วตามสภาพของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถถอยหลังควรใช้ความเร็วระดับใด",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขึ้นเบรกมือ-ปลดเกียร์ว่าง.-ปิดอุปกรณ์ไฟฟ้า-เหยียบคลัทช์-สตาร์ทเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ปลดเกียร์ว่าง-ขึ้นเบรกมือ-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัทช์-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปลดเบรกมือ-ปิดอุปกรณ์ไฟฟ้า-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการสตาร์ทเครื่องยนต์ที่ถูกต้อง",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้าเร่งความเร็วผ่านบริเวณที่ฝนตกหนัก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วให้ผ่านบริเวณที่ฝนตกโดยเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถบริเวณที่ปลอดภัย เปิดไฟหน้ารถและเปิดไฟฉุกเฉิน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากเกิดฝนตกหนักจนมองเห็นทางไม่ชัดเจน ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.2 และเลข.10",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.4 และเลข.10",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.3 และเลข.10",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.6 และเลข.10",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจับพวงมาลัยขณะขับรถทางตรง.มือขวาและซ้ายของผู้ขับขี่ ควรอยู่ในตำแหน่งลักษณะใดของหน้าปัดนาฬิกา",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดที่ปัดน้ำฝน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความระมัดระวังมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อขับรถในขณะฝนตก.ท่านไม่ควรปฏิบัติอย่างไร",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดที่ปัดน้ำฝน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความระมัดระวังมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อขับรถในขณะฝนตก.ท่านไม่ควรปฏิบัติอย่างไร",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วและเพิ่มความระมัดระวังทุกครั้งก่อนถึงทางแยก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระวังรถด้านซ้ายเพราะอยู่ใกล้ช่องทางของเรา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระวังรถทางขวาเพียงอย่างเดียว และขับต่อไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วเท่าเดิม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.2.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะขับตรงผ่านไป ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอรถและให้รถทางขวามือขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถต่อไปได้เลยเพราะเราคือทางเอก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วเท่าเดิม",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งเครื่องยนต์เพื่อขับผ่านไปก่อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.3.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะขับตรงผ่านไป ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถให้ห่างเพื่อความปลอดภัย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับไปในช่องทางขวาเพื่อเลี้ยวได้เลย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เลี้ยวพร้อมกับรถคันหน้าได้ทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ชะลอรถเนื่องจากรถคันหน้าจะเลี้ยวซ้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.4.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวขวา ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เร่งความเร็วและขับผ่านไป",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรและขับผ่านไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค่อยๆ เหยียบเบรกย้ำๆ เพื่อเตือนรถข้างหลังระวังและเตรียมหยุด",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกเพื่อหยุดรถทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.5.JPG",
+      "question": "จากรูป หากท่านพบเห็นสัญญาณจราจรเปลี่ยนเป็นสีเหลือง.ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็ว และระมัดระวังรถด้านซ้าย รวมทั้งคนเดิมข้ามถนน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เลี้ยวซ้ายได้ทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วเพื่อให้สามารถเลี้ยวได้เร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรก่อนทำการเลี้ยวรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.6.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวซ้าย ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับตามรถคันหน้าให้ชิดและทำการเลี้ยวทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยว ชะลอรถ หยุดให้คนเดินถนนข้ามทางก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรเพื่อให้คนเดินข้ามถนนด้วยความรวดเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟฉุกเฉินเพื่อเตือนรถด้านหลัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.7.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวซ้าย ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ควรเลี้ยวให้ทันเนื่องจากมีรถคันใหญ่ขวางรถฝั่งตรงข้าม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วเพื่อเลี้ยวขวาทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอในตำแหน่งที่จะเลี้ยวและให้รถด้านตรงข้ามผ่านไปก่อน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปในช่องทางด้านขวาเพื่อทำการเลี้ยว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.8.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวขวา ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยว ชะลอรถ หยุดให้คนเดินถนนข้ามทางก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับตามรถคันหน้าให้ชิดและทำการเลี้ยวทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรเพื่อให้คนเดินข้ามถนนด้วยความรวดเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถออกในช่องทางขวาเพื่อทำการเลี้ยว ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.9.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวขวา ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บีบแตรเพื่อให้รถคันหน้าเร่งความเร็ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับต่อไปด้วยความเร็วเท่าเดิม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วลง.และให้ทางแก่รถที่เลี้ยวออกมา",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินและขับผ่านไปด้วยความรวดเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.10.JPG",
+      "question": "จากรูป หากท่านต้องการขับตรงไป ท่านควรระมัดระวังและปฏิบัติอย่างไร",
+      "number": 38
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถ ค.",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถ ก. และรถ ข.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถ ข. และรถ ค.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถ ก. และรถ ค. ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.111111.JPG",
+      "question": "จากรูป รถคันใดอยู่ในจุดบอดของรถคันสีขาว",
+      "number": 39
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จะทำให้สามารถเปลี่ยนช่องจราจรได้รวดเร็วมากขึ้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพื่อตรวจดูจุดบอดของรถด้านขวา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพื่อเปลี่ยนช่องจราจรในกรณีที่ไม่ต้องการเปิดสัญญาณไฟเลี้ยว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้สามารถเห็นผู้คนที่เดินอยู่บริเวณทางเดินเท้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ด้วยสาเหตุใด ผู้ขับขี่จะต้องหันหน้ามองไปทางด้านข้างก่อนทำการเปลี่ยนช่องจราจร",
+      "number": 40
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บริเวณด้านหลังของรถที่กระจกมองหลังจับภาพไม่ได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บริเวณที่คนขับไม่สามารถมองเห็นได้ชัดในขณะขับรถ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บริเวณด้านหน้าของรถที่ผู้ขับขี่ไม่สามารถมองเห็นได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บริเวณด้านซ้ายของรถที่ผู้ขับขี่ไม่สามารถมองเห็นได้ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือความหมายที่ถูกต้องของจุดบอด",
+      "number": 41
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำการเบรกทันทีเพื่อไม่ให้รถไหล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนไปเข้าเกียร์ว่าง.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ติดเครื่องใหม่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉิน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าเครื่องดับขณะกำลังเคลื่อนที่ออกจากทางลาดชัน ท่านควรปฏิบัติอย่างไรเป็นลำดับแรก",
+      "number": 42
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เกียร์ต่ำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เกียร์สูง.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เกียร์ว่าง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เกียร์ใดก็ได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับขี่ขึ้นหรือลงทางลาดชัน ควรใช้เกียร์ใด",
+      "number": 43
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพื่อเพิ่มกำลังของรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพื่อหน่วงความเร็วของรถ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพื่อลดความร้อนของเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพื่อเพิ่มความเร็วของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับขี่ลงทางลาดชัน ผู้ขับขี่ควรใช้เกียร์ต่ำเนื่องจากสาเหตุใด",
+      "number": 44
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จะทำให้เสียเวลาในการเดินทาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้เปลืองน้ำมัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้ผ้าเบรกไหม้",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้รถเคลื่อนตัวได้ช้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.45เพราะเหตุใดจึงไม่ควรใช้เบรกอย่างต่อเนื่องเป็นเวลานานในขณะขับขี่ลงทางลาดชัน",
+      "number": 45
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วลง.แต่เร่งเครื่องยนต์ให้มากกว่าปกติเล็กน้อย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉิน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วปกติ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับขี่ลุยน้ำ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 46
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพื่อให้รถมีความเร็วคงที่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้เครื่องยนต์ร้อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้รถมีความเร็วมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพื่อป้องกันไม่ให้เครื่องยนต์ดับ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เหตุใดขณะขับรถลุยน้ำจึงต้องเร่งเครื่องยนต์มากกว่าปกติเล็กน้อย",
+      "number": 47
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับช้าๆ ตามหลังรถคันหน้าในระยะห่างพอสมควร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พยายามไม่ใช้เบรกโดยเด็ดขาด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พยายามขับจี้ท้ายรถคันหน้าตลอดเวลา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดเวลา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ท่านควรปฏิบัติอย่างไรขณะขับรถผ่านบริเวณน้ำท่วม",
+      "number": 48
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระบบสตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระบบไฟฟ้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระบบเบรก.",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระบบช่วงล่าง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.49หลังจากขับรถผ่านบริเวณน้ำท่วม ท่านควรทดสอบระบบใดต่อไปนี้",
+      "number": 49
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลงทางลาดชันด้วยความปลอดภัย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลดการสึกหรอของผ้าเบรก.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่วยประหยัดน้ำมัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มการทรงตัวของรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้คือประโยชน์สูงสุดของการชะลอรถด้วยเครื่องยนต์ในขณะลงทางลาดชัน",
+      "number": 50
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำฝนทำให้ถนนชำรุดเป็นหลุมเป็นบ่อ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำฝนจะกลายเป็นแผ่นฟิล์มรองรับระหว่างยางกับพื้นถนน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถนนคอนกรีตดูดซับน้ำฝนได้เป็นอย่างดี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พื้นถนนปรับอุณหภูมิเร็วเกินไป",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพราะเหตุใดรถจึงลื่นไถลได้ง่ายขณะฝนตกใหม่ๆ",
+      "number": 51
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถเร็วและกระแทกเบรกรถอย่างรุนแรง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วต่ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้ารถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถรอบนถนน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ควรปฏิบัติเมื่อขับขี่ในขณะฝนตกหนัก",
+      "number": 52
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงตลอดเวลาขณะขับขี่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับให้ช้ากว่าปกติหรือไม่เร็วกว่าสายตาที่มองเห็น",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับให้เร็วได้ตามปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดเวลาขณะขับขี่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้ปฏิบัติได้ถูกต้องสำหรับการขับขี่ในเวลากลางคืน",
+      "number": 53
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แจ้งกู้ภัย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แจ้งตำรวจ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แจ้งประกันภัยรถยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณเพื่อเตือนให้รถอื่นทราบ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หลังจากเกิดอุบัติเหตุ ผู้ขับขี่ต้องปฏิบัติสิ่งใดเป็นอันดับแรก",
+      "number": 54
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปฐมพยาบาลเบื้องต้นแล้วรีบนำส่งโรงพยาบาล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องสนใจหากผู้บาดเจ็บไม่ใช่คนที่ท่านรู้จัก.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แจ้งตำรวจที่อยู่บริเวณใกล้เคียง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รีบแจ้งหน่วยกู้ภัยให้เร็วที่สุด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากมีผู้บาดเจ็บหลังจากเกิดอุบัติเหตุ ท่านควรปฏิบัติอย่างไรหากตัวท่านมิได้รับบาดเจ็บ",
+      "number": 55
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วที่สูงขึ้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจะประหยัดน้ำมันหากขับด้วยความเร็วคงที่",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถจะประหยัดน้ำมันมากขึ้นหากเร่งเครื่องบ่อยครั้ง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถจะประหยัดน้ำมันมากขึ้นหากวิ่งด้วยความเร็วที่ไม่คงที่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้องเกี่ยวกับการขับขี่อย่างประหยัดน้ำมัน",
+      "number": 56
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วของรถลง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วของรถเพื่อให้ผ่านฝนไปให้เร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินและรีบขับผ่านบริเวณนั้นไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถข้างทางทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากกำลังขับขี่รถอยู่บนถนน แล้วฝนเริ่มตก.ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 57
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทิ้งระยะห่างระหว่างรถคันหน้าให้มากกว่าปกติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินขณะทำการแซงรถคันหน้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พยายามขับรถเข้าไปให้ใกล้กับรถคันหน้าเพื่อให้รถคันหน้าเห็นรถเราได้ชัดเจน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้ไฟสูงตลอดทางของการขับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อขับรถในเวลากลางคืน ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 58
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดื่มเครื่องดื่มชูกำลังก่อนการเดินทาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พักผ่อนให้เพียงพอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รับประทานอาหารก่อนการเดินทาง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หาเพื่อนนั่งไปด้วยขณะเดินทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ก่อนการขับรถเป็นระยะทางไกลๆ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 59
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตรวจสอบความปลอดภัยทางด้านขวา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรให้สัญญาณ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดกระจกแล้วโบกมือขอทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.32.JPG",
+      "question": "จากสถานการณ์ดังรูป หากต้องการจะเคลื่อนที่ต่อไป ผู้ขับขี่ควรปฏิบัติอย่างไรเป็นลำดับแรก",
+      "number": 60
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอรถและควรเตรียมพร้อมที่จะหยุดรถตลอดเวลา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความเร็วเพื่อให้ผ่านไปได้เร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรเตือนเพื่อความปลอดภัย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดกระจกเพื่อฟังเสียงสัญญาณเตือนรถไฟ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.33.JPG",
+      "question": "เมื่อต้องขับรถเข้าใกล้ทางรถไฟที่ไม่มีแผงกั้น ข้อใดต่อไปนี้กล่าวถูกต้อง",
+      "number": 61
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลง.ขับขี่ด้วยความระมัดระวังมากขึ้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รีบเร่งความเร็วเพื่อผ่านไปอย่างรวดเร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องทำอะไร เพราะโอกาสที่จะเกิดยาก.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หลีกเลี่ยงไปใช้เส้นทางอื่น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.34.JPG",
+      "question": "เมื่อขับผ่านทางที่มีป้ายเตือนว่า “ระวังทางข้างหน้าหินหล่นทับเส้นทางบ่อย” หรือป้ายเตือนดังในรูป ท่านควรปฏิบัติอย่างไร",
+      "number": 62
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถลงแม่น้ำข้างทาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดและสละรถทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ ค่อยๆ ขับรถจอดข้างทาง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แจ้งกู้ภัยทางหลวง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อพบว่าไฟไหม้เครื่องยนต์ขณะขับรถ ผู้ขับรถควรปฏิบัติอย่างไร",
+      "number": 63
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดอกยางสึกหรอ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วคงที่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระยะการปรับเบรกปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บรรทุกน้ำหนักเกินกว่าที่กำหนด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สิ่งใดต่อไปนี้มีผลทำให้รถเปลืองน้ำมัน",
+      "number": 64
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ความไม่พร้อมของคนขับ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลักษณะทางภูมิศาสตร์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การเคลื่อนที่ของรถ หรือคนเดินเท้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สภาพผิวจราจร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ปัจจัยใดต่อไปนี้มีผลต่อการเกิดสถานการณ์อันตรายมากที่สุด",
+      "number": 65
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หากง่วงนอนมากควรขับรถด้วยความเร็วสูง.เพื่อให้ตื่นตัว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การเว้นระยะห่างจากรถคันหน้าในขณะฝนตกควรมากกว่าการขับรถในสภาวะปกติ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นต้องตรวจสภาพรถก่อนออกเดินทาง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรขับรถด้วยความเร็ว 120 กิโลเมตรต่อชั่วโมง.เพื่อถึงที่หมายเร็วขึ้น ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดกล่าวถูกต้องเกี่ยวกับการขับรถอย่างปลอดภัย",
+      "number": 66
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจสอบความปลอดภัยแล้วเปิดสัญญาณไฟเลี้ยวขวาก่อนแซง.",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยวซ้ายขณะแซง.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยวขวาก่อนและตามด้วยสัญญาณไฟเลี้ยวซ้ายขณะแซง.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นต้องเปิดสัญญาณไฟหากรถคันหน้าขับด้วยความเร็วต่ำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.39.JPG",
+      "question": "จากรูป หากท่านต้องการแซงรถข้างหน้าแล้วกลับช่องทางเดินรถด้านซ้าย ท่านจะต้องให้สัญญาณไฟอย่างไร",
+      "number": 67
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หนึ่งช่องรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "3 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "5 เมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห่างพอสมควรและสามารถหยุดรถได้โดยปลอดภัย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในสภาพถนนปกติ รถพร้อม คนพร้อม ขับรถตามรถคันหน้าต้องเว้นระยะห่างจากรถคันหน้าเท่าใดจึงจะปลอดภัยเมื่อรถคันหน้าหยุด",
+      "number": 68
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินในขณะที่หมอกลงจัด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินเมื่อกำลังจะเลี้ยวซ้ายบริเวณทางแยกที่ไม่มีสัญญาณไฟจราจร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินเพื่อให้ผู้ขับขี่ท่านอื่นทราบว่าตนจะวิ่งตรงไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินเมื่อรถจอดเสียอยู่บริเวณไหล่ทาง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สถานการณ์ใดใช้ไฟฉุกเฉินได้อย่างเหมาะสม",
+      "number": 69
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จะหยุดรถได้ตามระยะที่กำหนด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจะค่อยๆ ชะลอความเร็วลง.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ล้อจะล็อกและรถอาจจะหมุน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ล้อจะล็อกและรถจะหยุดทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ขับมาด้วยความเร็วสูงแล้วเหยียบเบรกกะทันหัน (รถที่ไม่มีระบบเบรก.ABS) จะมีผลอย่างไร",
+      "number": 70
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรกสลับกับปล่อยเบรกเป็นจังหวะ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกแรงๆ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกเท้าสลับกับดึงเบรกมือ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกเท้าและดึงเบรกมือพร้อมกัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหยุดรถอย่างกะทันหัน (รถที่ไม่มีระบบเบรก.ABS) ควรปฏิบัติอย่างไร",
+      "number": 71
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หักพวงมาลัยหลบเมื่อจำเป็นต้องหลบการปะทะด้านหน้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มือทั้งสองข้างต้องจับอยู่ที่พวงมาลัย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้เบรกมือช่วย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หลีกเลี่ยงการเหยียบกระแทกเบรกสำหรับเบรกที่ไม่ใช่ระบบเบรก.ABS",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดปฏิบัติไม่ถูกต้องในการเบรกฉุกเฉิน",
+      "number": 72
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถซ้อนคัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถชิดขอบทางด้านซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถในลานจอดรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถภายในอาคารจอดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจอดรถลักษณะใดที่อาจก่อให้เกิดอุบัติเหตุ",
+      "number": 73
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รูป 1. และรูป 2.",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รูป 2. และรูป 3.",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รูป 1. และรูป 3.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทั้งรูป 1. 2. และ 3.",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.45.1.JPG",
+      "question": "8.72รูปใดต่อไปนี้ ห้ามจอด",
+      "number": 74
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มองดูรถที่ตามมาผ่านกระจกมองข้างและกระจกมองหลัง.จากนั้นเปิดสัญญาณไฟเลี้ยวขวา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเพื่อเตือนให้รถคันที่ตามมาชะลอความเร็วลง.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นต้องหันมองดูรถที่จอดอยู่ข้างหน้า มองแค่รถที่ตามมาก็พอ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณมือเพื่อขอทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.73.หากท่านจอดรถชิดขอบทางทางด้านซ้ายอยู่ และต้องการที่จะเคลื่อนตัวออก.ท่านควรปฏิบัติอย่างไร",
+      "number": 75
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วเท่าเดิม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลง.",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถเข้าข้างทางและรอจนกว่าฝนจะหยุดตก.",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อฝนเริ่มตกหนักในขณะที่ท่านขับรถอยู่ในเขตที่จำกัดความเร็วไม่เกิน 60 กิโลเมตรต่อชั่วโมง.ท่านควรปฏิบัติอย่างไร",
+      "number": 76
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "คนข้ามถนนตัดหน้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สัญญาณไฟจราจรเปลี่ยนแปลงโดยฉับพลัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถชิดคันหน้ามากเกินไป",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การหยุดรถทุกๆ แยก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สาเหตุใดต่อไปนี้เป็นสาเหตุหลักที่ทำให้เกิดการชนท้าย",
+      "number": 77
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การจราจรคล่องตัวมากขึ้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จะขับรถด้วยความปลอดภัยมากขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดอุบัติเหตุ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เกิดปัญหาการจราจรติดขัด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถทิ้งระยะห่างจากรถคันหน้ามากเกินไป จะเกิดผลเสียอย่างไรกับสภาพการจราจร",
+      "number": 78
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระยะห่างที่เหมาะสมกับความเร็วของรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "2 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 เมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่น้อยกว่า 4 เมตร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อเป็นการป้องกันอุบัติเหตุ ผู้ขับขี่ต้องทิ้งระยะห่างจากรถคันหน้าเป็นระยะเท่าใด",
+      "number": 79
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อรถคันหลังขับตามมาในระยะกระชั้นชิด ควรเพิ่มความเร็ว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำหนักและความเร็วของตัวรถมีผลต่อระยะทางในการหยุดรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระยะปลอดภัยของรถใหญ่จะต้องมีมากกว่าระยะปลอดภัยของรถยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อระยะห่างกับรถคันหน้าน้อยเกินไป ควรลดความเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้ไม่ถูกต้องในการขับขี่",
+      "number": 80
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปลี่ยนช่องจราจรเมื่อใดก็ได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มองกระจกข้าง.ให้สัญญาณแล้วเปลี่ยนช่องจราจรเมื่อเห็นว่าปลอดภัย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนช่องจราจรโดยเร็วเพื่อหลบรถคันอื่น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณมือและสัญญาณไฟแล้วเปลี่ยนช่องจราจรได้เลย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเปลี่ยนช่องทางจราจร ควรปฏิบัติอย่างไร",
+      "number": 81
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รักษาระยะห่างไว้และรอให้รถใหญ่เคลื่อนไปในทิศทางที่แน่นอน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับเข้าไปใกล้ๆ เพื่อเตรียมแซง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้เข้าใจว่าผู้ขับขี่รถใหญ่นั้นเปิดสัญญาณไฟผิด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เตรียมแซงเมื่อรถใหญ่เริ่มชะลอความเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.53.1.JPG",
+      "question": "หากท่านเห็นรถบรรทุกที่อยู่ข้างหน้าเปิดไฟเลี้ยวซ้ายแต่กำลังเคลื่อนไปทางขวา ท่านควรปฏิบัติอย่างไร",
+      "number": 82
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันสีน้ำเงิน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีเขียว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันไหนไปก่อนก็ได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มีสิทธิที่จะไปพร้อมๆ กัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.54.1.JPG",
+      "question": "จากรูป รถคันสีน้ำเงิน หรือรถคันสีเขียว มีสิทธิที่จะได้ไปก่อน",
+      "number": 83
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วและให้ทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วเพื่อจะไปก่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีที่ท่านเห็นรถคันอื่นให้สัญญาณเพื่อเลี้ยวรถหรือเปลี่ยนช่องทางการเดินรถ ท่านต้องปฏิบัติอย่างไร",
+      "number": 84
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันสีขาว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีแดง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีความเร็วสูงกว่า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีความเร็วต่ำกว่า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.56.1.JPG",
+      "question": "จากรูป รถคันใดจะต้องให้ทาง",
+      "number": 85
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รูป 1.",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รูป 2.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รูป 3.",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รูป 1. และ รูป 3.",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.57.1.JPG",
+      "question": "รูปใดแสดงการกลับรถที่ถูกต้อง",
+      "number": 86
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่แซงหากรถคันหน้ากำลังแซงอยู่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แซงขณะที่รถข้างหลังกำลังจะแซงรถของท่าน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่แซงหากมีรถวิ่งสวนมาในระยะใกล้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แซงได้หากรถข้างหน้าของท่านเปิดไฟเลี้ยวซ้ายและชะลอความเร็วลง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้เป็นการปฏิบัติที่ไม่ถูกต้อง",
+      "number": 87
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วและรอจนกว่ารถคันหน้าเลี้ยวผ่านไป",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความเร็วของรถและแซงผ่านไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณไฟสูงเพื่อบอกให้รู้ว่าจะแซงผ่านไปก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณแตรเพื่อบอกให้รู้ว่าจะแซงผ่านไปก่อน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.59.JPG",
+      "question": "จากรูป หากรถที่ท่านกำลังจะแซงเปิดสัญญาณไฟเลี้ยวขวา ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 88
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ระยะทางและเวลาในการแซงน้อยลง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้ระยะทางมากขึ้น เวลาในการแซงเท่าเดิม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ระยะทางเท่าเดิม เวลาในการแซงมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้ระยะทางและเวลาในการแซงมากขึ้น",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้กล่าวได้ถูกต้องเกี่ยวกับการแซงรถคันหน้าที่เคลื่อนตัวด้วยความเร็วที่ใกล้เคียงกัน",
+      "number": 89
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลงจนท่านคิดว่าปลอดภัย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับให้ใกล้เคียง.100 กม.ต่อชั่วโมง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ออกจากเส้นทางนั้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถของท่านทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านขับรถด้วยความเร็ว 90 กิโลเมตรต่อชั่วโมงแต่ท่านรู้สึกว่าเร็วเกินไป ท่านควรปฏิบัติอย่างไร",
+      "number": 90
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางเลี้ยวซ้ายเข้าซอย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางบังคับเลี้ยว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางเลี้ยวซ้ายออกจากซอย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางกลับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับขี่ในทางลักษณะใดที่ไม่จำเป็นต้องให้สัญญาณไฟเลี้ยว",
+      "number": 91
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงขณะที่ไม่มีรถสวนทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงขณะฝนตกหนัก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงเมื่อรถเกิดอุบัติเหตุ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงเมื่อขับรถตามหลังคันหน้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.90การเปิดไฟสูงในสถานการณ์ใดถูกต้อง",
+      "number": 92
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นำสัญลักษณ์รูปสามเหลี่ยมมาไว้ท้ายรถของท่าน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถทิ้งไว้กลางถนน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินและนำรถจอดเข้าข้างทาง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ก่อกองไฟข้างทางในกรณีที่รถท่านเสียเวลากลางคืน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.91เมื่อรถของท่านเสียบริเวณกลางถนน ท่านควรปฏิบัติอย่างไร",
+      "number": 93
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อรถของท่านเสีย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อท่านขับรถด้วยความเร็วต่ำขณะที่กำลังหลงทาง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อท่านขับรถด้วยความเร็วต่ำเนื่องจากฝนตกหนัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อท่านต้องการขับผ่านสี่แยกไปในทิศทางตรง. ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "8.92ท่านควรใช้สัญญาณไฟฉุกเฉินในกรณีใด",
+      "number": 94
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้ไม่สามารถส่งสัญญาณไฟเลี้ยวได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ผู้ขับขี่คันอื่นเข้าใจว่าเป็นรถที่ขับเร็ว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ผู้ขับขี่คันอื่นสับสนว่ารถคันที่เปิดไฟฉุกเฉินกำลังเลี้ยวไปด้านใดด้านหนึ่ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ผู้ขับขี่คันอื่นคิดว่าเป็นรถที่จอดนิ่งอยู่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้กล่าวไม่ถูกต้องสำหรับการเปิดสัญญาณไฟฉุกเฉินตลอดเวลา",
+      "number": 95
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขณะฝนตก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตอนกลางคืน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขณะที่มีลมแรง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขณะมีหมอก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหยุดรถในสถานการณ์ใดจะใช้ระยะทางมากกว่าปกติ",
+      "number": 96
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การดูแลเอาใจใส่สภาพเครื่องยนต์และระบบช่วงล่าง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ความว่องไวในการตอบสนองของร่างกายดีเยี่ยม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การดื่มสุราก่อนขับรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การดูแลเอาใจใส่ลมยาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สิ่งใดเป็นปัจจัยที่ทำให้การเบรกด้อยประสิทธิภาพ",
+      "number": 97
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟหรี่",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟเลี้ยวซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟเลี้ยวขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟต่ำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านจอดรถในทางเดินรถหรือบนไหล่ทางในเวลากลางคืน ท่านต้องปฏิบัติอย่างไร",
+      "number": 98
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ต้องสนใจและขับแซงรถประจำทางไปในทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วและให้รถประจำทางไปก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรหรือกะพริบไฟสูง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟฉุกเฉิน เพื่อบอกให้รถประจำทางไปก่อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.71.1.JPG",
+      "question": "จากรูป เมื่อท่านพบรถประจำทางเปิดไฟเลี้ยวขวาเพื่อออกจากป้ายรถเมล์ ท่านควรปฏิบัติอย่างไร",
+      "number": 99
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับแซงไปได้เลยโดยไม่ต้องสนใจรถที่สวนมา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หากท่านคิดว่าท่านขับได้เร็วกว่ารถที่สวนมาแล้ว จึงทำการแซงได้ทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถที่ขับสวนมาผ่านไปก่อนแล้วค่อยขับแซง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หากคิดว่าถนนมีความกว้างพอจึงแซงไปได้เลย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.72.1.JPG",
+      "question": "จากรูป หากท่านต้องการแซงบนถนนที่มีรถวิ่งสวนมา ท่านต้องปฏิบัติอย่างไร",
+      "number": 100
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วเท่าเดิมและให้สัญญาณไฟสูง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็วเท่าเดิมและให้สัญญาณแตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงและเตรียมที่จะหยุดรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถและโบกมือให้เด็กไปเก็บลูกบอล ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.73.JPG",
+      "question": "ท่านกำลังขับขี่ผ่านบริเวณที่มีรถจอดอยู่ข้างทาง.แต่ท่านสังเกตเห็นลูกบอลกลิ้งออกมา ท่านควรปฏิบัติอย่างใด",
+      "number": 101
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันหลังไม่สามารถแซงคันหน้าได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันหลังสามารถแซงได้หากไม่มีคนข้ามถนน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันหลังสามารถแซงได้หากไม่มีรถสวนมา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถคันหลังสามารถแซงได้หากไม่มีป้ายหยุดบนขอบทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.74.JPG",
+      "question": "จากรูป ข้อใดต่อไปนี้ถูกต้องเกี่ยวกับการแซง",
+      "number": 102
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับต่อไปโดยไม่ต้องระวังสิ่งใด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วผ่านไปทันที",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณไฟสูงเพียงอย่างเดียวก็เพียงพอ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวังมากขึ้น เตรียมพร้อมที่จะหยุดเสมอ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อท่านขับรถเข้าใกล้รถที่จอดอยู่ข้างทาง.ท่านควรปฏิบัติอย่างไรจึงจะเหมาะสมที่สุด",
+      "number": 103
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เร่งความเร็วผ่านไปทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความระมัดระวังมากขึ้น เตรียมพร้อมที่จะหยุดเสมอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณไฟสูงเพียงอย่างเดียวก็เพียงพอ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับต่อไปโดยไม่ต้องระวังสิ่งใด ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อท่านขับรถเข้าใกล้รถที่จอดอยู่ข้างทาง.ท่านควรปฏิบัติอย่างไรจึงจะเหมาะสมที่สุด",
+      "number": 104
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับขี่เร็วเกินอัตราที่กฎหมายกำหนด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนช่องจราจร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับขี่ด้วยความเร็วคงที่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แซงรถคันอื่น เมื่อเห็นว่าปลอดภัย ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับขี่ท่านควรหลีกเลี่ยงพฤติกรรมใดมากที่สุด",
+      "number": 105
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถ รอผ้าเบรกให้แห้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถ ตรวจสอบยาง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้เท้าแตะเบรกเพื่อให้ผ้าเบรกแห้งเร็ว",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้เร็วขึ้นเพื่อให้ผ้าเบรกแห้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อท่านขับรถผ่านถนนที่มีน้ำท่วมขังแล้ว ท่านควรปฏิบัติอย่างไร",
+      "number": 106
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หากไม่มีสัญญาณไฟจราจร ให้รถคันที่ใหญ่กว่าผ่านทางร่วมทางแยกไปก่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อพบป้ายเตือนทางร่วมทางแยกให้ขับรถไปตามปกติ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อพบป้ายเตือนสัญญาณไฟบริเวณทางร่วมทางแยกให้เพิ่มความเร็วขึ้นเล็กน้อย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปฏิบัติตามสัญญาณไฟจราจรหรือกฎจราจรอย่างเคร่งครัด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับขี่ผ่านทางร่วมทางแยกต้องปฏิบัติอย่างไร",
+      "number": 107
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้รถคันสีเขียวไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้รถคันสีน้ำเงินไปก่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันไหนไปก่อนก็ได้ หากมีความเร็วสูงกว่า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถคันไหนไปก่อนก็ได้ หากมาถึงก่อน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.80.JPG",
+      "question": "จากรูปรถคันสีน้ำเงิน หรือรถคันสีเขียวมีสิทธิที่จะผ่านไปก่อน",
+      "number": 108
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แซงรถคันข้างหน้าในขณะเข้าโค้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เว้นระยะห่างจากรถคันหน้าในระยะที่ผู้ขับขี่สามารถหยุดรถได้ทัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แซงด้านซ้ายในถนน 2 ช่องจราจร เมื่อรถคันหน้าขับช้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟสูงตลอดเวลาในการขับรถเวลากลางคืน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการขับรถอย่างปลอดภัย",
+      "number": 109
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ทั้งรถทางขวาและซ้ายไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้รถทางขวาไปก่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้รถทางซ้ายไปก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เลี้ยวขวาได้ทันที ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.81.JPG",
+      "question": "จากรูป หากท่านต้องการที่จะเลี้ยวขวาที่ทางแยกรูปตัว T ท่านจะต้องปฏิบัติอย่างไร",
+      "number": 110
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถเข้าไปต่อคันหน้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รอจนกว่ารถข้างหน้าของท่านจะเคลื่อนตัว แล้วจึงขับรถเข้าไปต่อคันหน้า",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถเข้าไปตรงกลางแยก.แล้วรอจนกว่ารถข้างหน้าจะเคลื่อนตัว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พยายามขับแทรกไปทางขวาของรถคันหน้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.82.JPG",
+      "question": "จากรูป เมื่อท่านขับรถมาถึงทางแยกพบสัญญาณไฟเขียว แต่เกิดจราจรติดขัดในเส้นทางที่ท่านจะสัญจร ท่านควรปฏิบัติอย่างไร",
+      "number": 111
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันสีฟ้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีเหลือง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหมาะสมทั้งคู่",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่เหมาะสมทั้งคู่ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.83.JPG",
+      "question": "จากรูป รถคันสีฟ้าและรถคันสีเหลืองต้องการจะเลี้ยวขวาเพื่อไปเลี้ยวซ้ายในซอยที่ 1 รถคันใดอยู่ในตำแหน่งที่เหมาะสม",
+      "number": 112
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันสีเหลือง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีแดง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "คันใดก็ตามที่มาถึงทางแยกก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "คันใดก็ตามที่ขับด้วยความเร็วที่สูงกว่า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.84.JPG",
+      "question": "จากรูป รถคันสีแดงและรถคันสีเหลืองต้องการไปในทิศทางเดียวกัน รถคันใดมีสิทธิไปก่อนเมื่อมีสัญญาณให้หยุดทั้งสองทิศทาง",
+      "number": 113
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลง.และขับผ่านไปด้วยความระมัดระวัง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถหลังเส้นหยุดรถ เมื่อเห็นว่าปลอดภัยจึงขับผ่านไปด้วยความระมัดระวัง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถต่อไปตามปกติ เพื่อมิให้เกิดความล่าช้าแก่รถคันที่ตามมา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แจ้งเจ้าพนักงานว่าสัญญาณไฟจราจรขัดข้อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านพบสัญญาณไฟกะพริบสีแดงที่บริเวณทางร่วมทางแยก.ท่านต้องปฏิบัติอย่างไร",
+      "number": 114
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลง.และขับผ่านไปด้วยความระมัดระวัง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถหลังเส้นหยุดรถ เมื่อเห็นว่าปลอดภัยจึงขับผ่านไปด้วยความระมัดระวัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถต่อไปตามปกติ เพื่อมิให้เกิดความล่าช้าแก่รถคันที่ตามมา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แจ้งเจ้าพนักงานว่าสัญญาณไฟจราจรขัดข้อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านพบสัญญาณไฟกะพริบสีเหลืองที่บริเวณทางร่วมทางแยก.ท่านต้องปฏิบัติอย่างไร",
+      "number": 115
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่มาถึงทางแยกก่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีแดง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีเหลือง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีความเร็วสูงกว่า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.87.JPG",
+      "question": "จากรูป ในกรณีที่ไม่มีสัญญาณไฟจราจร รถคันสีแดงหรือรถคันสีเหลืองมีสิทธิที่จะได้ไปก่อน",
+      "number": 116
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สามารถไปได้ในเวลาเดียวกัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีแดง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีเหลือง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่มีความเร็วสูงกว่า ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.88.JPG",
+      "question": "จากรูป หากรถคันสีแดง.และรถคันสีเหลือง.ต้องการจะเลี้ยวขวาในเวลาเดียวกัน รถคันใดจะมีสิทธิไปก่อน",
+      "number": 117
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วสูง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วปกติ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วปกติ แต่ชะลอความเร็วเมื่อพบป้ายเตือน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับด้วยความเร็วที่ต่ำ ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับขี่ในบริเวณชุมชนที่ถูกต้อง.ควรปฏิบัติอย่างไร",
+      "number": 118
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ป้ายโฆษณาข้างทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถโดยสารที่กำลังจอดและกำลังเคลื่อนที่ออก.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สัตว์ที่ถูกปล่อยอยู่บนถนน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "คนขี่จักรยาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับขี่ภายในชุมชน ผู้ขับขี่ไม่จำเป็นต้องใส่ใจกับสิ่งใด",
+      "number": 119
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พยายามใช้ความเร็วคงที่ในการผ่านบริเวณนั้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถชิดขอบทางด้านซ้ายด้วยความระมัดระวัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณเตือนผู้คนในละแวกนั้น ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อขับขี่เข้าใกล้บริเวณทางม้าลายหน้าโรงเรียน ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 120
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้สัญญาณแตรเสียงสั้นเพื่อเตือน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องให้สัญญาณ เพียงชะลอความเร็วลงก็พอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้สัญญาณแตรเสียงยาวเพื่อเตือน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้สัญญาณไฟสูงเพื่อเตือน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อขับรถเข้าใกล้บริเวณทางม้าลาย แต่ไม่มีคนข้ามทางม้าลาย ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 121
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รักษาระยะห่างไว้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณแตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แซงไปทางด้านซ้าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับตามรถใหญ่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.93.JPG",
+      "question": "หากท่านกำลังขับขี่เข้าสู่วงเวียน และพบรถขนาดใหญ่ที่กำลังเปิดสัญญาณไฟเลี้ยวซ้ายแต่ตัวรถค่อยๆ เคลื่อนตัวไปทางขวา ท่านควรปฏิบัติอย่างไร",
+      "number": 122
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับขี่ด้วยความเร็วต่ำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับแซงไปมา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปฏิบัติตามกฎจราจรอย่างเคร่งครัด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้สัญญาณไฟเลี้ยวก่อนออกจากวงเวียนเสมอ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้เป็นสิ่งที่ไม่ควรปฏิบัติในการขับขี่ผ่านวงเวียน (การขับขี่ผ่านวงเวียน)",
+      "number": 123
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วก่อนเข้าโค้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้ความเร็วสูงกว่าที่กำหนด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนเกียร์ขณะเข้าทางโค้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกกะทันหันขณะเข้าทางโค้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการขับรถเข้าทางโค้งอย่างปลอดภัย",
+      "number": 124
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จุดที่ 2",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จุดที่ 1",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จุดที่ 3",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยวซ้ายทุกๆ จุด ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากรถคันสีเหลืองต้องการมุ่งหน้าตรงผ่านวงเวียน จะต้องเปิดไฟเลี้ยวซ้ายเพื่อออกจากวงเวียนที่ตำแหน่งใด",
+      "number": 125
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วจนกว่าจักรยานจะผ่านทางเลี้ยว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พยายามแซงจักรยานก่อนที่จะถึงทางเลี้ยว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถเพื่อรอจนกว่าคนขี่จักรยานจะผ่านทางเลี้ยว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำการเลี้ยวโดยไม่ต้องสนใจจักรยาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "https://2.bp.blogspot.com/-rcEUPOkFjwU/U-3k4rVF6uI/AAAAAAAAAmM/uumwAWO3vds/s1600/1.8.97%2B(1).JPG",
+      "question": "จากรูป หากท่านกำลังขับตามหลังคนขี่จักรยาน แต่ท่านต้องการที่จะเลี้ยวซ้าย ท่านควรปฏิบัติอย่างไร",
+      "number": 126
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถโดยสารอาจเคลื่อนที่โดยฉับพลัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้เดินเท้าอาจเดินออกมาทางข้างหลังรถโดยสาร",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถโดยสารอาจเสียอยู่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องระวัง.เนื่องจากเป็นถนนฝั่งตรงข้าม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สิ่งใดที่ท่านควรระวังเป็นพิเศษเมื่อพบรถโดยสารจอดอยู่ในถนนฝั่งตรงข้าม",
+      "number": 127
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคันสีน้ำตาล",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีน้ำเงิน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันใดก็ได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถคันที่มีความเร็วต่ำกว่า ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.99.JPG",
+      "question": "ดังรูปในกรณีที่รถสีน้ำตาลมาจากทางหลักและรถสีน้ำเงินออกมาจากซอยซึ่งเป็นทางรอง.รถคันใดต้องหยุดให้ทาง",
+      "number": 128
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แซงบริเวณเขตห้ามแซงด้วยความระมัดระวัง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่ควรแซงในทางที่มีทัศนวิสัยไม่ดี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรประเมินเวลาที่ใช้ในการแซงให้ถูกต้อง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แซงในขณะที่เห็นว่าปลอดภัยแล้วเท่านั้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดกล่าวไม่ถูกต้องเกี่ยวกับการแซง",
+      "number": 129
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับต่อไปด้วยความเร็วคงที่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วและเตรียมหยุดรถ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับต่อไปด้วยความเร็วสูงขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วลงและขับผ่านไป",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.101.JPG",
+      "question": "เมื่อท่านเห็นสัญญาณไฟจราจรเปลี่ยนจากสีเขียวเป็นสีเหลืองในขณะที่ท่านกำลัง จะขับขี่ผ่านทางแยกในเวลาเช้าตรู่ที่ไม่มีการจราจรอยู่ในบริเวณรอบๆ ท่านควรปฏิบัติอย่างไร",
+      "number": 130
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจสอบการจราจรรอบๆ ข้างก่อน จากนั้นจึงออกรถ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านทางแยกไปโดยเร็ว เพื่อไม่ให้รถคันหลังเสียเวลา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รอจนกว่ารถคันข้างหลังของท่านจะให้สัญญาณแตร แล้วจึงออกรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปฏิบัติอย่างไรก็ได้ แล้วแต่ผู้ขับขี่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.102.JPG",
+      "question": "ในขณะที่ท่านกำลังหยุดรอสัญญาณไฟอยู่ที่ทางแยก.แล้วไฟจราจรเปลี่ยนเป็นสีเขียว ท่านควรปฏิบัติอย่างไร",
+      "number": 131
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บีบแตรเพื่อเตือนให้รถคันอื่นรับรู้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มองกระจกข้าง.ให้สัญญาณ และเปลี่ยนช่องทางเมื่อปลอดภัย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วขึ้นและแซงโดยไม่ต้องมองกระจกข้าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วไปข้างหน้าและรีบเปลี่ยนช่องจราจร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.103.JPG",
+      "question": "จากรูป ผู้ขับขี่รถคันสีแดงควรปฏิบัติอย่างไร",
+      "number": 132
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีน้ำเงิน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคันสีเขียว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นต้องระวังรถคันใดเลย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.8.104.JPG",
+      "question": "จากรูป ผู้ขับขี่รถคันสีแดงควรระมัดระวังรถคันใดมากที่สุด",
+      "number": 133
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจความพร้อมของรถยนต์ก่อนออกเดินทางทุกครั้ง.",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นให้สัญญาณไฟเลี้ยวในการเปลี่ยนช่องจราจร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ในการกลับรถไม่จำเป็นต้องให้สัญญาณไฟเลี้ยว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ในการขับรถตรงผ่านทางแยกควรให้สัญญาณไฟกะพริบฉุกเฉิน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการปฏิบัติที่ถูกต้องตามหลักการขับรถอย่างปลอดภัย",
+      "number": 134
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพิ่มความเร็วก่อนเข้าโค้ง.ลดความเร็วขณะออกจากโค้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วก่อนเข้าโค้ง.เพิ่มความเร็วขณะออกจากโค้ง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วก่อนเข้าโค้ง.ลดความเร็วขณะออกจากโค้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความเร็วก่อนเข้าโค้ง.เพิ่มความเร็วขณะออกจากโค้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หลักการขับรถเข้าโค้งที่ถูกต้องควรปฏิบัติเช่นไร",
+      "number": 135
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทดสอบไฟสูง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบไฟเลี้ยว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบสัญญาณแตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบระบบเบรก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อความปลอดภัยเมื่อออกรถเคลื่อนที่ไปข้างหน้าได้ประมาณ 3-4 เมตร ควรทดสอบอะไรเป็นอันดับแรก",
+      "number": 136
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟหรี่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าๆ โดยไม่ต้องเปิดไฟ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟส่องสว่าง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรแล้วขับให้เร็วเพื่อป้องกันรถคันหลังชนท้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อควรปฏิบัติขณะขับรถขณะฝนตกคือข้อใด",
+      "number": 137
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์ให้เร็วแล้วตามด้วยเบรก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกโดยเร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จับพวงมาลัยให้มั่น แล้วค่อยๆ เบรกและนำรถเข้าข้างทาง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์อย่างเดียว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าขณะขับรถเกิดยางแตกหรือยางระเบิดควรปฏิบัติเช่นไร",
+      "number": 138
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห่างพอสมควรและสามารถหยุดรถได้โดยปลอดภัย",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "3 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "5 เมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หนึ่งช่วงรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในสภาพถนนปกติ รถพร้อม คนพร้อม ขับรถตามรถคันหน้าต้องเว้นระยะห่างจากรถคันหน้าเท่าใด จึงจะปลอดภัยเมื่อรถคันหน้าหยุด",
+      "number": 139
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉิน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ ใช้ปลายเท้างัดคันเร่งขึ้นมา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดึงเบรกมือ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ย้ำคันเร่งหลายๆ ครั้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถหากเกิดคันเร่งค้างควรทำอย่างไร",
+      "number": 140
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ฝนตก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับผ่านสี่แยก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถเสียบนทางด่วน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บริเวณที่มีหมอกลงจัด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือการใช้ไฟฉุกเฉินที่ถูกต้อง",
+      "number": 141
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขึ้นและลงใช้เกียร์ต่ำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขึ้นใช้เกียร์ต่ำและลงใช้เกียร์สูง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขึ้นใช้เกียร์ต่ำและลงใช้เกียร์ว่าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขึ้นและลงใช้เกียร์สูง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การใช้เกียร์เพื่อขึ้นและลงเขาข้อใดถูก",
+      "number": 142
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ขับรถไปชนคันอื่น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับให้ถึงที่หมายเร็วที่สุด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่เป็นเหตุให้รถคันอื่นชนกัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันไม่ให้รถคันอื่นมาชนเรา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อะไรไม่ใช่เป้าหมายในการขับรถอย่างปลอดภัย",
+      "number": 143
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพราะจะทำให้ผู้ขับรถคันหน้าและรถที่วิ่งสวนทางมามองทางไม่ชัดเจน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้ผู้ขับรถคันหน้าหลับใน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้เรามองทางข้างหน้าไม่ชัดเจน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จะทำให้รถที่วิ่งสวนทางมาหลับใน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เหตุใดจึงห้ามเปิดไฟสูงขณะที่ขับรถตามคันหน้าหรือรถที่วิ่งสวนทางมา",
+      "number": 144
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "วิ่งแล้วเบรกบ่อยๆ เพื่อให้หายง่วง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถหวาดเสียวเพื่อให้ระบบประสาทตื่นตัว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดพัก.นอน หรือยืดเส้นยืดสายตามจุดพัก.หรือปั๊มน้ำมัน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งเครื่องเพื่อให้ถึงจุดหมายโดยเร็ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถทางไกลเมื่อรู้สึกว่าตนเองง่วงควรปฏิบัติอย่างไร",
+      "number": 145
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไปฉุกเฉินตลอดเวลาที่ฝนตก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทิ้งช่วงห่างจากรถคันหน้า เผื่อไว้มากๆ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้อัตราความเร็วที่ปลอดภัย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่วิธีการขับรถที่ปลอดภัยในขณะที่ฝนตก.",
+      "number": 146
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถที่จะข้ามมาจากฝั่งตรงข้าม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถไฟที่อาจจะสวนทางมาอีกทางหนึ่ง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "คนที่จะเดินข้ามทางรถไฟ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถที่หยุดรอด้านหลัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการข้ามทางรถไฟรางคู่ที่ไม่มีเครื่องกั้นเมื่อรถไฟผ่านไปแล้วผู้ขับรถควรระวังสิ่งใดต่อไปนี้",
+      "number": 147
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก่อนข้ามทางรถไฟต้องตรวจสอบความปลอดภัยอีกครั้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับตามคันด้านหน้าไปได้เลย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอเจ้าหน้าที่ให้สัญญาณ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รอสัญญาณไฟเขียว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับรถข้ามทางรถไฟที่ไม่มีเครื่องกั้นเมื่อคันด้านหน้าขับข้ามทางรถไฟไปแล้วท่านควรปฏิบัติอย่างไร",
+      "number": 148
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ประสิทธิภาพของเบรกจะน้อยลง.เบรกยาวขึ้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระบบกันสะเทือนจะนุ่มนวลมากขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควันไอเสียจะมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์ทำงานเต็มประสิทธิภาพ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อท่านขับรถที่มีน้ำหนักบรรทุกมาก.ข้อใดถูกต้องมากที่สุด",
+      "number": 149
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แรงหนีศูนย์ของรถและสิ่งของจะน้อยลง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จุดศูนย์ถ่วงจะสูงขึ้นทำให้พลิกคว่ำได้ง่าย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แรงเหวี่ยงของรถจะน้อยลงเนื่องจากน้ำหนักบรรทุก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระยะเบรกจะสั้นลง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อท่านขับรถที่บรรทุกสิ่งของที่มีความสูงจะมีผลอย่างไร",
+      "number": 150
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บริษัทของผู้ผลิตยาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ความเหนื่อยล้า",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สภาพถนนที่เปียก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำหนักบรรทุก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สิ่งใดที่ไม่มีผลต่อระยะการเบรกรถ",
+      "number": 151
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การชะลอรถควรใช้เบรกเท่านั้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ในการขับรถควรใช้คันเร่งควบคุมในการเร่งและชะลอรถให้มากที่สุด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การใช้เกียร์ช่วยลดความเร็วให้ใช้เฉพาะทางลงลาดชันเท่านั้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรใช้เบรกมือร่วมกับเบรกเท้าเพื่อช่วยลดการสึกหรอเบรกเท้า",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดถูกต้องที่สุดในการควบคุมความเร็วของรถ",
+      "number": 152
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตั้งสัญลักษณ์แสดงว่ามีรถจอดเสียในระยะ 150 เมตร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟฉุกเฉินพร้อมไฟหน้ารถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ยืนโบกด้านท้ายรถเพื่อส่งสัญญาณกันรถชนท้ายรถเรา",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดฝากระโปรงด้านหน้าและท้ายรถ เพื่อส่งสัญญาณ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดปฏิบัติไม่ถูกต้องเมื่อรถของท่านจอดเสียกลางถนนหลวง",
+      "number": 153
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พักผ่อนให้เพียงพอ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดื่มเหล้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กินยาบ้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เที่ยวดึก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ก่อนขับรถ ผู้ขับขี่ที่ดีควรเตรียมความพร้อมของตนเองอย่างไร",
+      "number": 154
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจสภาพอากาศ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ต่อใบอนุญาตขับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดูหนังสือแผนที่ทางหลวงแผ่นดิน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจแรงดันลมยาง,เบรก,น้ำมันหล่อลื่น",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการเตรียมความพร้อมของรถก่อนขับรถ",
+      "number": 155
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉิน, นำรถจอดเข้าข้างทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถทิ้งไว้กลางถนน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นำกิ่งไม้วางไว้ท้ายรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ก่อกองไฟข้างทางหากเป็นกลางคืน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อเกิดรถเสีย ควรปฏิบัติอย่างไร",
+      "number": 156
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สีเขียว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สีแดง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สีเหลือง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สีฟ้า ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สัญญาณไฟเตือนบนแผงหน้าปัดรถสีใด ที่ไม่ควรปรากฏขณะขับรถ",
+      "number": 157
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้า จับพวงมาลัยให้กระชับ สามารถหมุนได้คล่องตัว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้า กำพวงมาลัยให้แน่นที่สุด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นิ้วมือทั้งห้าแตะที่พวงมาลัย สามารถหมุนพวงมาลัยด้วยมือข้างเดียว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้นิ้วหัวแม่มือและนิ้วชี้จับพวงมาลัยเพียงสองนิ้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจับพวงมาลัยนิ้วมือควรอยู่ในลักษณะใด",
+      "number": 158
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ถอนคันเร่ง.เหยียบเบรกเพื่อใช่เกียร์ต่ำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกทันที แล้วค่อยๆ ออกตัวเร่งความเร็วใหม่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติให้มั่น จับพวงมาลัยให้ดี เร่งความเร็วหนีให้พ้นไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถอนคันเร่ง.จับพวงมาลัยให้มั่นประคองรถต่อไป",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อผู้ขับขี่ขับรถเสียหลักบนถนนเปียกลื่น ควรปฏิบัติอย่างไร",
+      "number": 159
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตั้งสติ เปิดไฟฉุกเฉิน ลดความเร็ว จอดรถข้างทาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ เปิดไฟฉุกเฉิน และขับรถต่อไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ เปิดไฟฉุกเฉิน และหยุดรถทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตั้งสติ จอดรถข้างทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถ ถ้ากระจกบังลมหน้ารถแตกร้าว ควรปฏิบัติอย่างไร",
+      "number": 160
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำฝนจะชะล้างถนนให้สะอาด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำฝนจะกลายเป็นฟิล์มรองรับระหว่างยางกับพื้นถนน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ฝนตกทำให้ถนนชำรุดเป็นหลุมเป็นบ่อ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถนนคอนกรีตดูดซับน้ำฝนได้อย่างดี",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะฝนตกใหม่ๆ รถมักลื่นไถล เพราะเหตุใด",
+      "number": 161
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ความเร็วไม่เกิน 20 กิโลเมตรต่อชั่วโมง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เบรกรถอย่างรุนแรงและรวดเร็ว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้ารถในขณะขับรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงและเพิ่มความระมัดระวังให้มากขึ้น ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ควรปฏิบัติขณะขับรถเมื่อฝนตกหนัก",
+      "number": 162
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ที่ปัดน้ำฝน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำในหม้อน้ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่นแบตเตอรี่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจเช็คประตูหน้าต่างรถ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อความปลอดภัยในการขับรถช่วงฤดูฝน ควรตรวจสอบอุปกรณ์ส่วนควบสิ่งใดของรถก่อนเป็นลำดับแรก",
+      "number": 163
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถด้วยความเร็ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉิน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้ารถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งเครื่องยนต์ให้มากกว่าปกติเล็กน้อย และควบคุมเครื่องยนต์ไม่ให้ดับ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะขับรถลุยน้ำ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 164
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรกแรงๆ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้เร็วๆ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าๆ เหยียบเบรกเบาๆ แล้วปล่อยหลายๆ ครั้ง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถเข้าเกียร์ว่างและเร่งเครื่องยนต์ไว้สัก. 10 นาที ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หลังจากขับรถลุยน้ำ ผ้าเบรกเปียกมีวิธีแก้ไขให้แห้งได้อย่างไร",
+      "number": 165
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพื่อป้องกันไม่ให้เครื่องยนต์ดับ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้รถมีความเร็วมากขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้เครื่องยนต์ร้อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้ความร้อนของเครื่องยนต์สูงกว่าปกติ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เหตุใดขณะขับรถลุยน้ำจึงต้องเลี้ยงคลัตช์และเร่งเครื่องยนต์มากกว่าปกติเล็กน้อย",
+      "number": 166
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อฝนตกหนัก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อต้องเร่งรีบไปทำงาน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อมีควันไฟปกคลุมถนน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อไม่สามารถมองเห็นทางข้างหน้าในระยะต่ำกว่า 150 เมตร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเปิดไฟหน้ารถไม่ถูกต้อง",
+      "number": 167
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับช้าๆ ตามหลังรถคันหน้าในระยะห่างพอสมควร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามใช้เบรกอย่างเด็ดขาด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พยายามขับให้จี้ติดท้ายรถคันหน้าตลอดเวลา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินตลอดเวลา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถผ่านบริเวณน้ำท่วม ควรปฏิบัติอย่างไร",
+      "number": 168
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รับประทานเครื่องดื่มกระตุ้นประสาทชนิดเข้มข้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นอนหลับพักผ่อนให้เพียงพอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ต่อทะเบียนรถให้เรียบร้อย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันให้เต็มถัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อความปลอดภัยก่อนขับรถ ผู้ขับขี่ควรเตรียมความพร้อมอย่างไร",
+      "number": 169
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ถนน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ขับขี่รถ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สัญญาณไฟจราจร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไฟส่องถนนบริเวณทางร่วมทางแยก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นปัจจัยสำคัญที่ก่อให้เกิดอุบัติเหตุทางถนนมากที่สุด",
+      "number": 170
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "นางสมศรีขับรถปฏิบัติตามความพอใจของตัวเอง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "นายสมชายขับรถจักรยานยนต์สวมรองเท้าหุ้มส้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "นางจิตราขับรถในเขตกรุงเทพฯ ใช้ความเร็วเพียง.50 กิโลเมตรต่อชั่วโมง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นายทองใบขับรถนอกเขตเทศบาลใช้ความเร็วเพียง. 80 กิโลเมตรต่อชั่วโมง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "พฤติกรรมการขับรถข้อใดถือว่าไม่ปลอดภัย",
+      "number": 171
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มองกระจกมองข้างด้านขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟเลี้ยวซ้าย หันศีรษะไปด้านซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มองกระจกมองข้างด้านขวา เปิดไฟเลี้ยวขวา พร้อมกับหันศีรษะมองข้ามไหล่ขวาไปทางด้านหลังก่อนออกรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มองกระจกมองหลัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ก่อนออกรถจากไหล่ทางด้านซ้าย ผู้ขับขี่ต้องปฏิบัติอย่างไรให้ปลอดภัยมากที่สุด",
+      "number": 172
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เบรก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ปรับกระจกมองหลัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปรับกระจกมองข้าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไฟเลี้ยว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ภายหลังออกรถไปประมาณ 3 ถึง. 4 เมตร ควรทดสอบระบบใด",
+      "number": 173
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้เกียร์ต่ำแต่เมื่อใกล้ถึงยอดเขาให้เปลี่ยนเป็นเกียร์สูง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เกียร์สูงและลดความเร็วลง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้เกียร์ต่ำและขับด้วยความระมัดระวัง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้เกียร์ 4 ขึ้นไปขณะขึ้นทางลาดชัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถขึ้นทางลาดชัน ควรใช้เกียร์อย่างไร",
+      "number": 174
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถในที่ปลอดภัยแล้ว ตรวจเช็กรถในเบื้องต้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับต่อไปเรื่อยๆ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงแล้วขับต่อไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถทันทีกลางถนนห้ามเคลื่อนย้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะที่ขับรถอยู่ มีกลิ่นเหม็นไหม้ แอร์เริ่มไม่เย็น เครื่องยนต์เร่งไม่ขึ้น ควรปฏิบัติอย่างไร",
+      "number": 175
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถที่ปลอดภัย เอาน้ำแข็งมาแช่เครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถที่ปลอดภัย แล้วปล่อยให้เครื่องเย็นก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถที่ปลอดภัย แล้วเปิดฝาหม้อน้ำ เติมน้ำทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถที่ปลอดภัย แล้วเอาน้ำมาราดเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถเครื่องยนต์เกิดความร้อนสูง. ควรปฏิบัติอย่างไร",
+      "number": 176
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พักผ่อนให้เพียงพอ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รับประทานอาหารเพิ่มเป็น 2 เท่า ของวันปกติ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดื่มเครื่องดื่มชูกำลังให้มากๆ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้ยากระตุ้นประสาท (ยาบ้า)",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการขับรถทางไกล ผู้ขับขี่ควรเตรียมความพร้อมของร่างกายอย่างไร",
+      "number": 177
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางเลี้ยวซ้ายเข้าซอย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางเลี้ยวซ้ายออกจากซอย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางบังคับเลี้ยว",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางกลับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถในทางลักษณะใด ที่ไม่จำเป็นต้องเปิดไฟเลี้ยว",
+      "number": 178
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดอกยางสึกเร็วกว่าปกติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สิ้นเปลืองน้ำมันเพาเวอร์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สิ้นเปลืองน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้หมุนพวงมาลัยง่ายขึ้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหมุนพวงมาลัยรถ ขณะจอดรถอยู่กับที่จะมีผลอย่างไร",
+      "number": 179
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบเบรกแรงๆ โดยไม่ต้องถอนเบรก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบและปล่อยเบรกสลับกัน (ย้ำเบรกซ้ำๆ)",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกและดึงเบรกมือพร้อมกัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรก.และดับเครื่องยนต์พร้อมกัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การหยุดรถอย่างกะทันหัน (รถไม่มีเบรก.ABS) ควรปฏิบัติอย่างไร",
+      "number": 180
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ล้อจะล็อก. และรถจะไม่สามารถควบคุมได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถจะค่อยๆ ชะลอความเร็วลง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จะหยุดรถได้ตามระยะที่กำหนด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ล้อจะล็อก. และรถจะหยุดทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถที่ขับมาด้วยความเร็วสูงแล้วเหยียบเบรกอย่างกะทันหัน (รถไม่มีเบรก.ABS) จะมีผลอย่างไร",
+      "number": 181
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงให้มากที่สุดเท่าที่จะทำได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ควบคุมความเร็วของรถให้เหมาะสมกับโค้งหรือมุมเลี้ยว",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ความเร็วคงที่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพิ่มความเร็วให้มากขึ้นกว่าเดิม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ก่อนขับรถเข้าโค้งหรือมุมเลี้ยว ควรใช้ความเร็วอย่างไร",
+      "number": 182
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถหยุดกะทันหัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยจะหนัก.รถจะเอียง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยรถจะไร้น้ำหนัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เบรกจะไม่ทำงาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถยางรถแตก. จะมีอาการอย่างไร",
+      "number": 183
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มีรอยแตกร้าวตามแนวขอบยาง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยางจะมีสีดำสนิท",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ยางจะมีสีขาวนวล",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เวลาเปียกน้ำจะไม่เกาะยาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ยางที่หมดอายุจะมีลักษณะอย่างไร",
+      "number": 184
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "คุมสติ บังคับพวงมาลัย ลดความเร็วลงและไม่ควรเหยียบเบรกกะทันหัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รีบเหยียบเบรกให้เร็วที่สุด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปลดเกียร์ว่างแล้วรีบเหยียบเบรก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หมุนพวงมาลัยอย่างรวดเร็วเพื่อหลบเข้าข้างทาง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะขับรถ ยางรถแตกหรือระเบิด ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 185
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เบรกกะทันหัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หักเลี้ยวรถเข้าข้างทางทันที เพื่อปิดฝากระโปรงให้เรียบร้อย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วแล้วจอดข้างทาง.เพื่อปิดฝากระโปรงให้เรียบร้อย",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคันเร่งให้มิดเพื่อฝากระโปรงจะได้กระแทกปิด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะที่กำลังขับรถ ถ้าฝากระโปรงหน้ารถเปิด ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 186
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ทรายสาดใส่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "วิ่งหาน้ำมันมาราด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หาผ้าหนาๆ ปิดหรือดับไฟ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตัดกระแสไฟ หรือหาทางงัดขั้วแบตเตอรี่ออกก่อน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นวิธีแก้ไขเบื้องต้นเมื่อรถเกิดไฟลัดวงจร",
+      "number": 187
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เวลานั่งรู้สึกเหมือนรถจะกระตุกอยู่ตลอดเวลา",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยางล้อหน้าสึกหรอ พวงมาลัยหนัก.และรถกินน้ำมันมากขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ประหยัดน้ำมันแต่เปลืองยาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ประหยัดยางแต่เปลืองน้ำมัน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ลมยางล้อหน้าอ่อน จะมีผลต่อการขับขี่อย่างไร",
+      "number": 188
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้เข้าเกียร์ได้ง่าย",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้เบรกรถสะดวก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ทัศนวิสัยในการมองเห็นชัดเจนดีมาก.สามารถตัดสินใจได้ดี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บังคับพวงมาลัยลำบาก.ใช้อุปกรณ์ต่างๆ ไม่สะดวก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การปรับระดับที่นั่งคนขับห่างเกินไป จะมีผลอย่างไร",
+      "number": 189
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ต้องมีสีเข้มๆ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดูว่าเข็มขัดมียี่ห้อหรือไม่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดูว่าเป็นของใหม่หรือไม่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "กระตุกดึงสายเข็มขัดอย่างเร็ว แล้วสายเข็มขัดต้องล็อก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบว่าเข็มขัดนิรภัยยังใช้งานได้ดีหรือไม่ ควรตรวจสอบอย่างไร",
+      "number": 190
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การมองถึงสภาพของถนนที่แตกต่างกัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การมองการเคลื่อนไหวของรถและคน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มองไปยังสิ่งที่ไม่เกี่ยวข้องกับการขับรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "การมองเห็นฝูงสัตว์เลี้ยงกำลังข้ามถนน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่การมองที่ถูกวิธีในขณะขับรถ",
+      "number": 191
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เข้าเกียร์ยากและทำให้เกียร์เสียเร็วกว่าปกติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้น้ำมันเกียร์หมดเร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์กินน้ำมันเครื่อง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่มีผลต่อเกียร์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเข้าเกียร์ถอยหลังขณะรถยังไม่หยุดนิ่งมีผลเสียอย่างไร",
+      "number": 192
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ความเร็วตามสภาพของรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ถอยเหมือนกับเดินหน้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถอยช้าๆ แล้วใช้ความระมัดระวัง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถอยแบบไหนก็ได้ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถถอยหลังควรใช้ความเร็วระดับใด",
+      "number": 193
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจเมื่อไรก็ได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขณะที่บรรทุกของหนัก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขณะวิ่งใช้งานแล้วประมาณ 2 ชั่วโมง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขณะที่ยางยังเย็นอยู่ ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจลมยางควรตรวจเมื่อใด",
+      "number": 194
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขึ้นเบรกมือ-ปลดเกียร์ว่าง.-ปิดอุปกรณ์ไฟฟ้า-สตาร์ทเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ปลดเกียร์ว่าง-ขึ้นเบรกมือ-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปลดเบรกมือ-ปิดอุปกรณ์ไฟฟ้า-สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการสตาร์ทเครื่องยนต์ที่ถูกต้อง",
+      "number": 195
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความเร็วลงและขับด้วยความระมัดระวัง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เกียร์ต่ำกว่าปกติ 1 เกียร์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เบรกรถอย่างรุนแรงและรวดเร็ว",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้ารถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ควรปฏิบัติขณะขับรถเมื่อฝนตกหนัก.",
+      "number": 196
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถบริเวณที่ปลอดภัย เปิดไฟหน้ารถและเปิดไฟฉุกเฉิน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้าเร่งความเร็วผ่านบริเวณที่ฝนตกหนัก.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วให้ผ่านบริเวณที่ฝนตกโดยเร็ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากเกิดฝนตกหนักจนมองเห็นทางไม่ชัดเจน ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 197
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ความรวดเร็วในการตัดสินใจ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ความเร็วในการเหยียบเบรก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำหนักบรรทุกเพิ่มมากขึ้น",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำหนักบรรทุกลดน้อยลง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดที่ทำให้การหยุดรถต้องใช้ระยะทางมากขึ้นจึงสามารถหยุดรถได้",
+      "number": 198
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ติดไฟแดง.",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถลงทางลาดชัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดบนทางลาดชัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ควรใช้เบรกมือ",
+      "number": 199
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.2 และเลข.10",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.3 และเลข.10",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.4 และเลข.10",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตำแหน่งเลข.6 และเลข.10",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การจับพวงมาลัยขณะขับรถทางตรง.มือซ้ายและขวาของผู้ขับขี่ ควรอยู่ในตำแหน่งลักษณะใดของหน้าปัดนาฬิกา",
+      "number": 200
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สภาพพื้นผิวถนน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำหนักบรรทุก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันหล่อลื่น",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ความเร็วของรถ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่มีผลให้ระยะการหยุดรถ (ระยะเบรก) ยาวขึ้น",
+      "number": 201
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อรถเสียหรือเกิดอุบัติเหตุ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อขับรถผ่านทางร่วมทางแยก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อจะกลับรถหรือเปลี่ยนช่องทางเดินรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อมีหมอก.ฝน ฝุ่น ควัน ในทางเดินรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับขี่ควรใช้สัญญาณไฟฉุกเฉินเมื่อใด",
+      "number": 202
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพื่อป้องกันไม่ให้ง่วงซึม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ฝึกสมองให้เกิดสมาธิและสมองทำงานสัมพันธ์กับตา",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพื่อให้เหมือนทฤษฎีฝรั่ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เหมือนคนบ้าขับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การฝึกขับรถแบบ “ขับไปพูดไป” มีวัตถุประสงค์เพื่ออะไร",
+      "number": 203
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้สัญญาณไฟก่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ดูกระจกก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รีบเร่งเครื่องแล้วแซงได้เลย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟฉุกเฉินแล้วแซงได้เลย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อเราเตรียมขับรถแซงรถคันหน้า เราควรปฏิบัติเช่นไรเป็นอันดับแรก.",
+      "number": 204
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไฟหรี่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าๆ โดยไม่ต้องเปิดไฟ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟส่องสว่าง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "บีบแตรแล้วขับให้เร็วเพื่อป้องกันรถคันหลังชนท้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อควรปฏิบัติขณะขับรถฝ่าหมอกควันหรือฝนคือข้อใด",
+      "number": 205
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทดสอบเบรกหลายๆ ครั้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบไฟเลี้ยวหลายๆ ครั้ง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบสัญญาณแตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทดสอบไฟสูงต่ำ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หลังจากขับรถลุยน้ำ เมื่อเราขึ้นที่แห้งแล้วควรปฏิบัติเช่นไรเป็นอันดับแรก",
+      "number": 206
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์อย่างเดียว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เหยียบเบรกโดยเร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์ให้เร็วแล้วตามด้วยเบรก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถือพวงมาลัยให้มั่น แล้วค่อยๆ เบรกและนำรถเข้าข้างทาง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าขณะขับรถเกิดยางแตกหรือยางระเบิดควรปฏิบัติเช่นไร",
+      "number": 207
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "3 เมตร",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "5 เมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หนึ่งช่องรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห่างพอสมควรและสามารถหยุดรถได้โดยปลอดภัย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในสภาพถนนปกติ รถพร้อม คนพร้อม ขับรถตามรถคันหน้าต้องเว้นระยะห่างจากรถคันหน้าเท่าใดจึงจะปลอดภัยเมื่อรถคันหน้าหยุด",
+      "number": 208
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามพูดโทรศัพท์ขณะขับรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามหยุดรถให้คนข้ามทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามหยุดหรือจอดรถคุยกันกลางถนน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามแซงซ้ายในที่ห้ามแซงซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดผิด",
+      "number": 209
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปั่นพวงมาลัยและตีกลับเอง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้วิธีคลึงไปคลึงมาบนพวงมาลัย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ระบบดึง-ดัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หมุนระบบสอดสร้อยมาลา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ท่านควรหมุนพวงมาลัยลักษณะใดในการเลี้ยงรถ",
+      "number": 210
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขับรถตามปกติ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ช่วยเหลือผู้บาดเจ็บเท่าที่จำเป็น",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รีบขับรถหนี",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถช้าๆ ชะลอดูเหตุการณ์ ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อเห็นผู้ขับขี่เกิดอุบัติเหตุควรปฏิบัติเช่นไร",
+      "number": 211
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เร่งเครื่องเพื่อให้ถึงจุดหมายโดยเร็ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถหวาดเสียวเพื่อให้ระบบประสาทตื่นตัว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "วิ่งแล้วเบรกบ่อยๆ เพื่อให้หายง่วง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดพักนอน หรือยืดเส้นยืดสายตามจุดพัก.หรือปั๊มน้ำมัน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การขับรถทางไกลเมื่อรู้สึกว่าตนเองง่วงควรปฏิบัติอย่างไร",
+      "number": 212
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดไปฉุกเฉินตลอดเวลาที่ฝนตก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทิ้งช่วงห่างจากรถคันหน้า เผื่อไว้มากๆ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้อัตราความเร็วที่ปลอดภัย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่วิธีการขับรถที่ปลอดภัยในขณะที่ฝนตก",
+      "number": 213
+    }
+  ]
+}

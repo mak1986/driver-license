@@ -1,0 +1,103 @@
+{
+  "number": 6,
+  "name": "หมวดป้ายแนะนำ",
+  "description": "หมวดป้ายแนะนำถึงแม้มีเพียงแค่ 3 ข้อ แต่ก็เน้นๆ มาให้กันเลย ข้อสอบใบขับขี่ หมวด ป้ายแนะนำ จำนวน 3 ข้อ เรามาดูกันว่ามีเครื่องหมายอะไรบ้างและหมายถึงอะไร เรามาดูตัวอย่างข้อสอบพร้อมเฉลยกัน",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ที่กลับรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ที่ห้ามกลับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ที่ห้ามแซง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เริ่มต้นทางด่วน (ทางหลวงพิเศษ)",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.6.1.jpg",
+      "question": "เครื่องหมายนี้ คือเครื่องหมายอะไร",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางข้างหน้ามีที่กลับรถสามารถกลับรถได้บริเวณที่มีป้าย \"จุดกลับรถ\"",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามกลับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กลับรถได้เฉพาะรถยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้เลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.6.2.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ที่กลับรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถให้ช้าลงและระมัดระวังคนข้ามทาง ถ้ามีคนกำลังเดินข้ามทางควรหยุดให้คนเดินข้ามทาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ที่ห้ามคนข้ามถนน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ที่สำหรับคนพิการ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.6.3.jpg",
+      "question": "เมื่อพบเครื่องหมายนี้ ผู้ขับขี่ควรปฏิบัติอย่างไร",
+      "number": 3
+    }
+  ]
+}

@@ -1,0 +1,3916 @@
+{
+  "number": 9,
+  "name": "หมวดการบำรุงรักษารถ",
+  "description": "ข้อสอบใบขับขี่ พร้อมเฉลย หมวดการบำรุงรักษารถ การบำรุงรักษารถเป็นการยึดอายุการใช้งานของรถ หากเรามีความรู้พื้นฐานเกี่ยวกับการบำรุงรักษาเบื้องต้น อาจไม่ประสบปัญหาต่างๆ ระหว่างเดินทางก็ได้  การดูแลรักษารถแบบง่ายๆ ด้วยตัวคุณเอง อย่างเช่น การตรวจเช็คแบตเตอรี่ สายพาน พัดลม น้ำมันเครื่อง ยาง ลมยาง และอื่นๆ เป็นต้น เข้าเช็คระยะตามกำหนด เราสามารถอ่านคู่มือเพิ่มเติมที่ติดมากับรถได้เช่นกัน",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขั้วบวก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขั้วลบ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่จำเป็นต้องมีฉนวนหุ้ม",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หุ้มทั้งสองขั้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "แบตเตอรี่ควรมีฉนวนหุ้มที่ขั้วแบตเตอรี่ขั้วใด",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดเครื่องเสียงมากเกินไป",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ฉนวนหุ้มขั้วแบตเตอรี่หลุด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดสัญญาณไฟเลี้ยวมากเกินไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไดชาร์จชำรุดหรือสายพานไดชาร์จหย่อนหรือขาด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สาเหตุไฟไม่ชาร์จเข้าแบตเตอรี่เกิดจากอะไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กรองอากาศตัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเบรกหมด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำในหม้อน้ำแห้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่ไม่มีไฟ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สาเหตุรถสตาร์ทไม่ติดเกิดจากสาเหตุใด",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บีบแตรและฟังเสียงว่าปกติหรือเบาลง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ออกรถ 2-3 เมตรแล้วทดสอบเบรก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เหยียบคลัตช์และเข้าเกียร์ให้ครบ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หมุนพวงมาลัยไปด้านซ้ายและขวา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจเช็กแบตเตอรี่แบบง่ายๆ ว่ามีไฟปกติหรือไม่ กระทำได้อย่างไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อมีหมอก.ฝน ฝุ่น ควัน ในทางเดินรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อขับรถผ่านทางร่วมทางแยก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อจะกลับรถหรือเปลี่ยนช่องทางเดินรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เมื่อรถเสียหรือเกิดอุบัติเหตุ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับขี่ควรใช้สัญญาณไฟฉุกเฉินเมื่อใด",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รีบเปิดฝาหม้อน้ำทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดับเครื่องยนต์และถอดขั้วแบตเตอรี่ออก",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รีบโทรแจ้งเจ้าหน้าที่ดับเพลิง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้น้ำสาดทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "วิธีใดเป็นวิธีการแก้ไขเบื้องต้นเมื่อเกิดไฟลัดวงจร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้น้ำอุ่นล้างและทาจาระบี",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้น้ำส้มสายชูล้าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้น้ำมะนาวล้าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้น้ำกลั่นล้าง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าขั้วแบตเตอรี่มีคราบขี้เกลือ วิธีการใดเป็นการแก้ไขที่ดีที่สุด",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขั้วไหนก่อนก็ได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขั้วบวก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทั้งสองขั้วพร้อมกัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขั้วลบ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการถอดขั้วแบตเตอรี่ ควรถอดขั้วใดก่อน",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำกลั่น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำฝน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำบาดาล",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำสบู่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำที่ใช้เติมในแบตเตอรี่ ควรใช้น้ำชนิดใด",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้อยู่ระหว่างขีดที่กำหนด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมให้อยู่ระดับขีดต่ำกว่าที่กำหนดเล็กน้อย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมให้อยู่ระดับสูงกว่าที่กำหนดเล็กน้อย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมจนล้นแล้วปิดฝา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมน้ำกลั่นควรให้อยู่ระดับใดของแบตเตอรี่",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สีเขียว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สีเหลือง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สีแดง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สีน้ำเงิน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถไฟเตือนสีใดไม่ควรแสดงอยู่บนแผงหน้าปัด",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ฝุ่นละอองไปเกาะ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำกรดทำปฏิกิริยากับอากาศ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำไปโดนที่ขั้วแบตเตอรี่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ฉนวนหุ้มขั้วแบตเตอรี่สกปรก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "คราบขี้เกลือที่ขั้วแบตเตอรี่เกิดจากสาเหตุใด",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เก็บรักษาไฟฟ้าและจ่ายกระแสไฟ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เวลาดับเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ตัดกระแสไฟ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำหน้าที่ผลิตไฟฟ้าในรถยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "แบตเตอรี่รถยนต์มีหน้าที่อย่างไร",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "12 โวลท์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "15 โวลท์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "24 โวลท์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "220 โวลท์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "แบตเตอรี่รถยนต์จะมีขนาดแรงดันไฟฟ้ากี่โวลท์",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้หมุนพวงมาลัยได้ดี",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้เครื่องยนต์ติด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ระบบเบรกทำงานดีขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้แอร์ในรถเย็นขึ้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ไดสตาร์ททำหน้าที่อะไร",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "5-15 มิลลิเมตร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "20-25 มิลลิเมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "25-30 มิลลิเมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "30-35 มิลลิเมตร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือความตึงของสายพานพัดลมและไดชาร์ทที่ถูกต้อง",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไดชาร์ทชำรุด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่เสีย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่ใกล้หมดอายุ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่นแห้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ขณะขับรถไปได้ระยะหนึ่งปรากฏว่าไฟเตือนสีแดงแสดงเกิดจากสาเหตุใด",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 นิ้ว",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "2 นิ้ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 นิ้ว",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "4 นิ้ว",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมน้ำกลั่นแบตเตอรี่ควรเติมให้ท่วมแผ่นธาตุประมาณเท่าไร",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำหน้าที่สตาร์ทเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำหน้าที่ผลิตไฟฟ้าในรถยนต์",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำหน้าที่ดับเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำหน้าที่เช็กอุณหภูมิความร้อนในรถยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ไดชาร์จทำหน้าที่อะไร",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมค่าที่ต่ำกว่าค่าที่กำหนดเพื่อความประหยัด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมสูงกว่าค่าที่กำหนดเพื่อป้องกันเครื่องยนต์เสียหาย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันที่มีค่าออกเทนตามที่ระบุไว้ในคู่มือรถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมค่าเท่าใดก็ได้ตามความสะดวก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ท่านควรเติมน้ำมันเชื้อเพลิงรถเครื่องยนต์เบนซินอย่างไร",
+      "number": 20
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำมันที่มีส่วนผสมของเอทานอล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันที่มีส่วนผสมของสารตะกั่ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันที่ได้จากพืช 100 เปอร์เซ็นต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันที่มีส่วนผสมของน้ำมันหล่อลื่น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำมันแก๊สโซฮอล์ มีความหมายอย่างไร",
+      "number": 21
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ค่าออกเทน 98",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ค่าออกเทน 95",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ค่าออกเทน 91",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ค่าออกเทน 87",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำมันแก๊สโซฮอล์ที่มีจำหน่ายในประเทศไทยมีค่าออกเทนสูงสุดเท่าใด",
+      "number": 22
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "การเผาไหม้ของเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การปลอมปนของน้ำมัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สภาพของท่อน้ำมันและรอยรั่วซึม",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปริมาณน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการตรวจเช็กน้ำมันเชื้อเพลิงในห้องเครื่องยนต์เราควรตรวจสิ่งใดเป็นหลัก",
+      "number": 23
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมชนิดที่ถูกเข้าไปเพื่อทำให้เจือจาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับไปให้หมดถังแล้วเติมชนิดที่ถูกเข้าไป",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำการเปลี่ยนถ่ายออกทันที",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับไปถ้ามีผลต่อเครื่องยนต์ค่อยถ่ายออก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านเติมน้ำมันผิดประเภทควรปฏิบัติอย่างไร",
+      "number": 24
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สลับท่อไปไว้ในท่อแรงดันต่ำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เทปรัดให้แน่นขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้ไปได้จนกว่าจะมีรอยหยดของน้ำมัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำการเปลี่ยนท่อใหม่",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านตรวจพบว่าท่อน้ำมันเริ่มมีรอยน้ำมันซึมออกมาท่านควรทำอย่างไร",
+      "number": 25
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดับเครื่องยนต์และไม่ควรขับรถต่อไปเนื่องจากอาจเกิดไฟไหม้ได้",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับไปหาศูนย์บริการเพื่อทำการซ่อม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้เทบรัดและขับไปหาช่าง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "นำขวดมารองน้ำมันที่รั่วและขับต่อไป",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากรถของท่านเกิดท่อน้ำมันรั่วท่านควรทำอย่างไร",
+      "number": 26
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่ควรเติมน้ำมันหล่อลื่นลงไปผสมในน้ำมันเชื้อเพลิง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การเติมน้ำมันควรเติมในช่วงกลางวัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เราไม่สามารถเติมน้ำมันค่าออกเทน 95 แทนออกเทน 91 ได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันที่แพงคือน้ำมันที่ดีที่สุด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดกล่าวถูกต้อง",
+      "number": 27
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มีระบบการสตาร์ทต่างกัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มีระบบการใช้น้ำระบายความร้อนต่างกัน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์เบนซินใช้หัวเทียนในการจุดระเบิด",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มีระบบไฟต่างกัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เครื่องยนต์เบนซินกับเครื่องยนต์ดีเซลมีข้อแตกต่างอย่างไร",
+      "number": 28
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้งานได้ตามปกติ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์เกิดการสะดุด (น๊อก)",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์พังทันทีหากใช้งาน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่มีผลต่อการใช้งาน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในกรณีที่รถให้ใช้น้ำมันออกเทน 95 เท่านั้น ถ้าหากเราเติมน้ำมันค่าออกเทน 91 จะมีผลอย่างไร",
+      "number": 29
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เครื่องยนต์ร้อนขึ้นกว่าเดิม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไม่มีผลต่อการใช้งาน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์สึกหรอกว่าปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รอบเครื่องยนต์สูงขึ้นกว่าปกติ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในกรณีที่เติมน้ำมันที่มีค่าออกเทนสูงกว่าในคู่มือการใช้จะมีผลอย่างไร",
+      "number": 30
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดับเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลงจากรถและเดินออกให้ไกล",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องทำอะไร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ติดเครื่องยนต์ไว้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะที่ท่านเติมน้ำมันเชื้อเพลิงท่านควรปฏิบัติอย่างไร",
+      "number": 31
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้น้ำสบู่เช็ดหาคราบน้ำมัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้ไฟฉายหรือไฟแช็กส่องดูถ้ามองไม่เห็น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้จากการสังเกตและการดมกลิ่น",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้มือหมุนท่อยางหาความบกพร่อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจเช็กรอยรั่วซึมระบบเชื้อเพลิงท่านควรปฏิบัติอย่างไร",
+      "number": 32
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไม่มีผลต่อเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์สึกหรอเร็วกว่าการใช้น้ำมัน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์จะเย็นกว่าปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "อายุการใช้งานหัวเทียนมากกว่าการใช้น้ำมัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากท่านใช้ก๊าชธรรมชาติ CNG จะมีผลต่อเครื่องยนต์อย่างไร",
+      "number": 33
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "มีส่วนผสมของเมทานอล 15 ส่วน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "มีส่วนผสมของเอทานอล 15 ส่วน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มีส่วนผสมของน้ำมัน 85 ส่วน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มีส่วนผสมของเอทานอล 85 ส่วน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำมันเบนซิน E85 หมายความว่า",
+      "number": 34
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำมัน E85",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำมัน E20",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันแก๊สโซฮอล์ 95",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมัน 95",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำมันเชื้อเพลิงในข้อใดมีการระเหยเร็วมากที่สุด",
+      "number": 35
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ถอดกรองดังน้ำออกมาทำความสะอาด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ช่างเปลี่ยนกรองดักน้ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ถ่ายน้ำออกจากกรองดักน้ำ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ดับเครื่องยนต์และสตาร์ทเครื่องใหม่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.9.36.JPG",
+      "question": "รถเครื่องยนต์ดีเซลหากมีสัญญาณเตือนในระบบกรองดักน้ำ&nbsp; ท่านควรทำอย่างไร",
+      "number": 36
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กรองอากาศตัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันผิดประเภท",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันปลอม",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ในน้ำมันเชื้อเพลิงมีน้ำผสมอยู่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "รถเครื่องยนต์ดีเซลหากมีควันดำมากผิดปกติเกิดจากสาเหตุใด",
+      "number": 37
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระบายความร้อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รองหรือคั่นหน้าผิวสัมผัส",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สร้างความหนืด",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ชำระสิ่งสกปรกเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่หน้าที่ของน้ำมันเครื่องยนต์",
+      "number": 38
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สายพานเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หัวเทียน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กรองน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "กรองน้ำมันเครื่อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเปลี่ยนถ่ายน้ำมันเครื่องยนต์ ควรต้องเปลี่ยนอุปกรณ์ชิ้นส่วนใดของเครื่องยนต์ด้วย",
+      "number": 39
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "อ่างน้ำมันเครื่อง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ฝาเติมน้ำมันเครื่อง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กรองน้ำมันเครื่อง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ก้านวัดน้ำมันเครื่อง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจเช็กระดับน้ำมันหล่อลื่นในเครื่องยนต์ตรวจเช็กที่อุปกรณ์ส่วนใดของเครื่องยนต์",
+      "number": 40
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถบนพื้นราบ เช็กน้ำมันขณะยังติดเครื่องยนต์อยู่อย่างน้อง.10-15 นาที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถบนพื้นราบ เช็กน้ำมันขณะยังไม่ติดเครื่อง.หรือดับเครื่องยนต์อย่างน้อย 10-15 นาที",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถบนพื้นราบ เช็กน้ำมันหลังดับเครื่องยนต์ทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จอดรถบนพื้นราบ เช็กน้ำมันขณะยังติดเครื่องยนต์ หรือดับเครื่องยนต์ทันที",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นขั้นตอนก่อนตรวจเช็กและเติมระดับน้ำมันหล่อลื่นเครื่องยนต์ ที่ถูกต้อง",
+      "number": 41
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สังเกตที่พื้นที่รถจอด และตามรอยต่อ หรือข้อต่อเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สังเกตที่อาการเสียงดังของเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สังเกตได้จากการดมกลิ่นน้ำมันหล่อลื่นเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สังเกตจากความร้อนที่ขึ้นสูงของเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือวิธีการสังเกตรอยรั่วซึมของน้ำมันหล่อลื่นเครื่องยนต์",
+      "number": 42
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ยางล้อหลังสึกหรอไม่สม่ำเสมอ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถกินน้ำมันน้อยกว่าปกติ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยกินไปด้านขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยกินไปด้านซ้าย",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากลมยางล้อหน้าด้านซ้ายอ่อนเวลาขับรถจะมีผลอย่างไร",
+      "number": 43
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดอกยางตรงกลางจะสึกเร็วกว่าปกติ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การขับขี่จะแข็งกระด้าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ดอกยางทางด้านข้างทั้งสองสึกหรอ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้กินน้ำมันน้อยลง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าเติมลมยางอ่อนเกินไป จะมีผลกับยางอย่างไร",
+      "number": 44
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดอกยางตรงกลางจะสึกหรอเร็วกว่าปกติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "การขับขี่จะนุ่มนวลขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้กินน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ดอกยางด้านข้างจะสึกเร็วกว่าปกติ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าเติมลมยางแข็งเกินไป จะมีผลกับยางอย่างไร",
+      "number": 45
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "1 เดือน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "2 เดือน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "3 เดือน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "อย่างน้อยสัปดาห์ละครั้ง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบลมยางข้อใดถูกต้อง",
+      "number": 46
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมในขณะยางยังร้อนอยู่",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ควรเติมลมยางในขณะที่ยางยังเย็นอยู่",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรเติมลมยางให้แข็งมากๆ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรเติมลมยางให้อ่อนมากๆ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมลมยางข้อใดถูกต้อง",
+      "number": 47
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "10,000 กิโลเมตร",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "25,000 กิโลเมตร",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "30,000 กิโลเมตร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "35,000 กิโลเมตร",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "โดยปกติการสลับยางควรสลับทุกระยะทางกี่กิโลเมตร",
+      "number": 48
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ยางเก่าเก็บ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้ยางหมดอายุ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "บรรทุกน้ำหนักมากเกินไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมลมยางให้พอดีตามที่กำหนด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุที่ทำให้ยางระเบิด",
+      "number": 49
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตัดต่อเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้รถมีกำลังขับเคลื่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่วยยึดเกาะถนนไม่ให้ลื่นไถล",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระบายความร้อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ยางมีหน้าที่อย่างไร",
+      "number": 50
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้วิธีเคาะแล้วฟังเสียงยาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คาดคะเนด้วยสายตา",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปฏิบัติตามคู่มือการใช้รถ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมเท่าไรก็ได้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมลมยางสำหรับรถยนต์ ควรปฏิบัติอย่างไร",
+      "number": 51
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ป้องกันลมรั่วซึมและสิ่งสกปรกต่างๆ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันยางแตก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันการขโมยยาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันไม่ให้ใครมาเติมลม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ฝาปิดจุ๊บลมยางมีประโยชน์อย่างไร",
+      "number": 52
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้กินน้ำมันมากกว่าเดิม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยหนักขณะใช้ความเร็วต่ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ยางจะเสียดสีกับตัวถังรถ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ความสามารถในการรับน้ำหนักลดน้อยลง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเปลี่ยนขนาดยางเล็กเกินไปจะเกิดผลเสียอย่างไร",
+      "number": 53
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สิ้นเปลืองน้ำมันเชื้อเพลิง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ความสามารถในการรับน้ำหนักลดน้อยลง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การสึกหรอของดอกยางจะมากขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัยจะเบามากเมื่อความเร็วต่ำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเปลี่ยนขนาดยางใหญ่เกินไปจะเกิดผลเสียอย่างไร",
+      "number": 54
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "วันที่ผลิตยาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สัปดาห์ของปีที่ผลิตยาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เดือนที่ผลิตยาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปี ค.ศ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.9.55.JPG",
+      "question": "ตัวเลขสองตัวแรก.21 บ่งบอกถึงอะไร",
+      "number": 55
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ปี ค.ศ.ที่ผลิต",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "วันที่ผลิต",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สัปดาห์ที่ผลิต",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปี ค.ศ.ที่ยางหมดอายุ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.9.56.jpg",
+      "question": "ตัวเลขสองตัวหลัง.13 บ่งบอกถึงอะไร",
+      "number": 56
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขีดจำกัดความเร็ว",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "โครงสร้างยางแบบเรเดียล",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "การรับน้ำหนัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เส้นผ่าศูนย์กลางล้อ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "195/60 R 14 85H ตัว R หมายถึง",
+      "number": 57
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้ไม้เคาะ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดูด้วยสายตาก็พอ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้มือกดที่กึ่งกลางสายพาน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ถอดสายพานออกเพื่อนำมาวัด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจความตึงของสายพานควรทำอย่างไร",
+      "number": 58
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แอร์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไดชาร์ท",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปั๊มน้ำ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "กรองอากาศ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อุปกรณ์ของรถส่วนใดไม่เกี่ยวกับระบบสายพาน",
+      "number": 59
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ฟิวส์ขาด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สายไฟขาด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่หมด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สายพานขาด",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุของสัญญาณแตรไม่ดัง",
+      "number": 60
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เสียงสายพานหย่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เสียงยางรถเสียดสีกับถนน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เสียงที่ดังจากที่ปัดน้ำฝน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เสียงคอมเพลสเซอร์แอร์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือเสียงดังปกติ",
+      "number": 61
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ค่าใช้จ่ายในการซ่อมรถยนต์มากขึ้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ประหยัดเชื้อเพลิง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลดมลพิษ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปลอดภัย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือผลเสียของการไม่ตรวจเช็ครถก่อนใช้งาน",
+      "number": 62
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หม้อน้ำแห้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่หมด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์ทำงานผิดปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สายพานหย่อน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าเกิดเสียงดังแหลมๆ (เอี๊ยดๆ หรือ จี๊ดๆ) ดังจากห้องเครื่องเกิดจากอะไร",
+      "number": 63
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สายพานหย่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ร่องสายพานไม่มี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สายพานแตก.กรอบ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สายพานขาดครึ่งเส้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุที่ควรจะเปลี่ยนสายพาน",
+      "number": 64
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เสียงไฟฉุกเฉิน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เสียงไฟเลี้ยว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เสียงเบรกดัง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เสียงไฟถอยหลัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เสียงใดคือเสียงที่ผิดปกติจากรถยนต์",
+      "number": 65
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "กรองอากาศตัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แหวนลูกสูบหลวม",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันเครื่องมากเกินไป",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์สึกหรอมาก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุของการเกิดควันไอเสียสีขาว",
+      "number": 66
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ขั้วแบตเตอรี่หลวม",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สายพานหย่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเชื้อเพลิงหมด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มอเตอร์สตาร์ทเสีย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุของการสตาร์ทรถไม่ติด",
+      "number": 67
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำในหม้อน้ำแห้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่นแบตเตอรี่แห้ง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สายพานพัดลมขาด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเครื่องแห้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่สาเหตุที่ทำให้เครื่องยนต์ร้อนจัด",
+      "number": 68
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไดชาร์ทชำรุด",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่เสีย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่นในแบตเตอรี่แห้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "แบตเตอรี่ไม่มีไฟ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในขณะขับรถมีไฟเตือนสีแดงรูปแบตเตอรี่ปรากฏขึ้นที่แผงหน้าปัดแสดงว่าอะไร",
+      "number": 69
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้หยุดรถบนทางลาดชัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เมื่อหยุดรถขณะติดไฟแดง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้จอดรถบนทางลาดชัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้เมื่อขับรถลงทางลาดชัน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เบรกมือไม่ควรใช้ในสถานการณ์ใด",
+      "number": 70
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ใช้จอดหรือหยุดรถบนทางลาดชัน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เพื่อชะลอความเร็ว",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ใช้เมื่อต้องการหยุดรถกะทันหัน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้เมื่อขับรถลงทางลาดชัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เบรกมือควรใช้ในสถานการณ์ใด",
+      "number": 71
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทางขึ้นลาดชัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทางร่วม ทางแยก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทางโค้ง",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทางลงลาดชัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ควรหลีกเลี่ยงการใช้เบรกอย่างรุนแรงเมื่ออยู่ในสถานการณ์ใด",
+      "number": 72
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ควรกะระยะในการหยุดรถและเบรกอย่างนุ่มนวล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ควรเบรกแบบกะชั้นชิด",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรเบรกและหมุนพวงมาลัยไปทางซ้ายและขวาเล็กน้อย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรใช้เบรกมือและเบรกเท้าพร้อมกันเมื่อต้องการหยุดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "วิธียืดอายุการใช้งานของผ้าเบรกควรทำอย่างไร",
+      "number": 73
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ยางรถยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "พวงมาลัย",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เกียร์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระบบช่วงล่าง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อุปกรณ์ใดที่ไม่มีส่วนช่วยเพิ่มประสิทธิภาพในการทำงานของเบรกรถ",
+      "number": 74
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อรถเคลื่อนตัวจะรู้สึกว่ารถเร่งความเร็วไม่ขึ้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เมื่อรถเคลื่อนตัวจะรู้สึกว่ารถออกตัวเร็วขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อหมุนพวงมาลัยจะรู้สึกหนัก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เครื่องยนต์มีอาการสะดุด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าไม่ปลดล็อกเบรกมือเมื่อเคลื่อนรถจะมีอาการอย่างไร",
+      "number": 75
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ล้อหน้าซ้าย ล้อหลังขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ล้อคู่หน้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ล้อคู่หลัง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทั้ง.4 ล้อ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เบรกเท้าจะทำงานที่ล้อใดบ้าง",
+      "number": 76
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สีเหลืองใส",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สีดำข้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สีแดง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สีน้ำตาลเข้ม",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สีของน้ำมันเบรกที่มีคุณภาพคือสีอะไร",
+      "number": 77
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สีฟ้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สีแดง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สีดำ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สีเหลือง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สีของน้ำมันเบรกที่เสื่อมสภาพคือสีใด",
+      "number": 78
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ล้อคู่หลัง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ล้อคู่หน้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทั้งสี่ล้อ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ล้อหลังขวา ล้อหน้าซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เบรกมือใช้ควบคุมล้อใดของรถ",
+      "number": 79
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผ้าเบรกหมดหรือหมดอายุ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยางหมดอายุ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ลมยางอ่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ลมยางแข็ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เมื่อเหยียบเบรกแล้วเกิดเสียงดังเป็นเพราะสาเหตุใด",
+      "number": 80
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ยางรถยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ล้อรถยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "กระทะล้อ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "จานเบรก",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผ้าเบรกจะทำงานเสียดสีกับอุปกรณ์ส่วนใดของรถยนต์",
+      "number": 81
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระบายความร้อนออกจากหม้อน้ำ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระบายความร้อนออกจากเครื่องยนต์",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระบายความร้อนจากผ้าเบรก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำความสะอาดหม้อน้ำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือหน้าที่ของน้ำมันเครื่องยนต์",
+      "number": 82
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระบายความร้อนออกจากหม้อน้ำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หล่อลื่นชิ้นส่วนที่เคลื่อนที่เพื่อลดการสึกหรอ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำความสะอาดชิ้นส่วนภายในเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระบายความร้อนออกจากเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่หน้าที่ของน้ำมันเครื่องยนต์",
+      "number": 83
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "จอดรถยนต์บนพื้นราบและดับเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถยนต์บนพื้นลาดเอียงและติดเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "จอดรถยนต์ที่ใดก็ได้และติดเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ล้างอัดฉีดรถยนต์ให้สะอาดก่อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเตรียมความพร้อมของรถยนต์ก่อนการตรวจวัดระดับน้ำมันเครื่องยนต์ ข้อใดถูกต้อง",
+      "number": 84
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ก้านวัดระดับน้ำมันเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ก้านวัดระดับน้ำมันเกียร์ออโต้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ก้านวัดระดับน้ำมันเพาเวอร์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "กรองน้ำมันเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจเช็กระดับน้ำมันเครื่องยนต์ดูได้จากสิ่งใด",
+      "number": 85
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำมันเครื่องยนต์อยู่ระดับ F",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเครื่องยนต์อยู่ระดับ L",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเครื่องยนต์อยู่ระดับต่ำกว่า L",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเครื่องยนต์อยู่ระดับต่ำกว่า F",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจวัดระดับน้ำมันเครื่องยนต์ในข้อใดมีระดับน้ำมันที่ดีที่สุด",
+      "number": 86
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ลดความร้อนของเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยืดอายุการใช้งานของเครื่องยนต์ให้ยาวกว่าปกติ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้เกิดแรงดันสูงในห้องเครื่องยนต์ และมีควันขาว",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เกิดการเผาไหม้อย่างสมบูรณ์ ลดมลพิษ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าระดับน้ำมันเครื่องยนต์สูงเกินไปจะมีผลอย่างไร",
+      "number": 87
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ประหยัดน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยืดอายุการทำงานของชิ้นส่วนเครื่องยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องแรงสตาร์ทติดง่าย",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ชิ้นส่วนของเครื่องยนต์สึกหรออย่างรวดเร็ว",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าระดับน้ำมันเครื่องยนต์ต่ำเกินไปจะมีผลอย่างไร",
+      "number": 88
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "สัปดาห์ละ 1 ครั้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เดือนละ 2 ครั้ง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เดือนละ 1 ครั้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สองเดือน 1 ครั้ง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพื่อความปลอดภัยในการใช้รถควรตรวจวัดระดับน้ำมันเครื่องยนต์อย่างน้อยที่สุด",
+      "number": 89
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุก.3 เดือน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุก.6 เดือน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุก.1 ปี",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุกครั้งที่เปลี่ยนน้ำมันเครื่อง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "น้ำมันเบรกควรเปลี่ยนเมื่อใด",
+      "number": 90
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ของเหลวที่ทำหน้าที่เป็นตัวกลางในการถ่ายทอดกำลังจากแป้นเบรก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันหล่อลื่นที่มีจุดเดือดต่ำ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "สารเคมีที่ใช้ไล่ความชื้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันหล่อลื่นที่ระเหยได้ง่าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "คุณสมบัติของน้ำมันเบรกคือข้อใด",
+      "number": 91
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ฟังเสียงเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ดึงก้านวัดน้ำมันเครื่องออกมาตรวจสอบ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดูรอยหยดของน้ำมันเครื่อง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดฝาน้ำมันเครื่องดู",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือการตรวจวัดระดับน้ำมันเครื่องยนต์",
+      "number": 92
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "พวงมาลัยจะหนักมากกว่าปกติ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถแล้วจะเอียงซ้าย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถแล้วจะเอียงขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถแล้วส่ายไปมา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หากระดับน้ำมันเพาเวอร์ต่ำกว่ากำหนด จะมีผลอย่างไรต่อการขับรถของท่าน",
+      "number": 93
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุก.2 ปี",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุก.5 ปี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรเปลี่ยนทุกปี",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไม่ต้องเปลี่ยน คอยเติมให้ได้ระดับเท่านั้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ควรเปลี่ยนน้ำมันเบรกเมื่อใด",
+      "number": 94
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ประหยัดน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ช่วยหล่อลื่น ลดการเสียดสีและการสึกหรอ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันการเกิดสนิมในเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ป้องกันฝุ่นละออง",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่คุณสมบัติของน้ำมันเครื่องยนต์",
+      "number": 95
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดมกลิ่น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "สี",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ปริมาณ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ความหนืด สิ่งเจือปน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดไม่ใช่การตรวจสอบน้ำมันเครื่องยนต์",
+      "number": 96
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมให้สูงกว่าขีดบนของก้านวัด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ปริมาณเสมอขีดบนของก้านวัด",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมให้ต่ำกว่าขีดล่างของก้านวัด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมให้เต็มเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมน้ำมันเครื่องควรเติมปริมาณเท่าไหร่",
+      "number": 97
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระบายความร้อนของเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้รถวิ่งเร็วขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระบายความร้อนให้ห้องผู้โดยสาร",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ประหยัดน้ำมัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หม้อน้ำรถยนต์มีหน้าที่อะไร",
+      "number": 98
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมให้อยู่ระหว่าง.Full กับ Low",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมให้เลยระดับ Full",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมให้ต่ำกว่า Low",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เติมให้ถึงฝาปิด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมน้ำในหม้อพักน้ำควรเติมให้อยู่ในระดับใด",
+      "number": 99
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "60 – 70 องศาเซลเซียส",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "50 -60 องศาเซลเซียส",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "40-50 องศาเซลเซียส",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "80 –95 องศาเซลเซียส",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "อุณหภูมิเครื่องยนต์ที่ทำงานปกติควรอยู่เท่าไร",
+      "number": 100
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมน้ำเมื่อเครื่องยนต์เย็นลง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เอาน้ำราดลงไปที่เครื่องยนต์จะทำให้เครื่องยนต์เย็น",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดฝากระโปรงเพื่อระบายความร้อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปิดแอร์ เปิดหน้าต่างและจอดรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าเครื่องยนต์ร้อนจัดไม่ควรปฏิบัติอย่างไร",
+      "number": 101
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "อุณหภูมิของน้ำและเครื่องยนต์จะเพิ่มขึ้น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "อุณหภูมิของน้ำและเครื่องยนต์จะลดลง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "อุณหภูมิของน้ำและเครื่องยนต์จะคงที่",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ประหยัดน้ำมัน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าพัดลมหม้อน้ำเสียจะเกิดอะไรขึ้น",
+      "number": 102
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ช่วยระบายความร้อนของเบรก",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้น้ำร้อนเร็วขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ช่วยระบายความร้อนของหม้อน้ำ",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทำให้ประหยัดน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "พัดลมหม้อน้ำมีหน้าที่อะไร",
+      "number": 103
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เปิดตอนเช้าขณะยังไม่ติดเครื่องยนต์",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เครื่องเย็น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เครื่องร้อนจัด",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดถังพักสำรองหม้อน้ำเพื่อเติมน้ำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ไม่ควรเปิดฝาหม้อน้ำในกรณีใด",
+      "number": 104
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "บีบแล้วต้องมีความยืดหยุ่น",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "บีบแล้วต้องแข็งกระด้าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "มีรอยบวมที่ท่อยาง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "มีรอยฉีกขาด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "สภาพท่อยางหม้อน้ำที่ยังใช้งานได้ดีต้องมีลักษณะอย่างไร",
+      "number": 105
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทำให้น้ำหมุนเวียนจากเครื่องไปยังหม้อน้ำแล้วไหลกลับเข้าเครื่องยนต์",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทำให้น้ำมันเชื้อเพลิงหมุนเวียนจากเครื่องไปยังถังน้ำมันเชื้อเพลิง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทำให้น้ำมันเครื่องหมุนเวียนภายในเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ปั๊มน้ำจากภายนอกเวลาน้ำในหม้อน้ำขาดหายไป",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ปั๊มน้ำรถยนต์มีหน้าที่อย่างไร",
+      "number": 106
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมยางรถยนต์ให้มากกว่าปกติ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดเครื่องปรับอากาศรถยนต์ให้แรง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปลี่ยนพัดลมให้ใหญ่ขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจระดับน้ำในหม้อน้ำก่อนใช้งานทุกวัน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดคือวิธีป้องกันไม่ให้เครื่องยนต์ร้อนจัด",
+      "number": 107
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เฉพาะล้อหน้า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เฉพาะล้อหลัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ทั้งสี่ล้อ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ทั้งสี่ล้อและล้ออะไหล่",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบลมยางล้อรถ จะต้องตรวจสอบที่ล้อใด",
+      "number": 108
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แม่แรง.ค้ำยัน ใช้ในการยกรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ยางอะไหล่ไม่จำเป็นต้องมีก็ได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไฟฉาย ช่วยในการหาจุดชำรุดในเวลากลางคืน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "อุปกรณ์ดับเพลิง.ใช้เมื่อเกิดเพลิงไหม้เครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดกล่าวไม่ถูกต้อง",
+      "number": 109
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ตรวจการชำรุดของสัญญาณไฟโดยการเปิดไฟกระพริบรอบตัวรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพื่อยึดอายุการใช้งานของแบตเตอรี่ ควรใช้น้ำบาดาลเติมอยู่เสมอ",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรดับเครื่องก่อนเช็คน้ำมันหล่อลื่น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจวัดแรงดันลมยางเป็นประจำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดกล่าวไม่ถูกต้องเกี่ยวกับการตรวจเช็กรถก่อนใช้งาน",
+      "number": 110
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เติมน้ำฉีดกระจกด้วยน้ำสะอาดผสมน้ำยาล้างจานเพื่อเพิ่มประสิทธิภาพในการล้างสิ่งสกปรก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันเครื่องโดยเติมให้อยู่ระดับบนเสมอ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ควรใช้น้ำกลั่นเติมลงในแบตเตอรี่ทุกครั้ง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ควรตรวจสอบการรัดตรึงของหัวขั้วแบตเตอรี่ให้มีสภาพพร้อมใช้งานเสมอ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดเป็นการตรวจเช็กและบำรุงรักษาอุปกรณ์รถยนต์ที่ไม่ถูกต้อง",
+      "number": 111
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หลังดับเครื่องยนต์ทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขณะที่เครื่องยนต์ทำงาน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หลังดับเครื่องยนต์อย่างน้อย 10 นาที",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขณะที่จอดรถบนเนิน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบระดับน้ำมันเครื่องในเครื่องยนต์ ควรตรวจสอบเมื่อใด",
+      "number": 112
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ถอดขั้วบวกและขั้วลบพร้อมกัน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขั้วบวก",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขั้วใดก่อนก็ได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขั้วลบ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ในการถอดขั้วแบตเตอรี่ ควรถอดขั้วใดก่อน",
+      "number": 113
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ระดับน้ำมันเบรก",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ระดับน้ำในแบตเตอรี่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ระดับน้ำยาหล่อเย็น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ระดับน้ำฉีดกระจก",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ระดับของเหลวในข้อใดต่อไปนี้ หากอยู่ในระดับที่ต่ำจะมีโอกาสทำให้เกิดอุบัติเหตุ",
+      "number": 114
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพราะต้องสำรองเนื้อที่ในการขยายตัวของน้ำเมื่อเกิดความร้อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพราะน้ำในหม้อน้ำจะร้อนมากยิ่งขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพราะจะทำให้เครื่องยนต์ชำรุด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพราะจะทำให้หม้อน้ำเป็นสนิมมากยิ่งขึ้น",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เพราะเหตุใดจึงไม่ควรเติมน้ำในถังพักหม้อน้ำให้เต็มถัง",
+      "number": 115
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ควรอุ่นเครื่องยนต์ก่อนออกเดินทางทุกครั้ง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ฟังเสียงเครื่องยนต์ทุกครั้งว่ามีความผิดปกติหรือไม่",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดับเครื่องยนต์แล้วเช็กระดับน้ำมันเครื่องทันที",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ตรวจสอบระบบส่งกำลังทุกครั้งว่าใช้งานได้อย่างปกติหรือไม่",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้ปฏิบัติไม่ถูกต้อง",
+      "number": 116
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เอาเหล็กมาตีที่หน้ายาง",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้เครื่องวัดลมยาง",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ดูด้วยตาเปล่า",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้มือคลำ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบลมยางที่ถูกต้องควรปฏิบัติอย่างไร",
+      "number": 117
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "แบตเตอรี่มีไฟไม่เพียงพอ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เติมน้ำมันเครื่องมากเกินไป",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำมันเชื้อเพลิงหมด",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ฟิวส์ขาด",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ข้อใดต่อไปนี้ไม่ใช่สาเหตุที่ทำให้เครื่องยนต์สตาร์ทไม่ติดหรือติดยาก",
+      "number": 118
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เมื่อยางล้อรถมีอุณหภูมิต่ำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หลังจากที่ขับขี่ติดต่อมาหลายชั่วโมง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เมื่อยางล้อรถมีอุณหภูมิสูง",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หลังจากที่ขับขี่ด้วยความเร็วสูง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบลมยางที่ถูกต้องจะต้องทำเมื่อใด",
+      "number": 119
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำกลั่นแห้งบ่อยครั้ง",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้ารถตลอดเวลาเพราะมีหมอกควันเวลาขับรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เปิดไฟหน้าบ่อยครั้งเวลาขับในช่วงกลางคืน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เปิดปิดกระจกรถบ่อยครั้งเวลาขับรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "แบตเตอรี่มีอายุการใช้งานน้อยกว่าปกติมีสาเหตุเกิดจากสิ่งใด",
+      "number": 120
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เร่งเครื่องยนต์ไม่ขึ้น",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เข้าเกียร์ไม่ได้ตามปกติรู้สึกติดขัดเวลาปรับเกียร์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รอบเครื่องยนต์จะสูงขึ้นมากกว่าปกติ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "สังเกตคราบน้ำยาหล่อเย็นบริเวณจุดที่ซึม",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "หม้อน้ำซึมสังเกตุจากสิ่งใดได้บ้าง",
+      "number": 121
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "น้ำบาดาล",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "น้ำฝน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "น้ำกลั่น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "น้ำประปา",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ถ้าจะเติมน้ำในถังพักหม้อน้ำไม่ควรเติมน้ำชนิดใด",
+      "number": 122
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ดูสายพานเครื่องยนต์ ด้วยตาเปล่า",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ใช้นิ้วมือกดสายพานเครื่องยนต์",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ติดเครื่องฟังเสียงสายพานเครื่องยนต์",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ใช้มือคลำสายพานเครื่องยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบความตึง-หย่อนของสายพานเครื่องยนต์เบื้องต้น ควรตรวจสอบอย่างไร",
+      "number": 123
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ไฟเลี้ยวซ้าย-ขวา",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ไฟเบรกและไฟหน้า",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ไฟหน้าและไฟเลี้ยวซ้ายขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ไฟเลี้ยวซ้าย-ขวาและไฟหน้าสูงต่ำ-ไฟหรี่-ไฟเบรก-ไฟส่องป้ายทะเบียนรถ",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การตรวจสอบระบบไฟฟ้าในรถยนต์ควรตรวจสอบอะไรบ้าง",
+      "number": 124
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "อยู่ระหว่างเกณฑ์สูง-ต่ำ ที่กำหนดไว้ข้างถังพักน้ำ",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เต็มถัง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เติมเท่าไรก็ได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ครึ่งถัง",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "การเติมน้ำในถังพักหม้อน้ำควรอยู่ในระดับใด",
+      "number": 125
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "เพราะ จะทำให้เครื่องยนต์ชำรุด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "เพราะ น้ำในหม้อน้ำจะร้อนมากยิ่งขึ้น",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เพราะจะทำให้หม้อน้ำเป็นสนิมมากยิ่งขึ้น",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เพราะ สำรองเนื้อที่การขยายตัวของน้ำเมื่อเกิดความร้อน",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "เหตุใดจึงไม่ควรเติมน้ำในถังพักหม้อน้ำให้เต็มถัง",
+      "number": 126
+    }
+  ]
+}

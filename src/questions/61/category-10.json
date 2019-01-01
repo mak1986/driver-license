@@ -1,0 +1,638 @@
+{
+  "number": 10,
+  "name": "หมวดรูปภาพจราจร",
+  "description": "ข้อสอบใบขับขี่พร้อมเฉลย หมวดรูปภาพจราจร หลายท่านคงเคยเห็นเครื่องหมายจราจรบนพื้นถนนเป็นเส้นสัญญาลักษณ์ต่างๆ ตามฟุตบาท ทั้งเครื่องหมายประเภทบังคับและประเภทเตือน อย่างนี้เป็นต้น เมื่อพบเครื่องหมายเหล่านี้เราควรปฏิบัติอย่างไรให้ถูกตามกฏหมายจราจร งั้นเรามาดูข้อสอบใบขับขี่ พร้อมเฉลย หมวดรูปภาพจราจร สำหรับผู้เตรียมตัวสอบเพื่อขอรับใบอนุญาตขับขี่กันครับ",
+  "questions": [
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถคัน ข. ขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านไปได้เลย",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถคัน ค. ขับผ่านไปก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถคัน ข. และ ค. ขับผ่านไปก่อน ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.1.JPG",
+      "question": "จากภาพผู้ขับขี่รถคัน ก. ต้องการขับรถตรงไปจะต้องปฏิบัติอย่างไร",
+      "number": 1
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ห้ามหยุดแต่สามารถจอดรถได้ทุกชนิด",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ห้ามจอดรถทุกชนิดยกเว้นรถยนต์",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ห้ามหยุดห้ามจอดรถทุกชนิด",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามจอดแต่สามารถหยุดรถได้ชั่วขณะ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.2.JPG",
+      "question": "จากภาพผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 2
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคัน ก. เนื่องจากอยู่ในทางโท",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคัน ข. เนื่องจากอยู่ในทางเอก",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคัน ก. เนื่องจากอยู่ในทางเอก",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถคัน ข. เนื่องจากอยู่ในทางโท",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.3.JPG",
+      "question": "จากภาพรถคันใดมีสิทธิใช้ทางได้ก่อน",
+      "number": 3
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถคัน ค. ขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปต่อท้ายรถคัน ข. เพื่อไม่ให้เกิดช่องว่าง",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปจอดคู่กับรถคัน ข. ทางด้านขวา",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถไปต่อท้ายรถคัน ข. และเปิดไฟฉุกเฉินให้ผู้ขับรถคัน ค. รู้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.4.JPG",
+      "question": "ผู้ขับขี่รถคัน ก. ต้องการจะขับรถตรงไป จะต้องปฏิบัติอย่างไร",
+      "number": 4
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถและรอให้รถในทางขวาง(แสดงว่าเป็นทางรอง)หน้าขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านไปได้ทันทีเนื่องจากเป็นเส้นประ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านไปได้ทันทีเนื่องจากมีป้ายให้ทางแสดงไว้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ให้ชะลอรถแล้วหยุดคร่อมเส้นประเพื่อให้มองเห็นรถที่มาจากด้านขวามือ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.5.JPG",
+      "question": "จากภาพผู้ขับขี่รถคันนี้จะต้องปฏิบัติอย่างไร",
+      "number": 5
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถและรอให้รถในทางขวางหน้าขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ชะลอรถแล้วหยุดคร่อมเส้นประเพื่อให้มองเห็นรถที่มาจากด้านขวามือ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านไปได้ทันทีเนื่องจากเป็นเส้นประ",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านไปได้ทันทีเนื่องจากมีป้ายให้ทางแสดงไว้",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.6.JPG",
+      "question": "จากภาพผู้ขับขี่ต้องปฏิบัติอย่างไร",
+      "number": 6
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.7a.JPG",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.7b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.7c.JPG",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.7d.JPG",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "จากภาพต่อไปนี้ ภาพใดแสดงการจอดรถอย่างถูกต้อง?",
+      "number": 7
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.8a.JPG",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.8b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.8c.JPG",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.8d.JPG",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "จากภาพต่อไปนี้ ภาพใดแสดงการจอดรถอย่างถูกต้อง?",
+      "number": 8
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.9a.JPG",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.9b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.9c.JPG",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.9d.JPG",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "จากภาพ ข้อใดแสดงการหยุดรถที่ไม่ถูกต้อง?",
+      "number": 9
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.10a.JPG",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.10b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.10c.JPG",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.10d.JPG",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ภาพในข้อใดต่อไปนี้ แสดงการเลี้ยวรถที่ถูกต้อง?",
+      "number": 10
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.11a.JPG",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.11b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.11c.JPG",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.11d.JPG",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ภาพในข้อใดต่อไปนี้ถูกต้อง?",
+      "number": 11
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ทั้งรถ A และ รถ B",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "คันที่มาถึงทางร่วมทางแยกก่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคัน B",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถคัน A",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.12.JPG",
+      "question": "จากภาพรถคันใดมีสิทธิ์ขับผ่านไปได้ก่อน",
+      "number": 12
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่กลับรถได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่เลี้ยวขวาได้",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ให้ผู้ขับขี่จอดรถได้",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามผู้ขับขี่แซงเข้าไปในทางเดินรถทางขวา",
+          "correct": true,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.13.JPG",
+      "question": "จากภาพเครื่องหมายแบ่งช่องจราจรบนพื้นทาง.หมายความว่าอย่างไร?",
+      "number": 13
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "คันที่มาถึงทางร่วมทางแยกก่อน",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ทั้งรถ ก. และ รถ ข.",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถ ข.",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถ ก.",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.14.JPG",
+      "question": "ในทางร่วมทางแยกที่ไม่มีสัญญาณไฟ ถ้าขับรถมาถึงพร้อมกัน รถคันใดมีสิทธิ์ขับผ่านไปได้ก่อน",
+      "number": 14
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถเพื่อให้รถจากทางด้านซ้ายขับผ่านไปก่อน",
+          "correct": true,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ลดความเร็วของรถเพื่อให้รถทางด้านซ้ายและขวาขับผ่านไปก่อน",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "หยุดรถเพื่อให้รถทางด้านขวามือขับผ่านไปก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ขับรถผ่านทางร่วมทางแยกไปได้เลย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.15.JPG",
+      "question": "จากภาพ รถคัน ก. จะต้องปฏิบัติอย่างไร",
+      "number": 15
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "รถคัน ก.",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "รถคัน ก.และคัน ข",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "รถคัน ข.",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "รถจักรยานยนต์",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": true,
+      "questionImage": "1.10.16.JPG",
+      "question": "จากภาพผู้ขับขี่รถคันใดสามารถขับรถแซงผ่านขึ้นหน้ารถคันอื่นได้",
+      "number": 16
+    },
+    {
+      "options": [
+        {
+          "type": "image",
+          "content": "1.10.17a.JPG",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "image",
+          "content": "1.10.17b.JPG",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "image",
+          "content": "1.10.17c.JPG",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "image",
+          "content": "1.10.17d.JPG",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "จากภาพข้อใดถูกต้อง",
+      "number": 17
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถให้รถทางขวามือผ่านไปก่อนจึงเลี้ยวขวาได้",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "หยุดรอให้รถทางตรงสวนมาก่อนจึงเลี้ยวขวาได้",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "เลี้ยวได้ทันที",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวรถ",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "ผู้ขับขี่ต้องการเลี้ยวขวาและมีรถทางตรงวิ่งสวนมา จะต้องปฏิบัติอย่างไร",
+      "number": 18
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "ผู้ที่จะเลี้ยวซ้ายเลี้ยวได้ทันที",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "ผู้ที่จะเลี้ยวซ้ายต้องหยุดให้ทางแก่รถที่เลี้ยวมาจากทางขวาก่อน",
+          "correct": true,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ผู้ที่จะเลี้ยวขวาต้องหยุดให้ทางแก่รถที่เลี้ยวมาจากทางด้านซ้ายก่อน",
+          "correct": false,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "ห้ามเลี้ยวซ้าย",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีมีรถเลี้ยวซ้ายและเลี้ยวขวาพร้อมกันในเส้นทางเดียวกันผู้ขับขี่ต้องทำอย่างไร",
+      "number": 19
+    },
+    {
+      "options": [
+        {
+          "type": "text",
+          "content": "หยุดรถ",
+          "correct": false,
+          "number": 1
+        },
+        {
+          "type": "text",
+          "content": "จอดรถ",
+          "correct": false,
+          "number": 2
+        },
+        {
+          "type": "text",
+          "content": "ชะลอความเร็วและให้ทางแก่เขาไปก่อน",
+          "correct": true,
+          "number": 3
+        },
+        {
+          "type": "text",
+          "content": "เร่งความเร็วเพื่อจะไปก่อน",
+          "correct": false,
+          "number": 4
+        }
+      ],
+      "hasQuestionImage": false,
+      "question": "กรณีที่เราเห็นรถคันอื่นให้สัญญาณจะเลี้ยวรถหรือเปลี่ยนช่องทางการเดินรถ จะต้องปฏิบัติอย่างไร",
+      "number": 20
+    }
+  ]
+}
