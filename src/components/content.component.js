@@ -99,13 +99,7 @@ angular.module('App')
             </div>
             <button class="button is-primary" ng-click="Ctrl.submit()">ตรวจคำตอบ</button>
             </div>
-            
-            
-          </div>
-          
-          
-          <div style="margin-top:20px;" class="fb-comments" data-href="https://&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;.com" data-numposts="10"></div>
-         
+          </div>         
       </section>
     `
   });

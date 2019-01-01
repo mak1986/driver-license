@@ -8,7 +8,10 @@ angular.module('App')
     template: `
       <div class="columns main" id="main-content">
           <sidebar class="column is-3"></sidebar>
-          <ui-view class="column"></ui-view>
+          <div class="column">
+            <ui-view></ui-view>
+            <div style="margin-top:20px;" class="fb-comments" data-href="https://&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;.com" data-numposts="10"></div>
+          </div>
           <stats class="column is-4"></stats>
       </div>
     `
