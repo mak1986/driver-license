@@ -102,6 +102,7 @@ angular.module("App")
     <!--</a>-->
   </nav>
   
+  <div style="margin-top:20px" class="fb-page" data-href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160">ฝึกสอบใบขับขี่</a></blockquote></div>
 </div>
  
   
