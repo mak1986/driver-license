@@ -114,7 +114,7 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
     $timeout(function () {
       drawBestChart();
       drawWrongAnswersChart();
-    }, 2000);
+    }, 3500);
   };
 
   function clearStatistics() {
