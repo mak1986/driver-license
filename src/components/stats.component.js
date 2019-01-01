@@ -8,7 +8,7 @@ angular.module('App')
     controller: StatsController,
     controllerAs: 'Ctrl',
     template: `
-<section class="section">
+<section id="stats-wrapper" class="section">
   <h1 class="title">สถิติ</h1>
   <hr>
   
@@ -22,6 +22,44 @@ angular.module('App')
     </a>
   </div>
   
+    <p style="margin-bottom:10px;color:#777">ข้อสอบล่าสุด</p>
+    <nav class="level is-mobile" ng-if="!Ctrl.loading">
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">หมวดหมู่</p>
+          <p ng-if="!Ctrl.statistics[Ctrl.statistics.length-1]" class="title">-</p>
+          <p ng-if="Ctrl.statistics[Ctrl.statistics.length-1]" class="title">{{Ctrl.statistics[Ctrl.statistics.length-1].categoryNumber}}</p>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">จำนวนคำถาม</p>
+          <p ng-if="!Ctrl.statistics[Ctrl.statistics.length-1]" class="title">-</p>
+          <p ng-if="Ctrl.statistics[Ctrl.statistics.length-1]" class="title">{{Ctrl.statistics[Ctrl.statistics.length-1].totalQuestions}}</p>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">ตอบถูก</p>
+          <p ng-if="!Ctrl.statistics[Ctrl.statistics.length-1]" class="title">-</p>
+          <p ng-if="Ctrl.statistics[Ctrl.statistics.length-1]" class="title has-text-success">{{Ctrl.statistics[Ctrl.statistics.length-1].correctAnswers}}</p>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">ตอบผิด</p>
+          <p ng-if="!Ctrl.statistics[Ctrl.statistics.length-1]" class="title">-</p>
+          <p ng-if="Ctrl.statistics[Ctrl.statistics.length-1]" class="title has-text-danger">{{Ctrl.statistics[Ctrl.statistics.length-1].wrongAnswers}}</p>
+        </div>
+      </div>
+      <div class="level-item has-text-centered">
+        <div>
+          <p class="heading">ความถูกต้อง</p>
+          <p ng-if="!Ctrl.statistics[Ctrl.statistics.length-1]" class="title">-</p>
+          <p ng-if="Ctrl.statistics[Ctrl.statistics.length-1]" class="title">{{Ctrl.statistics[Ctrl.statistics.length-1].percentage | number: 2}}%</p>
+        </div>
+      </div>
+    </nav>
   <!--<table class="table is-fullwidth">-->
     <!--<thead>-->
       <!--<tr>-->
@@ -80,9 +118,14 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
   };
 
   function clearStatistics() {
+    vm.loading = true;
     StatisticsService.clearStatistics();
+    vm.statistics = StatisticsService.getStatistics();
     drawBestChart();
     drawWrongAnswersChart();
+    $timeout(function () {
+      vm.loading = false;
+    }, 200);
   }
 
   function drawBestChart() {
@@ -151,32 +194,4 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
     });
 }
 //
-// <div class="card">
-//   <header class="card-header">
-//   <p class="card-header-title">ข้อสอบล่าสุด</p>
-//   </header>
-//   <div class=card-content">
-// <div class="content">
-//   <nav class="level is-mobile">
-//   <div class="level-item has-text-centered">
-//   <div>
-//   <p class="heading">จำนวนคำถาม</p>
-//   <p class="title">{{Ctrl.currentStatistics.totalQuestions}}</p>
-// </div>
-// </div>
-// <div class="level-item has-text-centered">
-//   <div>
-//   <p class="heading">ตอบถูก</p>
-//   <p class="title has-text-success">{{Ctrl.currentStatistics.correctAnswers}}</p>
-// </div>
-// </div>
-// <div class="level-item has-text-centered">
-//   <div>
-//   <p class="heading">ตอบผิด</p>
-//   <p class="title has-text-danger">{{Ctrl.currentStatistics.wrongAnswers}}</p>
-// </div>
-// </div>
-// </nav>
-// </div>
-// </div>
-// </div>
+

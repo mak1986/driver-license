@@ -189,7 +189,6 @@ function ContentController(_, $http, $rootScope, $state, $timeout, StatisticsSer
   function reset() {
     var path = './src/questions/' + $state.params.year + '/category-' + $state.params.categoryNumber + '.json';
 
-    console.log(path);
     vm.loading = true;
     $http.get(path)
       .then(function (res) {
@@ -206,6 +205,8 @@ function ContentController(_, $http, $rootScope, $state, $timeout, StatisticsSer
     $rootScope.$broadcast('redraw-chart', {
       category: vm.currentCategory
     });
+
+    document.getElementById('stats-wrapper').scrollIntoView();
   }
 
 }

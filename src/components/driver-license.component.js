@@ -32,7 +32,7 @@ function DriverLicenseController(_) {
         document.getElementById("sticky-sidebar-left").className = "";
       }
 
-      if (document.body.scrollTop > 1040 || document.documentElement.scrollTop > 1040) {
+      if (document.body.scrollTop > 1100 || document.documentElement.scrollTop > 1100) {
         document.getElementById("sticky-sidebar-right").className = "sticky-right";
       } else {
         document.getElementById("sticky-sidebar-right").className = "";
