@@ -52,7 +52,7 @@ angular.module("App")
         </figure>
         <ul>
           <li><strong>Bitcoin</strong></li>
-          <li>1JXJDhzvLyP3c2ZFxzmQwRppzoYMK3Pn54</li>
+          <li style="font-size:10px">1JXJDhzvLyP3c2ZFxzmQwRppzoYMK3Pn54</li>
           
           <li>
           
@@ -77,7 +77,7 @@ angular.module("App")
         </figure>
         <ul>
           <li><strong>Ethereum</strong></li>
-          <li>0x731b94f140b9d854a31d0f0d1b205fa75bbba6cb</li>
+          <li style="font-size:10px">0x731b94f140b9d854a31d0f0d1b205fa75bbba6cb</li>
           <li>
           
             <nav class="level">
