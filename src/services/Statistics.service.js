@@ -98,9 +98,10 @@ function StatisticsService(_) {
         };
       }
 
-      temp[log.question.number].label = 'ข้อ ' + log.question.number;
-      temp[log.question.number].tooltip = createCustomHTMLContent(log);
       temp[log.question.number].count++;
+      // TODO Optimize this. Currently its overriding multiple times.
+      temp[log.question.number].label = 'ข้อ ' + log.question.number;
+      temp[log.question.number].tooltip = createCustomHTMLContent(log, temp[log.question.number].count);
     });
 
     _.each(temp, function (val, key) {
@@ -118,12 +119,13 @@ function StatisticsService(_) {
     localStorage.setItem('statistics', JSON.stringify(statistics));
   }
 
-  function createCustomHTMLContent(log) {
+  function createCustomHTMLContent(log, count) {
     return '<div style="padding:5px;">' +
       '<p>ข้อ ' + log.question.number + '. ' + log.question.question + '</p>' +
-      (log.question.hasQuestionImage? '<img width="150"  src="./src/images/' +log.question.questionImage+ '"/>': '')+
+      (log.question.hasQuestionImage? '<img width="150"  src="./src/images/' +log.question.questionImage+ '"/><br>': '')+
+      '<span style="font-size: bold;color: #ff0000">ตอบผิด ' + count + ' ครั้ง</span>' +
       '<p><span style="text-decoration: underline;margin-right:5px;">ตอบ</span>' +
-      (log.answer.type === 'text'? log.answer.content : '<img width="150" src="./src/images/' +log.answer.content+'"/>')+
+      (log.answer.type === 'text'? log.answer.content : '<br><img width="150" src="./src/images/' +log.answer.content+'"/>')+
       '</p>'+
       '</div>';
   }
