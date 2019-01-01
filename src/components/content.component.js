@@ -44,6 +44,20 @@ angular.module('App')
                 เริ่มใหม่
               </a>
             </div>
+            <div class="buttons are-medium">
+              <a ng-disabled="Ctrl.minFontSize === Ctrl.currentFontSize" class="button" ng-click="Ctrl.decreaseFontSize()">
+                <span class="icon is-small mr-2">
+                  <i class="fas fa-search-minus"></i>
+                </span>
+                <span style="font-size: 13px;">ก</span>
+              </a>
+               <a ng-disabled="Ctrl.maxFontSize === Ctrl.currentFontSize" class="button" ng-click="Ctrl.increaseFontSize()">
+                <span class="icon is-small mr-2">
+                  <i class="fas fa-search-plus"></i>
+                </span> 
+                <span style="font-size: 16px;font-weight:bold;">ก</span>
+              </a>
+            </div>
             
           
            <div class="has-text-centered" ng-if="Ctrl.loading">
@@ -54,10 +68,10 @@ angular.module('App')
             <div ng-if="!Ctrl.loading">
               <div class="content">
                <h2> {{Ctrl.currentCategory.number}}. {{Ctrl.currentCategory.name}} </h2>
-              <p> {{Ctrl.currentCategory.description}} </p>
+              <p style="font-size:{{Ctrl.currentFontSize}}px;"> {{Ctrl.currentCategory.description}} </p>
             </div>
             <div class="field" ng-repeat="item in Ctrl.currentCategory.questions">
-              <label class="label">
+              <label class="label" style="font-size: {{Ctrl.currentFontSize}}px;">
                 <span ng-if="Ctrl.showQuestionNumbers">{{Ctrl.currentCategory.number}}.{{item.number}}. </span>
                 {{item.question}}
               </label>
@@ -65,7 +79,9 @@ angular.module('App')
                 <img width="300" ng-src="./src/images/{{item.questionImage}}">
               </div>
               <div class="control">
-                 <label class="radio" ng-class="{
+                 <label class="radio" 
+                 style="font-size: {{Ctrl.currentFontSize}}px;"
+                 ng-class="{
                  'has-text-weight-bold': (Ctrl.submitted || Ctrl.showAnswers) && option.correct,
                  'line-through': (Ctrl.showAnswers || Ctrl.submitted) && !option.correct,
                  'has-text-danger': Ctrl.submitted && !option.correct && item.selectedOption === option.number,
@@ -97,6 +113,7 @@ function ContentController(_, $http, $rootScope, $state, $timeout, StatisticsSer
 
   // Private fields
   var vm = this;
+  var localStorage = window.localStorage;
 
   // public properties
 
@@ -105,6 +122,8 @@ function ContentController(_, $http, $rootScope, $state, $timeout, StatisticsSer
   vm.showAnswers = false;
   vm.showQuestionNumbers = true;
   vm.submitted = false;
+  vm.minFontSize = 16;
+  vm.maxFontSize = 22;
 
   // Life cycle hooks
 
@@ -114,11 +133,28 @@ function ContentController(_, $http, $rootScope, $state, $timeout, StatisticsSer
   vm.toggleAnswers = toggleAnswers;
   vm.toggleQuestionNumbers = toggleQuestionNumbers;
   vm.reset = reset;
+  vm.increaseFontSize = function () {
+    if (vm.currentFontSize < vm.maxFontSize) {
+      vm.currentFontSize += 2;
+      localStorage.setItem('fontSize', vm.currentFontSize);
+    }
+  };
+  vm.decreaseFontSize = function () {
+    if (vm.currentFontSize > vm.minFontSize) {
+      vm.currentFontSize -= 2;
+      localStorage.setItem('fontSize', vm.currentFontSize);
+    }
+  };
   vm.submit = submit;
 
   // Life cycle hooks
 
   vm.$onInit = function () {
+    if (!localStorage.getItem('fontSize')) {
+      localStorage.setItem('fontSize', 16);
+    }
+    vm.currentFontSize = parseInt(localStorage.getItem('fontSize'));
+
     reset();
   };
 

@@ -63,7 +63,6 @@ function StatisticsService(_) {
     // percentage
     currentStatistics.percentage = (currentStatistics.correctAnswers / currentStatistics.totalQuestions) * 100;
 
-    console.log(currentStatistics);
     statistics.push(currentStatistics);
     localStorage.setItem('statistics', JSON.stringify(statistics));
   }
@@ -90,8 +89,6 @@ function StatisticsService(_) {
       ['คำถามที่ตอบผิด', 'จำนวนครั้ง']
     ];
 
-    console.log('categoryNumber', parseInt(categoryNumber), 'records', records);
-
     var temp = {};
     var flattenLogs = _.flatten(_.pluck(records, 'logs'));
     _.each(flattenLogs, function (log) {
@@ -106,13 +103,9 @@ function StatisticsService(_) {
       temp[log.number].count++;
     });
 
-    console.log('flattenLogs', flattenLogs);
-
     _.each(temp, function (val, key) {
       array.push([val.label, val.count]);
     });
-
-    console.log('array', array);
 
     return array;
   }
