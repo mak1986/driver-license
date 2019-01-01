@@ -80,7 +80,7 @@ angular.module('App')
               </div>
               <div class="control">
                  <label class="radio" 
-                 style="font-size: {{Ctrl.currentFontSize}}px;"
+                 style="font-size: {{Ctrl.currentFontSize}}px; display:block"
                  ng-class="{
                  'has-text-weight-bold': (Ctrl.submitted || Ctrl.showAnswers) && option.correct,
                  'line-through': (Ctrl.showAnswers || Ctrl.submitted) && !option.correct,
