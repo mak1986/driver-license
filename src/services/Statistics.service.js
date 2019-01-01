@@ -50,9 +50,8 @@ function StatisticsService(_) {
         // Save wrong question
         var correctAnswer = _.findWhere(question.options, {correct: true});
         currentStatistics.logs.push({
-          number: question.number,
-          question: question.question,
-          answer: correctAnswer.type === 'text' ? correctAnswer.content : 'รูปที่ ' + correctAnswer.number
+          question: question,
+          answer: correctAnswer
         });
       }
     });
@@ -86,32 +85,46 @@ function StatisticsService(_) {
   function getWrongAnswersStatistics(categoryNumber) {
     var records = _.where(statistics, {categoryNumber: parseInt(categoryNumber)});
     var array = [
-      ['คำถามที่ตอบผิด', 'จำนวนครั้ง']
+      // ['คำถามที่ตอบผิด', 'จำนวนครั้ง']
     ];
 
     var temp = {};
     var flattenLogs = _.flatten(_.pluck(records, 'logs'));
     _.each(flattenLogs, function (log) {
-      if (!temp[log.number]) {
-        temp[log.number] = {
+      if (!temp[log.question.number]) {
+        temp[log.question.number] = {
           label: '',
           count: 0
         };
       }
 
-      temp[log.number].label = log.number + '. ' + log.question + ' | ' + log.answer;
-      temp[log.number].count++;
+      temp[log.question.number].label = 'ข้อ ' + log.question.number;
+      temp[log.question.number].tooltip = createCustomHTMLContent(log);
+      temp[log.question.number].count++;
     });
 
     _.each(temp, function (val, key) {
-      array.push([val.label, val.count]);
+      array.push([
+        val.label,
+        val.count,
+        val.tooltip
+      ]);
     });
-
     return array;
   }
 
   function clearStatistics() {
     statistics = [];
     localStorage.setItem('statistics', JSON.stringify(statistics));
+  }
+
+  function createCustomHTMLContent(log) {
+    return '<div style="padding:5px;">' +
+      '<p>ข้อ ' + log.question.number + '. ' + log.question.question + '</p>' +
+      (log.question.hasQuestionImage? '<img width="150"  src="./src/images/' +log.question.questionImage+ '"/>': '')+
+      '<p><span style="text-decoration: underline;margin-right:5px;">ตอบ</span>' +
+      (log.answer.type === 'text'? log.answer.content : '<img width="150" src="./src/images/' +log.answer.content+'"/>')+
+      '</p>'+
+      '</div>';
   }
 }

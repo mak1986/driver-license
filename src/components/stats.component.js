@@ -158,7 +158,15 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
 
   function drawWrongAnswersChart() {
     var wrongAnswersStatistics = StatisticsService.getWrongAnswersStatistics($state.params.categoryNumber);
-    var data = google.visualization.arrayToDataTable(wrongAnswersStatistics);
+    var dataTable = new google.visualization.DataTable();
+
+    dataTable.addColumn('string', 'คำถามที่ตอบผิด');
+    dataTable.addColumn('number', 'จำนวนครั้ง');
+    dataTable.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}});
+
+    dataTable.addRows(wrongAnswersStatistics);
+
+    // var data = google.visualization.arrayToDataTable(wrongAnswersStatistics);
 
     var options = {
       title: 'ข้อที่ตอบผิดบ่อย (หมวดหมู่ที่ ' + $state.params.categoryNumber + ')',
@@ -167,6 +175,7 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
         fontSize: '16',
         bold: false
       },
+      tooltip: {isHtml: true},
       legend: 'none',
       pieHole: 0.4,
       chartArea: {
@@ -178,7 +187,7 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
     };
 
     var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
-    chart.draw(data, options);
+    chart.draw(dataTable, options);
   }
 
   $rootScope.$on('redraw-chart', function (event, args) {
