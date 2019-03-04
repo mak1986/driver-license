@@ -15,6 +15,7 @@ angular.module("App")
         <div class="content">
           <p class="title is-5">เว็บไขต์ที่เกี่ยวข้อง</p>
           <ul>
+            <li><a target="_blank" href="https://www.dlt.go.th">กรมการขนส่งทางบก</a></li>
             <li><a target="_blank" href="http://ebooking.dlt.go.th/ebooking/">จองคิวใบขับขี่ e-Booking</a></li>
             <li><a target="_blank" href="http://www.trafficpolice.go.th">กองบังคับการตำรวจจราจร (บก.02)</a></li>
           </ul>
