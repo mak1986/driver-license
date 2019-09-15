@@ -61,9 +61,9 @@ angular.module("App")
            <nav class="level">
               <div class="level-item has-text-centered">
                 <span class="mr-10">ซื้อ Bitcoin ได้ที่นี่</span>
-                <div style="border-radius: 10px;padding:5px;background: #134596">
-                  <a class="level-item has-text-left" target="_blank" href="https://bx.in.th/ref/dbtFv4/">
-                    <img width="50" src="./src/images/bx.svg" />
+                <div style="border-radius: 10px;padding:5px;">
+                  <a class="level-item has-text-left" target="_blank" href="https://www.bitkub.com/signup?ref=1221">
+                    <img width="80" src="./src/images/bitkub-logo.png" />
                   </a>
                 </div>
               </div>
@@ -85,9 +85,9 @@ angular.module("App")
             <nav class="level">
               <div class="level-item has-text-centered">
                 <span class="mr-10">ซื้อ Ethereum ได้ที่นี่</span>
-                <div style="border-radius: 10px;padding:5px;background: #134596">
-                  <a class="level-item has-text-left" target="_blank" href="https://bx.in.th/ref/dbtFv4/">
-                    <img width="50" src="./src/images/bx.svg" />
+                <div style="border-radius: 10px;padding:5px;">
+                  <a class="level-item has-text-left" target="_blank" href="https://www.bitkub.com/signup?ref=1221">
+                    <img width="80" src="./src/images/bitkub-logo.png" />
                   </a>
                 </div>
               </div>
