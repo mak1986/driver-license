@@ -91,7 +91,7 @@ angular.module('App')
     <div class="advertisement" style="margin-bottom: 20px;">
       <figure class="image">
         <a href="https://makadin.com" target="_blank">
-            <img style="width:100%" src="./src/images/ads/makadin.png" />
+            <img style="width:100%" src="./src/images/makadin.png" />
           </a>
       </figure>
     </div>
