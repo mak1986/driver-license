@@ -88,6 +88,13 @@ angular.module('App')
   <div id="donutchart"></div>
   
   <div id="sticky-sidebar-right">
+    <div class="advertisement" style="margin-bottom: 20px;">
+      <figure class="image">
+        <a href="https://makadin.com" target="_blank">
+            <img style="width:100%" src="./src/images/ads/makadin.png" />
+          </a>
+      </figure>
+    </div>
     <div id="advertisement">
       <p>สนใจติดต่อลงโฆษณา</p>
       <p>088-650-0936</p>
