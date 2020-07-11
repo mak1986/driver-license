@@ -103,6 +103,14 @@ angular.module("App")
       <!--{{category.number}}. {{category.name}}-->
     <!--</a>-->
   </nav>
+
+  <div class="is-hidden-tablet advertisement" style="margin-bottom: 20px;">
+    <figure class="image">
+      <a href="https://makadin.com" target="_blank">
+        <img style="width:100%" src="./src/images/makadin-small.png" />
+      </a>
+    </figure>
+  </div>
   
 </div>
  
