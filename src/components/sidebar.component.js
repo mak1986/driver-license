@@ -112,6 +112,13 @@ angular.module("App")
     </figure>
   </div>
   
+
+  <!-- BEGIN: Powered by Supercounters.com -->
+<center><script type="text/javascript" src="//widget.supercounters.com/ssl/flag.js"></script><script type="text/javascript">sc_flag(1593930,"000000","ffffff","000000",2,10,0,0)</script><br><noscript><a href="http://www.supercounters.com/">Flag Counter</a></noscript>
+</center>
+<!-- END: Powered by Supercounters.com -->
+
+
 </div>
  
   
