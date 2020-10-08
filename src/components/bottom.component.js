@@ -1,11 +1,10 @@
 /**
  * Created by mak.punyachokchai on 12/24/2018 AD.
  */
-angular.module("App")
-  .component("bottom", {
-    controller: BottomController,
-    controllerAs: 'Ctrl',
-    template: `
+angular.module('App').component('bottom', {
+  controller: BottomController,
+  controllerAs: 'Ctrl',
+  template: `
 <footer class="footer">
   <div class="container">
   
@@ -29,7 +28,7 @@ angular.module("App")
       
       <div class="column">
         <div class="content">
-          <p>
+          <p class="has-text-centered">
              สงวนลิขสิทธิ์ © 2562 <strong>ฝึกสอบใบขับขี่.com</strong>
           </p>
         </div>
@@ -40,11 +39,9 @@ angular.module("App")
 	</div>
 
 </footer>
-    `
-  });
+    `,
+});
 
 BottomController.$inject = [];
 
-function BottomController(){
-
-}
+function BottomController() {}

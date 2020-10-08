@@ -2,12 +2,10 @@
  * Created by mak.punyachokchai on 12/24/2018 AD.
  */
 
-
-angular.module('App')
-  .component('stats', {
-    controller: StatsController,
-    controllerAs: 'Ctrl',
-    template: `
+angular.module('App').component('stats', {
+  controller: StatsController,
+  controllerAs: 'Ctrl',
+  template: `
 <section id="stats-wrapper" class="section">
   <h1 class="title">สถิติ</h1>
   <hr>
@@ -95,23 +93,31 @@ angular.module('App')
           </a>
       </figure>
     </div>
+
     <div id="advertisement">
       <p>สนใจติดต่อลงโฆษณา</p>
       <p>088-650-0936</p>
     </div>
+
+    <div id="counter"></div> 
+    
   </div>
 
 </section>
-    `
-  });
+    `,
+});
 
-google.charts.load('current', {packages: ['corechart', 'bar']});
+google.charts.load('current', { packages: ['corechart', 'bar'] });
 // google.charts.setOnLoadCallback(drawRightY);
 
-StatsController.$inject = ['$rootScope', '$state', '$timeout', 'StatisticsService'];
+StatsController.$inject = [
+  '$rootScope',
+  '$state',
+  '$timeout',
+  'StatisticsService',
+];
 
 function StatsController($rootScope, $state, $timeout, StatisticsService) {
-
   var vm = this;
 
   vm.clearStatistics = clearStatistics;
@@ -122,6 +128,10 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
       drawBestChart();
       drawWrongAnswersChart();
     }, 3500);
+
+    var element = document.getElementById('temp-counter');
+    element.style.display = 'block';
+    document.getElementById('counter').appendChild(element);
   };
 
   function clearStatistics() {
@@ -142,58 +152,65 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
     var materialOptions = {
       chart: {
         title: 'สถิติจากการทำข้อสอบของแต่ละหมวดหมู่',
-        subtitle: 'อ้างอิงจากข้อสอบที่เคยตอบถูกมากที่สุด'
+        subtitle: 'อ้างอิงจากข้อสอบที่เคยตอบถูกมากที่สุด',
       },
       hAxis: {
         title: 'Total Population',
-        minValue: 0
+        minValue: 0,
       },
       vAxis: {
-        title: 'City'
+        title: 'City',
       },
       bars: 'horizontal',
       colors: ['#23d160', '#ff3860'],
       axes: {
         y: {
-          0: {side: 'left'}
-        }
-      }
+          0: { side: 'left' },
+        },
+      },
     };
-    var materialChart = new google.charts.Bar(document.getElementById('chart_div'));
+    var materialChart = new google.charts.Bar(
+      document.getElementById('chart_div')
+    );
     materialChart.draw(data, materialOptions);
   }
 
   function drawWrongAnswersChart() {
-    var wrongAnswersStatistics = StatisticsService.getWrongAnswersStatistics($state.params.categoryNumber);
+    var wrongAnswersStatistics = StatisticsService.getWrongAnswersStatistics(
+      $state.params.categoryNumber
+    );
     var dataTable = new google.visualization.DataTable();
 
     dataTable.addColumn('string', 'คำถามที่ตอบผิด');
     dataTable.addColumn('number', 'จำนวนครั้ง');
-    dataTable.addColumn({'type': 'string', 'role': 'tooltip', 'p': {'html': true}});
+    dataTable.addColumn({ type: 'string', role: 'tooltip', p: { html: true } });
 
     dataTable.addRows(wrongAnswersStatistics);
 
     // var data = google.visualization.arrayToDataTable(wrongAnswersStatistics);
 
     var options = {
-      title: 'ข้อที่ตอบผิดบ่อย (หมวดหมู่ที่ ' + $state.params.categoryNumber + ')',
+      title:
+        'ข้อที่ตอบผิดบ่อย (หมวดหมู่ที่ ' + $state.params.categoryNumber + ')',
       titleTextStyle: {
         color: '#777',
         fontSize: '16',
-        bold: false
+        bold: false,
       },
-      tooltip: {isHtml: true},
+      tooltip: { isHtml: true },
       legend: 'none',
       pieHole: 0.4,
       chartArea: {
         left: 0,
         top: '20px',
         width: '100%',
-        height: '75%'
-      }
+        height: '75%',
+      },
     };
 
-    var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
+    var chart = new google.visualization.PieChart(
+      document.getElementById('donutchart')
+    );
     chart.draw(dataTable, options);
   }
 
@@ -203,11 +220,9 @@ function StatsController($rootScope, $state, $timeout, StatisticsService) {
     drawWrongAnswersChart();
   });
 
-  $rootScope.$on('$viewContentLoaded',
-    function (event) {
-      // drawBestChart();
-      drawWrongAnswersChart();
-    });
+  $rootScope.$on('$viewContentLoaded', function (event) {
+    // drawBestChart();
+    drawWrongAnswersChart();
+  });
 }
 //
-

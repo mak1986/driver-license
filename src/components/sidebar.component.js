@@ -2,11 +2,10 @@
  * Created by mak.punyachokchai on 12/24/2018 AD.
  */
 
-angular.module("App")
-  .component("sidebar", {
-    controller: SidebarController,
-    controllerAs: 'Ctrl',
-    template: `
+angular.module('App').component('sidebar', {
+  controller: SidebarController,
+  controllerAs: 'Ctrl',
+  template: `
 <div class="section">
   <nav class="panel">
     <p class="panel-heading">
@@ -26,7 +25,12 @@ angular.module("App")
     </a>
   </nav>
   
-  <div style="margin-bottom: 30px;" class="fb-page" data-href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160">ฝึกสอบใบขับขี่</a></blockquote></div>
+  <div class="columns">
+    <div class="column">
+    <div style="margin-bottom: 30px;" class="fb-page" data-href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/&#xe1d;&#xe36;&#xe01;&#xe2a;&#xe2d;&#xe1a;&#xe43;&#xe1a;&#xe02;&#xe31;&#xe1a;&#xe02;&#xe35;&#xe48;-358648941394160">ฝึกสอบใบขับขี่</a></blockquote></div>
+    </div>
+
+  </div>
   
   <div id="sticky-sidebar-left">
   
@@ -111,12 +115,6 @@ angular.module("App")
       </a>
     </figure>
   </div>
-  
-
-  <!-- BEGIN: Powered by Supercounters.com -->
-<center><script type="text/javascript" src="//widget.supercounters.com/ssl/flag.js"></script><script type="text/javascript">sc_flag(1593930,"000000","ffffff","000000",2,10,0,0)</script><br><noscript><a href="http://www.supercounters.com/">Flag Counter</a></noscript>
-</center>
-<!-- END: Powered by Supercounters.com -->
 
 
 </div>
@@ -127,22 +125,21 @@ angular.module("App")
 
   
    
-    `
-  });
+    `,
+});
 
-SidebarController.$inject = ['$http', '$state'];
+SidebarController.$inject = ['$http', '$state', '$timeout'];
 
-function SidebarController($http, $state){
-
+function SidebarController($http, $state, $timeout) {
   var vm = this;
 
   vm.params = $state.params;
 
-  vm.$onInit= function(){
-
-    $http.get('./src/questions/' + vm.params.year + '/category-index.json')
+  vm.$onInit = function () {
+    $http
+      .get('./src/questions/' + vm.params.year + '/category-index.json')
       .then(function (res) {
         vm.categories = res.data;
       });
-  }
+  };
 }
