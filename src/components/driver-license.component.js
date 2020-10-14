@@ -1,11 +1,10 @@
 /**
  * Created by mak.punyachokchai on 12/28/2018 AD.
  */
-angular.module('App')
-  .component('driverLicense', {
-    controller: DriverLicenseController,
-    controllerAs: 'Ctrl',
-    template: `
+angular.module('App').component('driverLicense', {
+  controller: DriverLicenseController,
+  controllerAs: 'Ctrl',
+  template: `
       <div class="columns main" id="main-content">
           <sidebar class="column is-3"></sidebar>
           <div class="column">
@@ -14,32 +13,31 @@ angular.module('App')
           </div>
           <stats class="column is-4"></stats>
       </div>
-    `
-  });
+    `,
+});
 
 DriverLicenseController.$inject = ['_'];
 
 function DriverLicenseController(_) {
-
   // Private fields
   var vm = this;
 
   vm.$onInit = function () {
-
-    window.onscroll = function() {myFunction()};
+    window.onscroll = function () {
+      myFunction();
+    };
 
     function myFunction() {
-      if (document.body.scrollTop > 930 || document.documentElement.scrollTop > 930) {
-        document.getElementById("sticky-sidebar-left").className = "sticky-left";
-      } else {
-        document.getElementById("sticky-sidebar-left").className = "";
-      }
-
-      if (document.body.scrollTop > 1100 || document.documentElement.scrollTop > 1100) {
-        document.getElementById("sticky-sidebar-right").className = "sticky-right";
-      } else {
-        document.getElementById("sticky-sidebar-right").className = "";
-      }
+      // if (document.body.scrollTop > 930 || document.documentElement.scrollTop > 930) {
+      //   document.getElementById("sticky-sidebar-left").className = "sticky-left";
+      // } else {
+      //   document.getElementById("sticky-sidebar-left").className = "";
+      // }
+      // if (document.body.scrollTop > 1100 || document.documentElement.scrollTop > 1100) {
+      //   document.getElementById("sticky-sidebar-right").className = "sticky-right";
+      // } else {
+      //   document.getElementById("sticky-sidebar-right").className = "";
+      // }
     }
 
     //   for(var i = 0; i < results.length; i++){
@@ -62,5 +60,4 @@ function DriverLicenseController(_) {
   // Public method mappings
 
   // Public methods
-
 }

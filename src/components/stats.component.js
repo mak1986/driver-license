@@ -85,7 +85,7 @@ angular.module('App').component('stats', {
 
   <div id="donutchart"></div>
   
-  <div id="sticky-sidebar-right">
+  <div>
     <div class="advertisement" style="margin-bottom: 20px;">
       <figure class="image">
         <a href="https://makadin.com" target="_blank">

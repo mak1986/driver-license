@@ -32,7 +32,7 @@ angular.module('App').component('sidebar', {
 
   </div>
   
-  <div id="sticky-sidebar-left">
+  <div>
   
    <nav class="panel" >
     <p class="panel-heading">
